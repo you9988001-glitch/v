@@ -15,6 +15,10 @@ import {
   getInstrument,
 } from "@/lib/voice/data";
 import { PAYMENT_ENV } from "@/lib/payment-env";
+import {
+  paywallAuthHint,
+  paywallShowRetry,
+} from "@/lib/paywall-auth-hint";
 import { Overlay, InstrumentArt } from "./pieces";
 import {
   Button,
@@ -35,9 +39,28 @@ function VoicePaywall() {
     isUnlocked,
     refreshUnlockStatus,
   } = useVoice();
-  const { sdk, isAuthenticated, hasError } = usePiAuth();
+  const {
+    sdk,
+    products,
+    isAuthenticated,
+    hasError,
+    authMessage,
+    reinitialize,
+  } = usePiAuth();
   const [busy, setBusy] = useState(false);
   const [checkTimedOut, setCheckTimedOut] = useState(false);
+  const productsLoaded = products !== null;
+  const authHint = paywallAuthHint({
+    isAuthenticated,
+    hasError,
+    authMessage,
+    productsLoaded,
+  });
+  const showAuthRetry = paywallShowRetry({
+    isAuthenticated,
+    hasError,
+    productsLoaded,
+  });
 
   useEffect(() => {
     void refreshUnlockStatus();
@@ -108,16 +131,14 @@ function VoicePaywall() {
           <>
             <div className="mt-5 rounded-2xl border border-[color:var(--v-line)] bg-black/25 px-4 py-3">
               {!isAuthenticated ? (
-                <p className="text-sm text-[color:var(--v-string)]">
-                  {PAYMENT_ENV.signInHint}
-                </p>
+                <p className="text-sm text-[color:var(--v-string)]">{authHint}</p>
               ) : productCatalogIssue ? (
                 <p className="text-sm text-[color:var(--v-string)]">
                   {productCatalogIssue}
                 </p>
               ) : productPrice === null ? (
                 <p className="text-sm text-[color:var(--v-string)]">
-                  {PAYMENT_ENV.loadingProduct}
+                  {PAYMENT_ENV.noUnlockProduct}
                 </p>
               ) : (
                 <>
@@ -131,18 +152,29 @@ function VoicePaywall() {
               )}
             </div>
 
-            <Button
-              onClick={handlePay}
-              variant="primary"
-              className="mt-5 w-full py-3.5"
-              disabled={productPrice === null || !sdk || busy}
-            >
-              {busy
-                ? PAYMENT_ENV.busyLabel
-                : productPrice === null
-                  ? PAYMENT_ENV.unavailable
-                  : PAYMENT_ENV.buttonLabel(productPrice)}
-            </Button>
+            {showAuthRetry ? (
+              <Button
+                onClick={() => void reinitialize()}
+                variant="primary"
+                className="mt-5 w-full py-3.5"
+                disabled={busy}
+              >
+                Try Pi login again
+              </Button>
+            ) : (
+              <Button
+                onClick={handlePay}
+                variant="primary"
+                className="mt-5 w-full py-3.5"
+                disabled={productPrice === null || !sdk || busy}
+              >
+                {busy
+                  ? PAYMENT_ENV.busyLabel
+                  : productPrice === null
+                    ? PAYMENT_ENV.unavailable
+                    : PAYMENT_ENV.buttonLabel(productPrice)}
+              </Button>
+            )}
             <p className="mt-3 text-center text-[0.75rem] leading-relaxed text-[color:var(--v-faint)]">
               {PAYMENT_ENV.footer}
             </p>

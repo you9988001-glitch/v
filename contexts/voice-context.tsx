@@ -44,6 +44,7 @@ import {
   UNLOCK_FALLBACK,
 } from "@/lib/voice/unlock-gate";
 import { PAYMENT_ENV, catalogPriceMatchesUnlock } from "@/lib/payment-env";
+import { resolveUnlockProduct } from "@/lib/resolve-unlock-product";
 import {
   patchVoiceUiResume,
   readVoiceUiResume,
@@ -396,7 +397,7 @@ export function VoiceProvider({ children }: { children: ReactNode }) {
   }, []);
 
   const unlockProduct = useMemo(
-    () => products?.find((p) => p.id === VOICE_UNLOCK_PRODUCT_ID) ?? null,
+    () => resolveUnlockProduct(products, VOICE_UNLOCK_PRODUCT_ID),
     [products],
   );
 
