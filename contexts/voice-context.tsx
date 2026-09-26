@@ -43,6 +43,7 @@ import {
   TEST_PI_PRICE,
   UNLOCK_FALLBACK,
 } from "@/lib/voice/unlock-gate";
+import { PAYMENT_ENV, catalogPriceMatchesUnlock } from "@/lib/payment-env";
 import {
   patchVoiceUiResume,
   readVoiceUiResume,
@@ -92,6 +93,8 @@ interface VoiceContextValue {
   openInstrument: (id: string) => void;
   closeInstrument: () => void;
   productPrice: number | null;
+  /** Set when Portal catalog price ≠ 3.141 π — checkout blocked. */
+  productCatalogIssue: string | null;
   /** True only after purchase balances have been restored (or failed empty). */
   purchasesReady: boolean;
   isUnlocked: boolean;
@@ -505,6 +508,10 @@ export function VoiceProvider({ children }: { children: ReactNode }) {
       toast("Voice3141 is not available right now.");
       return null;
     }
+    if (!catalogPriceMatchesUnlock(unlockProduct.price_in_pi)) {
+      toast(PAYMENT_ENV.catalogPriceMismatch(unlockProduct.price_in_pi));
+      return null;
+    }
 
     try {
       const result = await sdk.makePurchase(unlockProduct.slug);
@@ -568,7 +575,16 @@ export function VoiceProvider({ children }: { children: ReactNode }) {
     }
   }, [localDeed?.productId, localDeed?.productSlug, refreshPurchases, sdk, toast, unlockProduct]);
 
-  const productPrice = unlockProduct ? TEST_PI_PRICE : null;
+  const productCatalogIssue = useMemo(() => {
+    if (!unlockProduct) return null;
+    if (!catalogPriceMatchesUnlock(unlockProduct.price_in_pi)) {
+      return PAYMENT_ENV.catalogPriceMismatch(unlockProduct.price_in_pi);
+    }
+    return null;
+  }, [unlockProduct]);
+
+  const productPrice =
+    unlockProduct && !productCatalogIssue ? TEST_PI_PRICE : null;
 
   const favoriteInstruments = useMemo(
     () =>
@@ -609,6 +625,7 @@ export function VoiceProvider({ children }: { children: ReactNode }) {
     openInstrument,
     closeInstrument,
     productPrice,
+    productCatalogIssue,
     purchasesReady,
     isUnlocked,
     purchaseUnlock,

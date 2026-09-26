@@ -29,6 +29,7 @@ import {
 function VoicePaywall() {
   const {
     productPrice,
+    productCatalogIssue,
     purchaseUnlock,
     purchasesReady,
     isUnlocked,
@@ -109,6 +110,10 @@ function VoicePaywall() {
               {!isAuthenticated ? (
                 <p className="text-sm text-[color:var(--v-string)]">
                   {PAYMENT_ENV.signInHint}
+                </p>
+              ) : productCatalogIssue ? (
+                <p className="text-sm text-[color:var(--v-string)]">
+                  {productCatalogIssue}
                 </p>
               ) : productPrice === null ? (
                 <p className="text-sm text-[color:var(--v-string)]">
