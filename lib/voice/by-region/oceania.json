@@ -1,0 +1,7112 @@
+[
+  {
+    "id": "didgeridoo",
+    "name": "Didgeridoo",
+    "latin": "Didgeridoo",
+    "origin": "Australia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "Circular breath for an endless earth-drone.",
+    "countryCode": "AU",
+    "technique": "blown",
+    "materials": "hollowed eucalyptus wood",
+    "classification": {
+      "code": "423.121.11",
+      "gloss": "end-blown trumpets"
+    },
+    "relatedInstruments": [
+      "yidaki-yolngu-au",
+      "yidaki",
+      "mago-bininj-au",
+      "mago-au"
+    ],
+    "ensemblePairing": [
+      "music-boomerang",
+      "ukulele-ws",
+      "clapsticks-au"
+    ],
+    "relatedInstruments2": [
+      "putorino",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "lali",
+    "name": "Lali",
+    "latin": "Lali",
+    "origin": "Fiji",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A carved wooden slit-drum whose deep call once summoned villages to gather.",
+    "countryCode": "FJ",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.244",
+      "gloss": "directly struck idiophone"
+    },
+    "relatedInstruments": [
+      "lali-ni-vanua",
+      "derua-fj",
+      "sambula-fj",
+      "meke-ipu-fj"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "uculele-fj2",
+      "derua-fj2"
+    ],
+    "relatedInstruments2": [
+      "lali-to",
+      "lali-ws",
+      "lali-wf"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "putorino",
+    "name": "Pūtōrino",
+    "latin": "Pūtōrino",
+    "origin": "New Zealand",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A Māori flute-trumpet carved with a voice-like inner chamber, said to speak like a person.",
+    "countryCode": "NZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "putatara-maori-nz",
+      "putatara",
+      "purerehua",
+      "pukaea-maori-nz"
+    ],
+    "ensemblePairing": [
+      "porotiti-nz",
+      "ukulele-ws",
+      "porotiti-maori-nz"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "patepacific",
+    "name": "Pate",
+    "latin": "Pate",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Hollowed log drums carrying news across islands.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.243",
+      "gloss": "vessel rattles struck"
+    },
+    "relatedInstruments": [
+      "toere-tahiti-pf",
+      "toere-pf2",
+      "toere-pf",
+      "toere"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "pate-taki",
+      "pate-tv",
+      "pate-nr"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "garamut",
+    "name": "Garamut",
+    "latin": "Garamut",
+    "origin": "Papua New Guinea",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A hollowed log slit-drum, its struck tones once relayed messages across the valley.",
+    "countryCode": "PG",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.243",
+      "gloss": "vessel rattles struck"
+    },
+    "relatedInstruments": [
+      "tifa-pg",
+      "pagolo",
+      "kundu-already",
+      "kundu"
+    ],
+    "ensemblePairing": [
+      "susap",
+      "ukulele-ws",
+      "yidaki-yolngu-au"
+    ],
+    "relatedInstruments2": [
+      "slit-drum-sb",
+      "lali",
+      "patepacific"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "jaw-harp-ws",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "panpipes-solomon",
+    "name": "'Are'are Panpipes",
+    "latin": "'Are'are Panpipes",
+    "origin": "Solomon Islands",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "Bamboo panpipe ensembles layering interlocking melodies into dense harmonic clouds.",
+    "countryCode": "SB",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "susu-sb",
+      "panpipe-sb",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "ensemblePairing": [
+      "slit-drum-sb",
+      "ukulele-ws",
+      "kundu-sb"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "nafa",
+    "name": "Nafa",
+    "latin": "Nafa",
+    "origin": "Tonga",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A large skin-headed drum whose steady beat anchors ceremonial dance.",
+    "countryCode": "TO",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "nafa-to3",
+      "lali-to",
+      "nafa-wf",
+      "nafa-nu"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-to",
+      "pū-to"
+    ],
+    "relatedInstruments2": [
+      "nafa-nu",
+      "nafa-wf",
+      "nafa-as"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "tamtam-vanuatu",
+    "name": "Tamtam",
+    "latin": "Tamtam",
+    "origin": "Vanuatu",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Towering slit-drums carved with ancestral faces, struck to speak between the living and the dead.",
+    "countryCode": "VU",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tamtam-vu",
+      "navele",
+      "budel",
+      "atingting"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "tamatangi"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "pahu-ra",
+    "name": "Pahu rā",
+    "latin": "Pahu ra",
+    "origin": "Cook Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A double-skin bass drum of Cook Islands dance ensembles.",
+    "countryCode": "CK",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tokere-tangarongaro",
+      "tokere",
+      "pate-taki-already",
+      "pate-ck-already"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ck",
+      "vivo-ck"
+    ],
+    "relatedInstruments2": [
+      "pahu-hawaii",
+      "pahu-pf",
+      "lali"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "tokere",
+    "name": "Tokere",
+    "latin": "Tokere",
+    "origin": "Cook Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A Cook Islands slit drum of dance percussion groups.",
+    "countryCode": "CK",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tokere-tangarongaro",
+      "pate-taki-already",
+      "pate-ck-already",
+      "pahu-ra"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ck",
+      "vivo-ck"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "fangufangu",
+    "name": "Fangufangu",
+    "latin": "Fangufangu",
+    "origin": "Tonga",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A Tongan bamboo nose flute.",
+    "countryCode": "TO",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "421.12",
+      "gloss": "side-blown flutes"
+    },
+    "relatedInstruments": [
+      "pū-to",
+      "mimiha",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "ensemblePairing": [
+      "nafa-to3",
+      "ukulele-to",
+      "nafa"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "logo-samoa",
+    "name": "Logo",
+    "latin": "Logo",
+    "origin": "Samoa",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A Samoan wooden slit gong used for signaling and dance.",
+    "countryCode": "WS",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ofe",
+      "lali-ws",
+      "fala",
+      "logo-as2"
+    ],
+    "ensemblePairing": [
+      "jaw-harp-ws",
+      "ukulele-ws",
+      "pu-samoa"
+    ],
+    "relatedInstruments2": [
+      "logo-as2",
+      "lali",
+      "patepacific"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "fala",
+    "name": "Fala",
+    "latin": "Fala",
+    "origin": "Samoa",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Rolled mats struck as percussion in Samoan dance accompaniment.",
+    "countryCode": "WS",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ofe",
+      "logo-samoa",
+      "lali-ws",
+      "fala-tv"
+    ],
+    "ensemblePairing": [
+      "jaw-harp-ws",
+      "ukulele-ws",
+      "pu-samoa"
+    ],
+    "relatedInstruments2": [
+      "fala-as",
+      "fala-tv",
+      "lali"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "pu-samoa",
+    "name": "Pu",
+    "latin": "Pu",
+    "origin": "Samoa",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A Samoan conch trumpet of ceremony and call.",
+    "countryCode": "WS",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf",
+      "vivo-ck"
+    ],
+    "ensemblePairing": [
+      "ofe",
+      "ukulele-ws",
+      "logo-samoa"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "atingting",
+    "name": "Atingting",
+    "latin": "Atingting",
+    "origin": "Vanuatu",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Tall standing slit drums of northern Vanuatu ceremonial grounds.",
+    "countryCode": "VU",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tamtam-vu",
+      "tamtam-vanuatu",
+      "navele",
+      "budel"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "tamatangi"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "navele",
+    "name": "Navele",
+    "latin": "Navele",
+    "origin": "Vanuatu",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Hand drums used in Vanuatu dance and ritual contexts.",
+    "countryCode": "VU",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tamtam-vu",
+      "tamtam-vanuatu",
+      "budel",
+      "atingting"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "tamatangi"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "faatete",
+    "name": "Fa'atete",
+    "latin": "Faatete",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A high-pitched Tahitian drum of dance ensembles.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "toere-tahiti-pf",
+      "toere-pf2",
+      "toere-pf",
+      "toere"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "garamut",
+      "nafa"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ihiihi",
+    "name": "Ihiihi",
+    "latin": "Ihiihi",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Small handheld drums used in Tahitian dance percussion.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "toere-tahiti-pf",
+      "toere-pf2",
+      "toere-pf",
+      "toere"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "garamut",
+      "nafa"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "kundu",
+    "name": "Kundu",
+    "latin": "Kundu",
+    "origin": "Papua New Guinea",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "An hourglass hand drum emblematic of Papua New Guinea ceremonial music.",
+    "countryCode": "PG",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "211.241.1",
+      "gloss": "single-skin hourglass drums"
+    },
+    "relatedInstruments": [
+      "tifa-pg",
+      "pagolo",
+      "kundu-already",
+      "garamut"
+    ],
+    "ensemblePairing": [
+      "susap",
+      "ukulele-ws",
+      "yidaki-yolngu-au"
+    ],
+    "relatedInstruments2": [
+      "kundu-sb",
+      "lali",
+      "patepacific"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "jaw-harp-ws",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "adiril",
+    "name": "Adiril",
+    "latin": "Adiril",
+    "origin": "Papua New Guinea",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A bamboo stamping tube of East New Britain dance accompaniment.",
+    "countryCode": "PG",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tifa-pg",
+      "pagolo",
+      "kundu-already",
+      "kundu"
+    ],
+    "ensemblePairing": [
+      "susap",
+      "ukulele-ws",
+      "yidaki-yolngu-au"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "nafa"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "jaw-harp-ws",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "bilma",
+    "name": "Bilma",
+    "latin": "Bilma",
+    "origin": "Australia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Yolngu clapsticks used with manikay song traditions.",
+    "countryCode": "AU",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "bilma-yolngu-au",
+      "music-boomerang",
+      "clapsticks-au",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "yidaki-yolngu-au"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ororuarangi",
+    "name": "Ororuarangi",
+    "latin": "Ororuarangi",
+    "origin": "New Zealand",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A long Māori flute made from a gourd neck or bone, with two closely spaced finger holes.",
+    "countryCode": "NZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "putorino",
+      "putatara-maori-nz",
+      "putatara",
+      "purerehua"
+    ],
+    "ensemblePairing": [
+      "porotiti-nz",
+      "ukulele-ws",
+      "porotiti-maori-nz"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "pakuru",
+    "name": "Pākuru",
+    "latin": "Pakuru",
+    "origin": "New Zealand",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Māori rhythm sticks used to accompany waiata.",
+    "countryCode": "NZ",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "porotiti-nz",
+      "porotiti-maori-nz",
+      "uliuli-us",
+      "uliuli"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "putorino"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "purerehua",
+    "name": "Pūrerehua",
+    "latin": "Purerehua",
+    "origin": "New Zealand",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A Māori bullroarer used in ritual and performance.",
+    "countryCode": "NZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "putorino",
+      "putatara-maori-nz",
+      "putatara",
+      "pukaea-maori-nz"
+    ],
+    "ensemblePairing": [
+      "porotiti-nz",
+      "ukulele-ws",
+      "porotiti-maori-nz"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "derua",
+    "name": "Derua",
+    "latin": "Derua",
+    "origin": "Fiji",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Bamboo stamping tubes of Fijian dance accompaniment.",
+    "countryCode": "FJ",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "sambula-fj",
+      "meke-ipu-fj",
+      "lali-ni-vanua",
+      "lali"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "uculele-fj2",
+      "derua-fj2"
+    ],
+    "relatedInstruments2": [
+      "patepacific",
+      "garamut",
+      "nafa"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "pahu-hawaii",
+    "name": "Pahu",
+    "latin": "Pahu",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A sharkskin temple and hula drum of Hawaiian tradition.",
+    "countryCode": "US",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pahu-hula-us",
+      "uliuli-us",
+      "uliuli",
+      "puniu"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele",
+      "ohe-hano-ihu-us"
+    ],
+    "relatedInstruments2": [
+      "pahu-ra",
+      "pahu-pf",
+      "lali"
+    ],
+    "ensemblePairing2": [
+      "ondesmartenot",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ipu",
+    "name": "Ipu",
+    "latin": "Ipu",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A gourd drum of Hawaiian hula accompaniment.",
+    "countryCode": "US",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ipu-heke-us",
+      "ipu-heke-ili-us",
+      "ipu-hawaii-us",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele",
+      "ohe-hano-ihu-us"
+    ],
+    "relatedInstruments2": [
+      "meke-ipu-fj",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "ondesmartenot",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ohe-hano-ihu",
+    "name": "ʻOhe hano ihu",
+    "latin": "Ohe hano ihu",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A Hawaiian bamboo nose flute.",
+    "countryCode": "US",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ohe-hano-ihu-us",
+      "nose-flute-hi-already",
+      "conch-hi",
+      "yidaki-yolngu-au"
+    ],
+    "ensemblePairing": [
+      "uliuli-us",
+      "ukulele",
+      "uliuli"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "belembaotuyan",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "puniu",
+    "name": "Pūniu",
+    "latin": "Puniu",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A small knee drum of Hawaiian hula accompaniment.",
+    "countryCode": "US",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "uliuli-us",
+      "uliuli",
+      "puili-hula-us",
+      "pahu-hula-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele",
+      "ohe-hano-ihu-us"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "ondesmartenot",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "uliuli",
+    "name": "ʻUlīʻulī",
+    "latin": "ʻUlīʻulī",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A feathered gourd rattle of Hawaiian hula.",
+    "countryCode": "US",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "uliuli-us",
+      "puniu",
+      "puili-hula-us",
+      "pahu-hula-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele",
+      "ohe-hano-ihu-us"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "ondesmartenot",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "kaekeeke",
+    "name": "Kāʻekeʻeke",
+    "latin": "Kaekeeke",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Bamboo stamping pipes of Hawaiian tradition.",
+    "countryCode": "US",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "uliuli-us",
+      "uliuli",
+      "puniu",
+      "puili-hula-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele",
+      "ohe-hano-ihu-us"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "ondesmartenot",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "toere",
+    "name": "Tōʻere",
+    "latin": "Toere",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A wooden slit drum of Tahitian dance percussion.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "toere-pf2",
+      "toere-tahiti-pf",
+      "toere-pf",
+      "patepacific"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "garamut",
+      "nafa"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "pahu-pf",
+    "name": "Pahu (Tahitian)",
+    "latin": "Pahu (Tahitian)",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A bass drum of Tahitian dance ensembles.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pahu-tupa-i-rutu-pf",
+      "pahu-pf2",
+      "pahu-nui-tahiti-pf",
+      "pahu-nui-pf"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "pahu-ra",
+      "pahu-hawaii",
+      "lali"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "vivo",
+    "name": "Vivo",
+    "latin": "Vivo",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A bamboo nose flute of Tahitian tradition.",
+    "countryCode": "PF",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "vivo-tahiti-pf",
+      "vivo-ck",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "ensemblePairing": [
+      "toere-tahiti-pf",
+      "ukulele-ws",
+      "toere-pf2"
+    ],
+    "relatedInstruments2": [
+      "vivo-ck",
+      "didgeridoo",
+      "putorino"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "garamut"
+    ]
+  },
+  {
+    "id": "lali-to",
+    "name": "Lali (Tongan)",
+    "latin": "Lali",
+    "origin": "Tonga",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A Tongan slit drum of ceremony and call.",
+    "countryCode": "TO",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.244",
+      "gloss": "directly struck idiophone"
+    },
+    "relatedInstruments": [
+      "nafa-to3",
+      "nafa",
+      "lali-ws",
+      "lali-wf"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-to",
+      "pū-to"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "lali-ws",
+      "lali-wf"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "lali-ws",
+    "name": "Lali (Samoan)",
+    "latin": "Lali",
+    "origin": "Samoa",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Medium Samoan slit drums, typically played in pairs.",
+    "countryCode": "WS",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.244",
+      "gloss": "directly struck idiophone"
+    },
+    "relatedInstruments": [
+      "ofe",
+      "logo-samoa",
+      "fala",
+      "pate-as"
+    ],
+    "ensemblePairing": [
+      "jaw-harp-ws",
+      "ukulele-ws",
+      "pu-samoa"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "lali-to",
+      "lali-wf"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "utete-as",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "yidaki",
+    "name": "Yidaki",
+    "latin": "Yidaki",
+    "origin": "Australia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "The Yolngu name for the didgeridoo of Arnhem Land.",
+    "countryCode": "AU",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "yidaki-yolngu-au",
+      "mago-bininj-au",
+      "mago-au",
+      "gumleaf"
+    ],
+    "ensemblePairing": [
+      "music-boomerang",
+      "ukulele-ws",
+      "clapsticks-au"
+    ],
+    "relatedInstruments2": [
+      "putorino",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "gumleaf",
+    "name": "Gumleaf",
+    "latin": "Gumleaf",
+    "origin": "Australia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A leaf aerophone of Aboriginal Australian music-making.",
+    "countryCode": "AU",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "yidaki-yolngu-au",
+      "yidaki",
+      "mago-bininj-au",
+      "mago-au"
+    ],
+    "ensemblePairing": [
+      "music-boomerang",
+      "ukulele-ws",
+      "clapsticks-au"
+    ],
+    "relatedInstruments2": [
+      "putorino",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "bullroarer-au",
+    "name": "Bullroarer (Australian)",
+    "latin": "Bullroarer",
+    "origin": "Australia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A whirled aerophone of Aboriginal Australian ritual and signaling.",
+    "countryCode": "AU",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "412.22",
+      "gloss": "interruptive free aerophones / free reeds"
+    },
+    "relatedInstruments": [
+      "conch-au",
+      "yidaki-yolngu-au",
+      "yidaki",
+      "mago-bininj-au"
+    ],
+    "ensemblePairing": [
+      "music-boomerang",
+      "ukulele-ws",
+      "clapsticks-au"
+    ],
+    "relatedInstruments2": [
+      "putorino",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "davui",
+    "name": "Davui",
+    "latin": "Davui",
+    "origin": "Fiji",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A Fijian conch trumpet of ceremony and call.",
+    "countryCode": "FJ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "derua-fj2",
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf"
+    ],
+    "ensemblePairing": [
+      "sambula-fj",
+      "uculele-fj2",
+      "meke-ipu-fj"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "patepacific",
+      "ukulele",
+      "garamut"
+    ]
+  },
+  {
+    "id": "derua-fj2",
+    "name": "Bitu",
+    "latin": "Bitu",
+    "origin": "Fiji",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "Nose flutes of Fijian traditional practice.",
+    "countryCode": "FJ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "davui",
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf"
+    ],
+    "ensemblePairing": [
+      "sambula-fj",
+      "uculele-fj2",
+      "meke-ipu-fj"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "patepacific",
+      "ukulele",
+      "garamut"
+    ]
+  },
+  {
+    "id": "pate-taki",
+    "name": "Pate taki",
+    "latin": "Pate taki",
+    "origin": "Cook Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "The largest slit-drum voice in Cook Islands tini ka'ara ensembles.",
+    "countryCode": "CK",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pate-taki-already",
+      "tokere-tangarongaro",
+      "tokere",
+      "pate-ck-already"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ck",
+      "vivo-ck"
+    ],
+    "relatedInstruments2": [
+      "pate-tk2",
+      "pate-tv2",
+      "patepacific"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "tamatangi",
+    "name": "Tamatangi",
+    "latin": "Tamatangi",
+    "origin": "Vanuatu",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "Panpipes of Vanuatu traditional music.",
+    "countryCode": "VU",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "panpipe-vu",
+      "conch-vu",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "ensemblePairing": [
+      "tamtam-vu",
+      "ukulele-ws",
+      "tamtam-vanuatu"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "tamtam-vu",
+    "name": "Tam-tam (Vanuatu)",
+    "latin": "Tam-tam",
+    "origin": "Vanuatu",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Standing slit drums of Vanuatu ceremonial grounds.",
+    "countryCode": "VU",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.241.1",
+      "gloss": "individual gongs"
+    },
+    "relatedInstruments": [
+      "tamtam-vanuatu",
+      "navele",
+      "budel",
+      "atingting"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "conch-vu"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "mimiha",
+    "name": "Mimiha",
+    "latin": "Mimiha",
+    "origin": "Tonga",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "Panpipes of Tongan traditional music.",
+    "countryCode": "TO",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pū-to",
+      "fangufangu",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "ensemblePairing": [
+      "nafa-to3",
+      "ukulele-to",
+      "nafa"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "pū-to",
+    "name": "Pū (Tongan)",
+    "latin": "Pu",
+    "origin": "Tonga",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A Tongan conch trumpet of ceremony and call.",
+    "countryCode": "TO",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "mimiha",
+      "fangufangu",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "ensemblePairing": [
+      "lali-to",
+      "ukulele-to",
+      "nafa-to3"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "kundu-already",
+    "name": "Kwangu",
+    "latin": "Kwangu",
+    "origin": "Papua New Guinea",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "An Iatmul hourglass drum of Middle Sepik ceremonial music.",
+    "countryCode": "PG",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tifa-pg",
+      "pagolo",
+      "kundu",
+      "garamut"
+    ],
+    "ensemblePairing": [
+      "susap",
+      "ukulele-ws",
+      "yidaki-yolngu-au"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "nafa"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "jaw-harp-ws",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "susap",
+    "name": "Susap",
+    "latin": "Susap",
+    "origin": "Papua New Guinea",
+    "region": "Oceania",
+    "family": "freereed",
+    "note": "A bamboo jaw harp widespread in Papua New Guinea.",
+    "countryCode": "PG",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "susap-sb",
+      "utete-as",
+      "norfolk-accordion",
+      "jaw-harp-ws"
+    ],
+    "ensemblePairing": [
+      "tifa-pg",
+      "ukulele-ws",
+      "pagolo"
+    ],
+    "relatedInstruments2": [
+      "susap-sb",
+      "jaw-harp-ws",
+      "norfolk-accordion"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "ukulele",
+    "name": "Ukulele",
+    "latin": "Ukulele",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "string",
+    "note": "A four-string fretted lute developed in Hawaii from Portuguese ancestors.",
+    "countryCode": "US",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "steel-guitar-hi",
+      "slack-key-guitar",
+      "ukulele-ws",
+      "ukulele-tv"
+    ],
+    "ensemblePairing": [
+      "uliuli-us",
+      "ohe-hano-ihu-us",
+      "uliuli"
+    ],
+    "relatedInstruments2": [
+      "ukulele-pn",
+      "ukulele-nf",
+      "ukulele-nr"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "slack-key-guitar",
+    "name": "Slack-key guitar",
+    "latin": "Slack-key guitar",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "string",
+    "note": "The kī hōʻalu fingerstyle guitar tradition of Hawaii.",
+    "countryCode": "US",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "steel-guitar-hi",
+      "ukulele",
+      "guitar-wf",
+      "guitar-pn"
+    ],
+    "ensemblePairing": [
+      "uliuli-us",
+      "ohe-hano-ihu-us",
+      "uliuli"
+    ],
+    "relatedInstruments2": [
+      "guitar-pn",
+      "guitar-nf",
+      "guitar-nr"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "steel-guitar-hi",
+    "name": "Hawaiian steel guitar",
+    "latin": "Hawaiian steel guitar",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "string",
+    "note": "A lap steel guitar tradition originating in Hawaii.",
+    "countryCode": "US",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "slack-key-guitar",
+      "ukulele",
+      "guitar-wf",
+      "guitar-pn"
+    ],
+    "ensemblePairing": [
+      "uliuli-us",
+      "conch-hi",
+      "uliuli"
+    ],
+    "relatedInstruments2": [
+      "guitar-pn",
+      "guitar-nf",
+      "guitar-nr"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "nose-flute-hi-already",
+    "name": "Pū kaʻea",
+    "latin": "Pu kaea",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A Hawaiian wooden trumpet of traditional signaling.",
+    "countryCode": "US",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ohe-hano-ihu-us",
+      "ohe-hano-ihu",
+      "conch-hi",
+      "yidaki-yolngu-au"
+    ],
+    "ensemblePairing": [
+      "uliuli-us",
+      "ukulele",
+      "uliuli"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "belembaotuyan",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "conch-hi",
+    "name": "Pū (Hawaiian)",
+    "latin": "Pu",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A Hawaiian conch trumpet of ceremony and call.",
+    "countryCode": "US",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "423.11",
+      "gloss": "conches"
+    },
+    "relatedInstruments": [
+      "ohe-hano-ihu-us",
+      "ohe-hano-ihu",
+      "nose-flute-hi-already",
+      "yidaki-yolngu-au"
+    ],
+    "ensemblePairing": [
+      "uliuli-us",
+      "steel-guitar-hi",
+      "uliuli"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "belembaotuyan",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "pate-ck-already",
+    "name": "Tokere mamaiti",
+    "latin": "Tokere mamaiti",
+    "origin": "Cook Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "The smallest slit-drum voice in Cook Islands percussion ensembles.",
+    "countryCode": "CK",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tokere-tangarongaro",
+      "tokere",
+      "pate-taki-already",
+      "pahu-ra"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ck",
+      "vivo-ck"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "tokere-tangarongaro",
+    "name": "Tokere tangarongaro",
+    "latin": "Tokere tangarongaro",
+    "origin": "Cook Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "The medium slit drum of Cook Islands tini ka'ara ensembles.",
+    "countryCode": "CK",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tokere",
+      "pate-taki-already",
+      "pate-ck-already",
+      "pahu-ra"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ck",
+      "vivo-ck"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "lali-ni-vanua",
+    "name": "Lali ni vanua",
+    "latin": "Lali ni vanua",
+    "origin": "Fiji",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Village slit drums of Fijian signaling and ceremony.",
+    "countryCode": "FJ",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "lali",
+      "derua-fj",
+      "sambula-fj",
+      "meke-ipu-fj"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "uculele-fj2",
+      "derua-fj2"
+    ],
+    "relatedInstruments2": [
+      "lali-to",
+      "lali-ws",
+      "lali-wf"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "putatara",
+    "name": "Pūtātara",
+    "latin": "Putatara",
+    "origin": "New Zealand",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A Māori conch trumpet of ceremony and call.",
+    "countryCode": "NZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "putorino",
+      "putatara-maori-nz",
+      "purerehua",
+      "pukaea-maori-nz"
+    ],
+    "ensemblePairing": [
+      "porotiti-nz",
+      "ukulele-ws",
+      "porotiti-maori-nz"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "pukaea",
+    "name": "Pūkāea",
+    "latin": "Pukaea",
+    "origin": "New Zealand",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A long wooden trumpet of Māori tradition.",
+    "countryCode": "NZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "putorino",
+      "putatara-maori-nz",
+      "putatara",
+      "purerehua"
+    ],
+    "ensemblePairing": [
+      "porotiti-nz",
+      "ukulele-ws",
+      "porotiti-maori-nz"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "koauau",
+    "name": "Kōauau",
+    "latin": "Koauau",
+    "origin": "New Zealand",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A short cross-blown flute of Māori taonga pūoro.",
+    "countryCode": "NZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "421.111.12",
+      "gloss": "single end-blown flutes"
+    },
+    "relatedInstruments": [
+      "putorino",
+      "putatara-maori-nz",
+      "putatara",
+      "purerehua"
+    ],
+    "ensemblePairing": [
+      "porotiti-nz",
+      "ukulele-ws",
+      "porotiti-maori-nz"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "jaw-harp-ws",
+    "name": "Utete",
+    "latin": "Utete",
+    "origin": "Samoa",
+    "region": "Oceania",
+    "family": "freereed",
+    "note": "A bamboo jaw harp of Samoan traditional practice.",
+    "countryCode": "WS",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "utete-as",
+      "susap-sb",
+      "susap",
+      "norfolk-accordion"
+    ],
+    "ensemblePairing": [
+      "ofe",
+      "ukulele-ws",
+      "logo-samoa"
+    ],
+    "relatedInstruments2": [
+      "utete-as",
+      "susap",
+      "susap-sb"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "ofe",
+    "name": "Ofe",
+    "latin": "Ofe",
+    "origin": "Samoa",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Bamboo stamping tubes of Samoan tradition.",
+    "countryCode": "WS",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "logo-samoa",
+      "lali-ws",
+      "fala",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "jaw-harp-ws",
+      "ukulele-ws",
+      "pu-samoa"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "clapsticks-au",
+    "name": "Clapsticks",
+    "latin": "Clapsticks",
+    "origin": "Australia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Paired rhythm sticks of Aboriginal Australian song accompaniment.",
+    "countryCode": "AU",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "music-boomerang",
+      "bilma-yolngu-au",
+      "bilma",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "yidaki-yolngu-au"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "tifa-pg",
+    "name": "Tifa (PNG)",
+    "latin": "Tifa",
+    "origin": "Papua New Guinea",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "An hourglass drum related to Melanesian kundu traditions in PNG.",
+    "countryCode": "PG",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "211.241.1",
+      "gloss": "single-skin hourglass drums"
+    },
+    "relatedInstruments": [
+      "pagolo",
+      "kundu-already",
+      "kundu",
+      "garamut"
+    ],
+    "ensemblePairing": [
+      "susap",
+      "ukulele-ws",
+      "yidaki-yolngu-au"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "nafa"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "jaw-harp-ws",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "budel",
+    "name": "Budel",
+    "latin": "Budel",
+    "origin": "Vanuatu",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Hand drums of Vanuatu dance accompaniment.",
+    "countryCode": "VU",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tamtam-vu",
+      "tamtam-vanuatu",
+      "navele",
+      "atingting"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "tamatangi"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "panpipe-vu",
+    "name": "Rawe",
+    "latin": "Rawe",
+    "origin": "Vanuatu",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "End-blown flutes of northern Vanuatu traditions.",
+    "countryCode": "VU",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tamatangi",
+      "conch-vu",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "ensemblePairing": [
+      "tamtam-vu",
+      "ukulele-ws",
+      "tamtam-vanuatu"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "pate-taki-already",
+    "name": "Tokere taki",
+    "latin": "Tokere taki",
+    "origin": "Cook Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "The largest slit-drum voice in Cook Islands percussion ensembles.",
+    "countryCode": "CK",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tokere-tangarongaro",
+      "tokere",
+      "pate-ck-already",
+      "pate-taki"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ck",
+      "vivo-ck"
+    ],
+    "relatedInstruments2": [
+      "pate-tk2",
+      "pate-tv2",
+      "lali"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "panpipe-sb",
+    "name": "ʻAu",
+    "latin": "Au",
+    "origin": "Solomon Islands",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "Panpipe ensembles of the Solomon Islands, especially 'Are'are tradition.",
+    "countryCode": "SB",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "susu-sb",
+      "panpipes-solomon",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "ensemblePairing": [
+      "slit-drum-sb",
+      "ukulele-ws",
+      "kundu-sb"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "susu-sb",
+    "name": "Susu",
+    "latin": "Susu",
+    "origin": "Solomon Islands",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "Bamboo panpipes (susu) of 'Are'are and related Solomon Islands traditions.",
+    "countryCode": "SB",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "panpipes-solomon",
+      "panpipe-sb",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "ensemblePairing": [
+      "slit-drum-sb",
+      "ukulele-ws",
+      "kundu-sb"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "kundu-sb",
+    "name": "Kundu (Solomon)",
+    "latin": "Kundu",
+    "origin": "Solomon Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Hourglass drums of Solomon Islands ceremonial music.",
+    "countryCode": "SB",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "211.241.1",
+      "gloss": "single-skin hourglass drums"
+    },
+    "relatedInstruments": [
+      "slit-drum-sb",
+      "bamboo-band-sb",
+      "kundu",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "susap-sb",
+      "ukulele-ws",
+      "susu-sb"
+    ],
+    "relatedInstruments2": [
+      "kundu",
+      "lali",
+      "patepacific"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "slit-drum-sb",
+    "name": "Garamut (Solomon)",
+    "latin": "Garamut",
+    "origin": "Solomon Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Wooden slit drums of Solomon Islands signaling and ceremony.",
+    "countryCode": "SB",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.243",
+      "gloss": "vessel rattles struck"
+    },
+    "relatedInstruments": [
+      "kundu-sb",
+      "bamboo-band-sb",
+      "garamut",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "susap-sb",
+      "ukulele-ws",
+      "susu-sb"
+    ],
+    "relatedInstruments2": [
+      "garamut",
+      "lali",
+      "patepacific"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "kaneka",
+    "name": "Kaneka percussion",
+    "latin": "Kaneka",
+    "origin": "New Caledonia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Percussion of New Caledonian kaneka and related Kanak music.",
+    "countryCode": "NC",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "bwanjep2",
+      "bamboo-stamping-nc",
+      "bamboo-mp",
+      "bamboo-gu"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "oboe-nc"
+    ],
+    "relatedInstruments2": [
+      "bamboo-gu",
+      "bamboo-mp",
+      "lali"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "bamboo-stamping-nc",
+    "name": "Bwanjep",
+    "latin": "Bwanjep",
+    "origin": "New Caledonia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Percussion sticks of Kanak traditional music in New Caledonia.",
+    "countryCode": "NC",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "kaneka",
+      "bwanjep2",
+      "uliuli-us",
+      "uliuli"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "oboe-nc"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "conch-nc",
+    "name": "Pu (Kanak)",
+    "latin": "Pu",
+    "origin": "New Caledonia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch trumpet of Kanak ceremonial call.",
+    "countryCode": "NC",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "423.11",
+      "gloss": "conches"
+    },
+    "relatedInstruments": [
+      "oboe-nc",
+      "hni",
+      "conch-nc2",
+      "yidaki-yolngu-au"
+    ],
+    "ensemblePairing": [
+      "kaneka",
+      "ukulele-ws",
+      "bwanjep2"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "debusech",
+    "name": "Debusech",
+    "latin": "Debusech",
+    "origin": "Palau",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A bamboo nose flute of Palauan traditional music.",
+    "countryCode": "PW",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "conch-pw",
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf"
+    ],
+    "ensemblePairing": [
+      "omengol",
+      "ukulele-ws",
+      "ngarch2"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "conch-pw",
+    "name": "Buil",
+    "latin": "Buil",
+    "origin": "Palau",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch trumpet of Palauan ceremonial call.",
+    "countryCode": "PW",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "debusech",
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf"
+    ],
+    "ensemblePairing": [
+      "omengol",
+      "ukulele-ws",
+      "ngarch2"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "omengol",
+    "name": "Omengol",
+    "latin": "Omengol",
+    "origin": "Palau",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A wooden percussion instrument of Palauan tradition.",
+    "countryCode": "PW",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ngarch2",
+      "gab",
+      "cheldechuul",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "debusech"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "nose-flute-fm",
+    "name": "Chuukese nose flute",
+    "latin": "Chuukese nose flute",
+    "origin": "Micronesia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "Bamboo nose flutes of Chuukese tradition in the Federated States of Micronesia.",
+    "countryCode": "FM",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "kosraean-flute",
+      "nose-flute-fm2",
+      "conch-fm",
+      "nose-flute-mp"
+    ],
+    "ensemblePairing": [
+      "slit-drum-fm",
+      "ukulele-ws",
+      "bamboo-stamping-fm"
+    ],
+    "relatedInstruments2": [
+      "nose-flute-gu",
+      "nose-flute-mp",
+      "didgeridoo"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "conch-fm",
+    "name": "Conch (Micronesian)",
+    "latin": "Conch",
+    "origin": "Micronesia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "Conch trumpets of Micronesian ceremonial signaling.",
+    "countryCode": "FM",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "423.11",
+      "gloss": "conches"
+    },
+    "relatedInstruments": [
+      "nose-flute-fm2",
+      "nose-flute-fm",
+      "kosraean-flute",
+      "conch-vu"
+    ],
+    "ensemblePairing": [
+      "slit-drum-fm",
+      "ukulele-ws",
+      "bamboo-stamping-fm"
+    ],
+    "relatedInstruments2": [
+      "conch-vu",
+      "didgeridoo",
+      "putorino"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "slit-drum-fm",
+    "name": "Aip",
+    "latin": "Aip",
+    "origin": "Micronesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A wooden slit drum of Micronesian island traditions.",
+    "countryCode": "FM",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "bamboo-stamping-fm",
+      "uliuli-us",
+      "uliuli",
+      "tokere-tangarongaro"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "nose-flute-fm2"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "bamboo-stamping-fm",
+    "name": "Bamboo stamping tubes (Pohnpeian)",
+    "latin": "Bamboo stamping tubes",
+    "origin": "Micronesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Bamboo stamping tubes of Pohnpeian dance accompaniment.",
+    "countryCode": "FM",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "slit-drum-fm",
+      "bamboo-mp",
+      "bamboo-gu",
+      "bamboo-band-sb"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "nose-flute-fm2"
+    ],
+    "relatedInstruments2": [
+      "bamboo-gu",
+      "bamboo-mp",
+      "bamboo-band-sb"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "aje",
+    "name": "Aje",
+    "latin": "Aje",
+    "origin": "Marshall Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Stick percussion of Marshallese stick-dance tradition.",
+    "countryCode": "MH",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "iio-mh",
+      "drum-mh",
+      "aje-mh2",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-mh",
+      "conch-mh"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "conch-mh",
+    "name": "Jilel",
+    "latin": "Jilel",
+    "origin": "Marshall Islands",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch trumpet of Marshallese ceremonial call.",
+    "countryCode": "MH",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf",
+      "vivo-ck"
+    ],
+    "ensemblePairing": [
+      "iio-mh",
+      "ukulele-mh",
+      "drum-mh"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "drum-mh",
+    "name": "Aeb",
+    "latin": "Aeb",
+    "origin": "Marshall Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A drum of Marshallese traditional dance music.",
+    "countryCode": "MH",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "iio-mh",
+      "aje-mh2",
+      "aje",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-mh",
+      "conch-mh"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "te-kabae",
+    "name": "Te kabae",
+    "latin": "Te kabae",
+    "origin": "Kiribati",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "Te kabae, a shell trumpet of i-Kiribati ceremonial call and assembly.",
+    "countryCode": "KI",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "conch-ki2",
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf"
+    ],
+    "ensemblePairing": [
+      "te-karewe",
+      "ukulele-ki",
+      "te-bino"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "te-bino",
+    "name": "Te bino box",
+    "latin": "Te bino",
+    "origin": "Kiribati",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Wooden box percussion accompanying Kiribati sitting dances.",
+    "countryCode": "KI",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "te-karewe",
+      "pulotu-tk",
+      "uliuli-us",
+      "uliuli"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ki",
+      "te-kabae"
+    ],
+    "relatedInstruments2": [
+      "pulotu-tk",
+      "lali",
+      "patepacific"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "pate-tv",
+    "name": "Pate (Tuvaluan)",
+    "latin": "Pate",
+    "origin": "Tuvalu",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A wooden slit drum of Tuvaluan dance music.",
+    "countryCode": "TV",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.243",
+      "gloss": "vessel rattles struck"
+    },
+    "relatedInstruments": [
+      "pate-tv2",
+      "fala-tv",
+      "faatele-drum",
+      "patepacific"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-tv",
+      "conch-tv"
+    ],
+    "relatedInstruments2": [
+      "patepacific",
+      "pate-taki",
+      "pate-nr"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "faatele-drum",
+    "name": "Te gaatua",
+    "latin": "Te gaatua",
+    "origin": "Tuvalu",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A bass drum of Tuvaluan fatele dance ensembles.",
+    "countryCode": "TV",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pate-tv2",
+      "pate-tv",
+      "fala-tv",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-tv",
+      "conch-tv"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "conch-tv",
+    "name": "Pu (Tuvaluan)",
+    "latin": "Pu",
+    "origin": "Tuvalu",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch trumpet of Tuvaluan ceremonial call.",
+    "countryCode": "TV",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "423.11",
+      "gloss": "conches"
+    },
+    "relatedInstruments": [
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf",
+      "vivo-ck"
+    ],
+    "ensemblePairing": [
+      "pate-tv2",
+      "ukulele-tv",
+      "pate-tv"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "pate-nr",
+    "name": "Pate (Nauruan)",
+    "latin": "Pate",
+    "origin": "Nauru",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A wooden percussion trough of Nauruan dance accompaniment.",
+    "countryCode": "NR",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.243",
+      "gloss": "vessel rattles struck"
+    },
+    "relatedInstruments": [
+      "drum-nr2",
+      "patepacific",
+      "pate-wf",
+      "pate-tv2"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-nr",
+      "conch-nr"
+    ],
+    "relatedInstruments2": [
+      "patepacific",
+      "pate-taki",
+      "pate-tv"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "conch-nr",
+    "name": "Pu (Nauruan)",
+    "latin": "Pu",
+    "origin": "Nauru",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch trumpet of Nauruan ceremonial call.",
+    "countryCode": "NR",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "423.11",
+      "gloss": "conches"
+    },
+    "relatedInstruments": [
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf",
+      "vivo-ck"
+    ],
+    "ensemblePairing": [
+      "pate-nr",
+      "ukulele-nr",
+      "guitar-nr"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "pate-nu",
+    "name": "Pate (Niuean)",
+    "latin": "Pate",
+    "origin": "Niue",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A wooden slit drum of Niuean dance music.",
+    "countryCode": "NU",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.243",
+      "gloss": "vessel rattles struck"
+    },
+    "relatedInstruments": [
+      "nafa-nu",
+      "patepacific",
+      "pate-wf",
+      "pate-tv2"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-nu",
+      "conch-nu"
+    ],
+    "relatedInstruments2": [
+      "patepacific",
+      "pate-taki",
+      "pate-tv"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "nafa-nu",
+    "name": "Nafa (Niuean)",
+    "latin": "Nafa",
+    "origin": "Niue",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A skin drum of Niuean traditional dance accompaniment.",
+    "countryCode": "NU",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pate-nu",
+      "nafa-wf",
+      "nafa-to3",
+      "nafa-as"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-nu",
+      "conch-nu"
+    ],
+    "relatedInstruments2": [
+      "nafa",
+      "nafa-wf",
+      "nafa-as"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "conch-nu",
+    "name": "Pu (Niuean)",
+    "latin": "Pu",
+    "origin": "Niue",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch trumpet of Niuean ceremonial call.",
+    "countryCode": "NU",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "423.11",
+      "gloss": "conches"
+    },
+    "relatedInstruments": [
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf",
+      "vivo-ck"
+    ],
+    "ensemblePairing": [
+      "pate-nu",
+      "ukulele-nu",
+      "nafa-nu"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "pate-tk",
+    "name": "Pate (Tokelauan)",
+    "latin": "Pate",
+    "origin": "Tokelau",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A wooden slit drum of Tokelauan fatele accompaniment.",
+    "countryCode": "TK",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.243",
+      "gloss": "vessel rattles struck"
+    },
+    "relatedInstruments": [
+      "pate-tk2",
+      "pate-papa-tk",
+      "pulotu-tk",
+      "patepacific"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-tk",
+      "pu-tk2"
+    ],
+    "relatedInstruments2": [
+      "patepacific",
+      "pate-taki",
+      "pate-tv"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "lali-wf",
+    "name": "Lali (Wallisian)",
+    "latin": "Lali",
+    "origin": "Wallis and Futuna",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A slit drum of Wallisian and Futunan ceremonial music.",
+    "countryCode": "WF",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.244",
+      "gloss": "directly struck idiophone"
+    },
+    "relatedInstruments": [
+      "pate-wf",
+      "nafa-wf",
+      "lali-ws",
+      "lali-to"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-wf",
+      "pu-wf"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "lali-to",
+      "lali-ws"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "pate-wf",
+    "name": "Pate (Wallisian)",
+    "latin": "Pate",
+    "origin": "Wallis and Futuna",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A small slit drum of Wallis and Futuna dance percussion.",
+    "countryCode": "WF",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.243",
+      "gloss": "vessel rattles struck"
+    },
+    "relatedInstruments": [
+      "nafa-wf",
+      "lali-wf",
+      "patepacific",
+      "pate-tv2"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-wf",
+      "pu-wf"
+    ],
+    "relatedInstruments2": [
+      "patepacific",
+      "pate-taki",
+      "pate-tv"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "nafa-wf",
+    "name": "Nafa (Wallisian)",
+    "latin": "Nafa",
+    "origin": "Wallis and Futuna",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A skin drum of Wallis and Futuna traditional dance.",
+    "countryCode": "WF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pate-wf",
+      "lali-wf",
+      "nafa-to3",
+      "nafa-nu"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-wf",
+      "pu-wf"
+    ],
+    "relatedInstruments2": [
+      "nafa",
+      "nafa-nu",
+      "nafa-as"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "pu-wf",
+    "name": "Pu (Wallisian)",
+    "latin": "Pu",
+    "origin": "Wallis and Futuna",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch trumpet of Wallisian and Futunan ceremony.",
+    "countryCode": "WF",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf",
+      "vivo-ck"
+    ],
+    "ensemblePairing": [
+      "pate-wf",
+      "ukulele-wf",
+      "nafa-wf"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "pate-as",
+    "name": "Pate (American Samoan)",
+    "latin": "Pate",
+    "origin": "American Samoa",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A wooden slit drum of American Samoan dance music.",
+    "countryCode": "AS",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.243",
+      "gloss": "vessel rattles struck"
+    },
+    "relatedInstruments": [
+      "nafa-as",
+      "logo-as2",
+      "fala-as",
+      "patepacific"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "pu-as"
+    ],
+    "relatedInstruments2": [
+      "patepacific",
+      "lali-ws",
+      "pate-taki"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "nafa-as",
+    "name": "Nafa (American Samoan)",
+    "latin": "Nafa",
+    "origin": "American Samoa",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A skin drum of American Samoan traditional ensembles.",
+    "countryCode": "AS",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pate-as",
+      "logo-as2",
+      "fala-as",
+      "nafa-wf"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "pu-as"
+    ],
+    "relatedInstruments2": [
+      "nafa",
+      "lali-ws",
+      "nafa-nu"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "fala-as",
+    "name": "Fala (American Samoan)",
+    "latin": "Fala",
+    "origin": "American Samoa",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A rolled mat drum of American Samoan dance accompaniment.",
+    "countryCode": "AS",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pate-as",
+      "nafa-as",
+      "logo-as2",
+      "lali-ws"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "pu-as"
+    ],
+    "relatedInstruments2": [
+      "fala",
+      "fala-tv",
+      "lali"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "pu-as",
+    "name": "Pu (American Samoan)",
+    "latin": "Pu",
+    "origin": "American Samoa",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch trumpet of American Samoan ceremonial call.",
+    "countryCode": "AS",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ofe-as",
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf"
+    ],
+    "ensemblePairing": [
+      "pate-as",
+      "ukulele-ws",
+      "nafa-as"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali-ws",
+      "ukulele",
+      "lali"
+    ]
+  },
+  {
+    "id": "belembaotuyan",
+    "name": "Belembaotuyan",
+    "latin": "Belembaotuyan",
+    "origin": "Guam",
+    "region": "Oceania",
+    "family": "string",
+    "note": "A musical bow of Chamorro tradition in Guam.",
+    "countryCode": "GU",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ukulele-gu",
+      "sinsen-gu",
+      "belembaotuyan-mp",
+      "ukulele-ws"
+    ],
+    "ensemblePairing": [
+      "bamboo-gu",
+      "nose-flute-gu",
+      "conch-gu"
+    ],
+    "relatedInstruments2": [
+      "belembaotuyan-mp",
+      "ukulele",
+      "ukulele-nu"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "nose-flute-gu",
+    "name": "Nose flute (Chamorro)",
+    "latin": "Nose flute",
+    "origin": "Guam",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A bamboo nose flute of Chamorro traditional music.",
+    "countryCode": "GU",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "421.111.22",
+      "gloss": "single end-blown flutes"
+    },
+    "relatedInstruments": [
+      "conch-gu",
+      "nose-flute-mp",
+      "nose-flute-fm",
+      "kosraean-flute"
+    ],
+    "ensemblePairing": [
+      "bamboo-gu",
+      "ukulele-gu",
+      "sinsen-gu"
+    ],
+    "relatedInstruments2": [
+      "nose-flute-fm",
+      "nose-flute-mp",
+      "didgeridoo"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "bamboo-gu",
+    "name": "Bamboo percussion (Chamorro)",
+    "latin": "Bamboo percussion",
+    "origin": "Guam",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Bamboo idiophones of Chamorro dance accompaniment in Guam.",
+    "countryCode": "GU",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "bamboo-mp",
+      "kaneka",
+      "bamboo-stamping-fm",
+      "bamboo-band-sb"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-gu",
+      "nose-flute-gu"
+    ],
+    "relatedInstruments2": [
+      "bamboo-mp",
+      "kaneka",
+      "bamboo-stamping-fm"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "conch-gu",
+    "name": "Kulu",
+    "latin": "Kulu",
+    "origin": "Guam",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch trumpet of Chamorro ceremonial signaling.",
+    "countryCode": "GU",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "112.13",
+      "gloss": "vessel rattle"
+    },
+    "relatedInstruments": [
+      "nose-flute-gu",
+      "conch-mp",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "ensemblePairing": [
+      "bamboo-gu",
+      "ukulele-gu",
+      "sinsen-gu"
+    ],
+    "relatedInstruments2": [
+      "conch-mp",
+      "didgeridoo",
+      "putorino"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "belembaotuyan-mp",
+    "name": "Belembaotuyan (CNMI)",
+    "latin": "Belembaotuyan",
+    "origin": "Northern Mariana Islands",
+    "region": "Oceania",
+    "family": "string",
+    "note": "A musical bow of Chamorro tradition in the Northern Mariana Islands.",
+    "countryCode": "MP",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ukulele-mp",
+      "belembaotuyan",
+      "ukulele-ws",
+      "ukulele-wf"
+    ],
+    "ensemblePairing": [
+      "pate-mp",
+      "nose-flute-mp",
+      "conch-mp"
+    ],
+    "relatedInstruments2": [
+      "belembaotuyan",
+      "ukulele",
+      "ukulele-nu"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "nose-flute-mp",
+    "name": "Nose flute (CNMI)",
+    "latin": "Nose flute",
+    "origin": "Northern Mariana Islands",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "Bamboo nose flutes of Chamorro tradition in the CNMI.",
+    "countryCode": "MP",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "421.111.22",
+      "gloss": "single end-blown flutes"
+    },
+    "relatedInstruments": [
+      "conch-mp",
+      "nose-flute-gu",
+      "nose-flute-fm",
+      "kosraean-flute"
+    ],
+    "ensemblePairing": [
+      "pate-mp",
+      "ukulele-mp",
+      "belembaotuyan-mp"
+    ],
+    "relatedInstruments2": [
+      "nose-flute-fm",
+      "nose-flute-gu",
+      "didgeridoo"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "pate-mp",
+    "name": "Pate (CNMI)",
+    "latin": "Pate",
+    "origin": "Northern Mariana Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A wooden percussion trough of Northern Marianas dance music.",
+    "countryCode": "MP",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.243",
+      "gloss": "vessel rattles struck"
+    },
+    "relatedInstruments": [
+      "bamboo-mp",
+      "patepacific",
+      "pate-wf",
+      "pate-tv2"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-mp",
+      "nose-flute-mp"
+    ],
+    "relatedInstruments2": [
+      "patepacific",
+      "pate-taki",
+      "pate-tv"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "conch-mp",
+    "name": "Kulu (CNMI)",
+    "latin": "Kulu",
+    "origin": "Northern Mariana Islands",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch trumpet of Northern Marianas ceremonial call.",
+    "countryCode": "MP",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "112.13",
+      "gloss": "vessel rattle"
+    },
+    "relatedInstruments": [
+      "nose-flute-mp",
+      "conch-gu",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "ensemblePairing": [
+      "pate-mp",
+      "ukulele-mp",
+      "belembaotuyan-mp"
+    ],
+    "relatedInstruments2": [
+      "conch-gu",
+      "didgeridoo",
+      "putorino"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "bwanjep2",
+    "name": "Jeû",
+    "latin": "Jeu",
+    "origin": "New Caledonia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Bamboo stamping tubes of Kanak traditional dance music.",
+    "countryCode": "NC",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "kaneka",
+      "bamboo-stamping-nc",
+      "uliuli-us",
+      "uliuli"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "oboe-nc"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "conch-nc2",
+    "name": "Doé",
+    "latin": "Doe",
+    "origin": "New Caledonia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch trumpet of Kanak ceremonial signaling in New Caledonia.",
+    "countryCode": "NC",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "oboe-nc",
+      "hni",
+      "conch-nc",
+      "yidaki-yolngu-au"
+    ],
+    "ensemblePairing": [
+      "kaneka",
+      "ukulele-ws",
+      "bwanjep2"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "oboe-nc",
+    "name": "Kanak bamboo clarinet",
+    "latin": "Kanak bamboo clarinet",
+    "origin": "New Caledonia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "Single-reed bamboo clarinets of Kanak traditional music.",
+    "countryCode": "NC",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "conch-nc",
+      "hni",
+      "conch-nc2",
+      "nose-flute-fm2"
+    ],
+    "ensemblePairing": [
+      "kaneka",
+      "ukulele-ws",
+      "bwanjep2"
+    ],
+    "relatedInstruments2": [
+      "nose-flute-fm2",
+      "didgeridoo",
+      "putorino"
+    ],
+    "ensemblePairing2": [
+      "bamboo-stamping-fm",
+      "ukulele",
+      "bamboo-gu"
+    ]
+  },
+  {
+    "id": "pulotu-tk",
+    "name": "Pulotu box",
+    "latin": "Pulotu",
+    "origin": "Tokelau",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A wooden box drum of Tokelauan dance music.",
+    "countryCode": "TK",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pate-tk2",
+      "pate-tk",
+      "pate-papa-tk",
+      "te-bino"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-tk",
+      "pu-tk2"
+    ],
+    "relatedInstruments2": [
+      "te-bino",
+      "lali",
+      "patepacific"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "pu-tk2",
+    "name": "Pu (Tokelauan)",
+    "latin": "Pu",
+    "origin": "Tokelau",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch trumpet of Tokelauan ceremonial call.",
+    "countryCode": "TK",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf",
+      "vivo-ck"
+    ],
+    "ensemblePairing": [
+      "pate-tk2",
+      "ukulele-tk",
+      "pate-tk"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "pate-tk2",
+    "name": "Pate taki (Tokelauan)",
+    "latin": "Pate taki",
+    "origin": "Tokelau",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A lead slit-drum role in Tokelauan fatele accompaniment.",
+    "countryCode": "TK",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pate-tk",
+      "pate-papa-tk",
+      "pulotu-tk",
+      "pate-tv2"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-tk",
+      "pu-tk2"
+    ],
+    "relatedInstruments2": [
+      "pate-taki",
+      "pate-tv2",
+      "patepacific"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "te-karewe",
+    "name": "Te karewe",
+    "latin": "Te karewe",
+    "origin": "Kiribati",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Stick percussion accompanying Kiribati standing dances.",
+    "countryCode": "KI",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "te-bino",
+      "uliuli-us",
+      "uliuli",
+      "tokere-tangarongaro"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ki",
+      "te-kabae"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "conch-ki2",
+    "name": "Bu (Kiribati)",
+    "latin": "Bu",
+    "origin": "Kiribati",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "Bu, a conch trumpet of Kiribati used for signaling and ceremonial announcement.",
+    "countryCode": "KI",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "te-kabae",
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf"
+    ],
+    "ensemblePairing": [
+      "te-karewe",
+      "ukulele-ki",
+      "te-bino"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "drum-nr2",
+    "name": "Ibu",
+    "latin": "Ibu",
+    "origin": "Nauru",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A drum of Nauruan traditional dance accompaniment.",
+    "countryCode": "NR",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pate-nr",
+      "uliuli-us",
+      "uliuli",
+      "tokere-tangarongaro"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-nr",
+      "conch-nr"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "aje-mh2",
+    "name": "Jebwa sticks",
+    "latin": "Jebwa sticks",
+    "origin": "Marshall Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Stick percussion of Marshallese jebwa dance tradition.",
+    "countryCode": "MH",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "iio-mh",
+      "drum-mh",
+      "aje",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-mh",
+      "conch-mh"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "derua-fj",
+    "name": "Lali ni meke",
+    "latin": "Lali ni meke",
+    "origin": "Fiji",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Slit drums accompanying Fijian meke dance.",
+    "countryCode": "FJ",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "lali-ni-vanua",
+      "lali",
+      "sambula-fj",
+      "meke-ipu-fj"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "uculele-fj2",
+      "derua-fj2"
+    ],
+    "relatedInstruments2": [
+      "lali-to",
+      "lali-ws",
+      "lali-wf"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "susap-sb",
+    "name": "Susap (Solomon)",
+    "latin": "Susap",
+    "origin": "Solomon Islands",
+    "region": "Oceania",
+    "family": "freereed",
+    "note": "A bamboo jaw harp (susap) of Solomon Islands traditional music.",
+    "countryCode": "SB",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "susap",
+      "utete-as",
+      "norfolk-accordion",
+      "jaw-harp-ws"
+    ],
+    "ensemblePairing": [
+      "slit-drum-sb",
+      "ukulele-ws",
+      "kundu-sb"
+    ],
+    "relatedInstruments2": [
+      "susap",
+      "jaw-harp-ws",
+      "norfolk-accordion"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "pahu-pf2",
+    "name": "Pahu tupaʻi rima",
+    "latin": "Pahu tupai rima",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A hand drum of Tahitian traditional dance ensembles.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pahu-tupa-i-rutu-pf",
+      "pahu-pf",
+      "pahu-nui-tahiti-pf",
+      "pahu-nui-pf"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "pahu-ra",
+      "pahu-hawaii",
+      "lali"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "toere-pf2",
+    "name": "Tōʻere takirua",
+    "latin": "Toere takirua",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Paired slit-drum roles in Tahitian percussion ensembles.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "toere",
+      "toere-tahiti-pf",
+      "toere-pf",
+      "patepacific"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "garamut",
+      "nafa"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "norfolk-fiddle",
+    "name": "Fiddle (Norfolk Island)",
+    "latin": "Fiddle",
+    "origin": "Norfolk Island",
+    "region": "Oceania",
+    "family": "string",
+    "note": "The fiddle of Norfolk Island Pitcairner folk tradition.",
+    "countryCode": "NF",
+    "technique": "bowed",
+    "materials": null,
+    "classification": {
+      "code": "321.322-71",
+      "gloss": "necked box lutes / necked guitars; bowed"
+    },
+    "relatedInstruments": [
+      "ukulele-nf",
+      "guitar-nf",
+      "fiddle-pn",
+      "ukulele-ws"
+    ],
+    "ensemblePairing": [
+      "norfolk-drum",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "relatedInstruments2": [
+      "fiddle-pn",
+      "fiddle-sh",
+      "fiddle-ta"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "endingidi-already",
+      "cornemuse-du-centre"
+    ]
+  },
+  {
+    "id": "norfolk-accordion",
+    "name": "Accordion (Norfolk Island)",
+    "latin": "Accordion",
+    "origin": "Norfolk Island",
+    "region": "Oceania",
+    "family": "freereed",
+    "note": "Accordion of Norfolk Island community dance music.",
+    "countryCode": "NF",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "concertina-nf",
+      "accordion-pn",
+      "utete-as",
+      "susap-sb"
+    ],
+    "ensemblePairing": [
+      "norfolk-drum",
+      "ukulele-nf",
+      "norfolk-fiddle"
+    ],
+    "relatedInstruments2": [
+      "accordion-pn",
+      "susap",
+      "jaw-harp-ws"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "norfolk-drum",
+    "name": "Drum (Norfolk Island)",
+    "latin": "Drum",
+    "origin": "Norfolk Island",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Drums of Norfolk Island traditional gatherings.",
+    "countryCode": "NF",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "21",
+      "gloss": "struck membranophone"
+    },
+    "relatedInstruments": [
+      "drum-pn",
+      "uliuli-us",
+      "uliuli",
+      "tokere-tangarongaro"
+    ],
+    "ensemblePairing": [
+      "norfolk-accordion",
+      "ukulele-nf",
+      "yidaki-yolngu-au"
+    ],
+    "relatedInstruments2": [
+      "drum-pn",
+      "lali",
+      "patepacific"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ukulele-nu",
+    "name": "Ukelele (Niuean)",
+    "latin": "Ukelele",
+    "origin": "Niue",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Ukulele of Niuean string-band and hymn tradition.",
+    "countryCode": "NU",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "guitar-nu",
+      "ukulele-wf",
+      "ukulele-ws",
+      "ukulele-tv"
+    ],
+    "ensemblePairing": [
+      "pate-nu",
+      "conch-nu",
+      "nafa-nu"
+    ],
+    "relatedInstruments2": [
+      "ukulele-wf",
+      "ukulele",
+      "belembaotuyan"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "pate-tv2",
+    "name": "Pate taki (Tuvaluan)",
+    "latin": "Pate taki",
+    "origin": "Tuvalu",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A lead slit drum of Tuvaluan fatele accompaniment.",
+    "countryCode": "TV",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pate-tv",
+      "fala-tv",
+      "faatele-drum",
+      "pate-tk2"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-tv",
+      "conch-tv"
+    ],
+    "relatedInstruments2": [
+      "pate-taki",
+      "pate-tk2",
+      "patepacific"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "cheldechuul",
+    "name": "Cheldechuul",
+    "latin": "Cheldechuul",
+    "origin": "Palau",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Rhythm sticks of Palauan traditional dance music.",
+    "countryCode": "PW",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "omengol",
+      "ngarch2",
+      "gab",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "debusech"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "logo-as2",
+    "name": "Logo (American Samoan)",
+    "latin": "Logo",
+    "origin": "American Samoa",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A wooden slit gong of American Samoan ceremonial music.",
+    "countryCode": "AS",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pate-as",
+      "nafa-as",
+      "fala-as",
+      "logo-samoa"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "pu-as"
+    ],
+    "relatedInstruments2": [
+      "logo-samoa",
+      "lali",
+      "patepacific"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "utete-as",
+    "name": "Utete (American Samoan)",
+    "latin": "Utete",
+    "origin": "American Samoa",
+    "region": "Oceania",
+    "family": "freereed",
+    "note": "A bamboo jaw harp of American Samoan tradition.",
+    "countryCode": "AS",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "jaw-harp-ws",
+      "susap-sb",
+      "susap",
+      "norfolk-accordion"
+    ],
+    "ensemblePairing": [
+      "pate-as",
+      "ukulele-ws",
+      "nafa-as"
+    ],
+    "relatedInstruments2": [
+      "jaw-harp-ws",
+      "susap",
+      "susap-sb"
+    ],
+    "ensemblePairing2": [
+      "lali-ws",
+      "ukulele",
+      "lali"
+    ]
+  },
+  {
+    "id": "ofe-as",
+    "name": "Ofe (American Samoan)",
+    "latin": "Ofe",
+    "origin": "American Samoa",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A bamboo flute of American Samoan traditional music.",
+    "countryCode": "AS",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pu-as",
+      "yidaki-yolngu-au",
+      "yidaki",
+      "vivo-tahiti-pf"
+    ],
+    "ensemblePairing": [
+      "pate-as",
+      "ukulele-ws",
+      "nafa-as"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali-ws",
+      "ukulele",
+      "lali"
+    ]
+  },
+  {
+    "id": "nafa-to3",
+    "name": "Nafa lahi",
+    "latin": "Nafa lahi",
+    "origin": "Tonga",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A large skin drum of Tongan ceremonial ensembles.",
+    "countryCode": "TO",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "nafa",
+      "lali-to",
+      "nafa-wf",
+      "nafa-nu"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-to",
+      "pū-to"
+    ],
+    "relatedInstruments2": [
+      "nafa-nu",
+      "nafa-wf",
+      "nafa-as"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ukulele-pn",
+    "name": "Ukulele (Pitcairn)",
+    "latin": "Ukulele",
+    "origin": "Pitcairn Islands",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Ukulele of Pitcairn Island hymn and community music.",
+    "countryCode": "PN",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "guitar-pn",
+      "fiddle-pn",
+      "ukulele-ws",
+      "ukulele-tv"
+    ],
+    "ensemblePairing": [
+      "drum-pn",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "relatedInstruments2": [
+      "ukulele",
+      "ukulele-nf",
+      "ukulele-nr"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "guitar-pn",
+    "name": "Guitar (Pitcairn)",
+    "latin": "Guitar",
+    "origin": "Pitcairn Islands",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Folk guitar of Pitcairn Island traditional song.",
+    "countryCode": "PN",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5-6",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "ukulele-pn",
+      "fiddle-pn",
+      "steel-guitar-hi",
+      "slack-key-guitar"
+    ],
+    "ensemblePairing": [
+      "drum-pn",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "relatedInstruments2": [
+      "slack-key-guitar",
+      "guitar-nf",
+      "guitar-nr"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "accordion-pn",
+    "name": "Accordion (Pitcairn)",
+    "latin": "Accordion",
+    "origin": "Pitcairn Islands",
+    "region": "Oceania",
+    "family": "freereed",
+    "note": "Accordion of Pitcairn Island community dance music.",
+    "countryCode": "PN",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "412.132",
+      "gloss": "free reed aerophone"
+    },
+    "relatedInstruments": [
+      "norfolk-accordion",
+      "utete-as",
+      "susap-sb",
+      "susap"
+    ],
+    "ensemblePairing": [
+      "drum-pn",
+      "ukulele-pn",
+      "guitar-pn"
+    ],
+    "relatedInstruments2": [
+      "norfolk-accordion",
+      "susap",
+      "jaw-harp-ws"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "fala-tv",
+    "name": "Fala (Tuvaluan)",
+    "latin": "Fala",
+    "origin": "Tuvalu",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A rolled mat drum of Tuvaluan dance accompaniment.",
+    "countryCode": "TV",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pate-tv2",
+      "pate-tv",
+      "faatele-drum",
+      "fala-as"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-tv",
+      "conch-tv"
+    ],
+    "relatedInstruments2": [
+      "fala",
+      "fala-as",
+      "lali"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "pate-papa-tk",
+    "name": "Pate papa",
+    "latin": "Pate papa",
+    "origin": "Tokelau",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A wooden plank drum of Tokelauan fatele music.",
+    "countryCode": "TK",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pate-tk2",
+      "pate-tk",
+      "pulotu-tk",
+      "patepacific"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-tk",
+      "pu-tk2"
+    ],
+    "relatedInstruments2": [
+      "patepacific",
+      "pate-taki",
+      "pate-tv"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ngarch2",
+    "name": "Ngarch",
+    "latin": "Ngarch",
+    "origin": "Palau",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A percussion log of Palauan dance accompaniment.",
+    "countryCode": "PW",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "omengol",
+      "gab",
+      "cheldechuul",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "debusech"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "iio-mh",
+    "name": "Iio",
+    "latin": "Iio",
+    "origin": "Marshall Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Shell rattles of Marshallese dance accompaniment.",
+    "countryCode": "MH",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "drum-mh",
+      "aje-mh2",
+      "aje",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-mh",
+      "conch-mh"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "nose-flute-fm2",
+    "name": "Yapese bamboo trumpet",
+    "latin": "Yapese bamboo trumpet",
+    "origin": "Micronesia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "Bamboo trumpets of Yapese tradition in Micronesia.",
+    "countryCode": "FM",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "nose-flute-fm",
+      "kosraean-flute",
+      "conch-fm",
+      "oboe-nc"
+    ],
+    "ensemblePairing": [
+      "bamboo-stamping-fm",
+      "ukulele-ws",
+      "slit-drum-fm"
+    ],
+    "relatedInstruments2": [
+      "oboe-nc",
+      "didgeridoo",
+      "putorino"
+    ],
+    "ensemblePairing2": [
+      "bamboo-gu",
+      "ukulele",
+      "bamboo-mp"
+    ]
+  },
+  {
+    "id": "ukulele-nf",
+    "name": "Ukulele (Norfolk Island)",
+    "latin": "Ukulele",
+    "origin": "Norfolk Island",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Ukulele of Norfolk Island Pitcairner music tradition.",
+    "countryCode": "NF",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "guitar-nf",
+      "norfolk-fiddle",
+      "ukulele-ws",
+      "ukulele-tv"
+    ],
+    "ensemblePairing": [
+      "norfolk-drum",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "relatedInstruments2": [
+      "ukulele",
+      "ukulele-pn",
+      "ukulele-nr"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "guitar-nf",
+    "name": "Guitar (Norfolk Island)",
+    "latin": "Guitar",
+    "origin": "Norfolk Island",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Folk guitar of Norfolk Island community song.",
+    "countryCode": "NF",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5-6",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "ukulele-nf",
+      "norfolk-fiddle",
+      "steel-guitar-hi",
+      "slack-key-guitar"
+    ],
+    "ensemblePairing": [
+      "norfolk-drum",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "relatedInstruments2": [
+      "slack-key-guitar",
+      "guitar-pn",
+      "guitar-nr"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "ukulele-nr",
+    "name": "Ukulele (Nauruan)",
+    "latin": "Ukulele",
+    "origin": "Nauru",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Ukulele of Nauruan string-band and hymn tradition.",
+    "countryCode": "NR",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "guitar-nr",
+      "ukulele-ws",
+      "ukulele-tv",
+      "ukulele-to"
+    ],
+    "ensemblePairing": [
+      "pate-nr",
+      "conch-nr",
+      "drum-nr2"
+    ],
+    "relatedInstruments2": [
+      "ukulele",
+      "ukulele-pn",
+      "ukulele-nf"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "fiddle-pn",
+    "name": "Fiddle (Pitcairn)",
+    "latin": "Fiddle",
+    "origin": "Pitcairn Islands",
+    "region": "Oceania",
+    "family": "string",
+    "note": "The fiddle of Pitcairn Island community dance music.",
+    "countryCode": "PN",
+    "technique": "bowed",
+    "materials": null,
+    "classification": {
+      "code": "321.322-71",
+      "gloss": "necked box lutes / necked guitars; bowed"
+    },
+    "relatedInstruments": [
+      "ukulele-pn",
+      "guitar-pn",
+      "norfolk-fiddle",
+      "ukulele-ws"
+    ],
+    "ensemblePairing": [
+      "drum-pn",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "relatedInstruments2": [
+      "norfolk-fiddle",
+      "fiddle-sh",
+      "fiddle-ta"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "endingidi-already",
+      "cornemuse-du-centre"
+    ]
+  },
+  {
+    "id": "ukulele-wf",
+    "name": "Ukelele (Wallisian)",
+    "latin": "Ukelele",
+    "origin": "Wallis and Futuna",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Ukulele of Wallisian and Futunan string-band and hymn music.",
+    "countryCode": "WF",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "guitar-wf",
+      "ukulele-nu",
+      "ukulele-ws",
+      "ukulele-tv"
+    ],
+    "ensemblePairing": [
+      "pate-wf",
+      "pu-wf",
+      "nafa-wf"
+    ],
+    "relatedInstruments2": [
+      "ukulele-nu",
+      "ukulele",
+      "belembaotuyan"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "gab",
+    "name": "Gab",
+    "latin": "Gab",
+    "origin": "Palau",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Rhythm sticks of Palauan traditional dance.",
+    "countryCode": "PW",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "421.111.12",
+      "gloss": "single end-blown flutes"
+    },
+    "relatedInstruments": [
+      "omengol",
+      "ngarch2",
+      "cheldechuul",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "debusech"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ukulele-tv",
+    "name": "Ukulele (Tuvaluan)",
+    "latin": "Ukulele",
+    "origin": "Tuvalu",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Ukulele of Tuvaluan fatele and string-band music.",
+    "countryCode": "TV",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "ukulele-ws",
+      "ukulele-to",
+      "ukulele-tk",
+      "ukulele-pn"
+    ],
+    "ensemblePairing": [
+      "pate-tv2",
+      "conch-tv",
+      "pate-tv"
+    ],
+    "relatedInstruments2": [
+      "ukulele",
+      "ukulele-pn",
+      "ukulele-nf"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "ukulele-tk",
+    "name": "Ukulele (Tokelauan)",
+    "latin": "Ukulele",
+    "origin": "Tokelau",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Ukulele of Tokelauan fatele accompaniment.",
+    "countryCode": "TK",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "ukulele-ws",
+      "ukulele-tv",
+      "ukulele-to",
+      "ukulele-pn"
+    ],
+    "ensemblePairing": [
+      "pate-tk2",
+      "pu-tk2",
+      "pate-tk"
+    ],
+    "relatedInstruments2": [
+      "ukulele",
+      "ukulele-pn",
+      "ukulele-nf"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "ukulele-mh",
+    "name": "Ukulele (Marshallese)",
+    "latin": "Ukulele",
+    "origin": "Marshall Islands",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Ukulele of Marshallese string-band tradition.",
+    "countryCode": "MH",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "ukulele-ws",
+      "ukulele-tv",
+      "ukulele-to",
+      "ukulele-tk"
+    ],
+    "ensemblePairing": [
+      "iio-mh",
+      "conch-mh",
+      "drum-mh"
+    ],
+    "relatedInstruments2": [
+      "ukulele",
+      "ukulele-pn",
+      "ukulele-nf"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "kosraean-flute",
+    "name": "Kosraean nose flute",
+    "latin": "Kosraean nose flute",
+    "origin": "Micronesia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A bamboo nose flute of Kosraean tradition in Micronesia.",
+    "countryCode": "FM",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "nose-flute-fm",
+      "nose-flute-fm2",
+      "conch-fm",
+      "nose-flute-mp"
+    ],
+    "ensemblePairing": [
+      "slit-drum-fm",
+      "ukulele-ws",
+      "bamboo-stamping-fm"
+    ],
+    "relatedInstruments2": [
+      "nose-flute-gu",
+      "nose-flute-mp",
+      "didgeridoo"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "sinsen-gu",
+    "name": "Sinsen",
+    "latin": "Sinsen",
+    "origin": "Guam",
+    "region": "Oceania",
+    "family": "string",
+    "note": "A Chamorro musical bow tradition related to belembaotuyan practice in Guam.",
+    "countryCode": "GU",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ukulele-gu",
+      "belembaotuyan",
+      "ukulele-ws",
+      "ukulele-wf"
+    ],
+    "ensemblePairing": [
+      "bamboo-gu",
+      "nose-flute-gu",
+      "conch-gu"
+    ],
+    "relatedInstruments2": [
+      "ukulele",
+      "belembaotuyan-mp",
+      "ukulele-nu"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "bamboo-mp",
+    "name": "Bamboo percussion (CNMI)",
+    "latin": "Bamboo percussion",
+    "origin": "Northern Mariana Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Bamboo idiophones of Chamorro dance accompaniment in the CNMI.",
+    "countryCode": "MP",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pate-mp",
+      "bamboo-gu",
+      "kaneka",
+      "bamboo-stamping-fm"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-mp",
+      "nose-flute-mp"
+    ],
+    "relatedInstruments2": [
+      "bamboo-gu",
+      "kaneka",
+      "bamboo-stamping-fm"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "concertina-nf",
+    "name": "Concertina (Norfolk Island)",
+    "latin": "Concertina",
+    "origin": "Norfolk Island",
+    "region": "Oceania",
+    "family": "freereed",
+    "note": "Concertina of Norfolk Island community dance music.",
+    "countryCode": "NF",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "412.132",
+      "gloss": "sets of free reeds"
+    },
+    "relatedInstruments": [
+      "norfolk-accordion",
+      "utete-as",
+      "susap-sb",
+      "susap"
+    ],
+    "ensemblePairing": [
+      "norfolk-drum",
+      "ukulele-nf",
+      "norfolk-fiddle"
+    ],
+    "relatedInstruments2": [
+      "susap",
+      "jaw-harp-ws",
+      "susap-sb"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "music-boomerang",
+    "name": "Music boomerang",
+    "latin": "Music boomerang",
+    "origin": "Australia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Paired boomerangs clapped as idiophones in Australian Aboriginal music.",
+    "countryCode": "AU",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "clapsticks-au",
+      "bilma-yolngu-au",
+      "bilma",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "yidaki-yolngu-au"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ukulele-ki",
+    "name": "Ukulele (i-Kiribati)",
+    "latin": "Ukulele",
+    "origin": "Kiribati",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Ukulele of Kiribati string-band and hymn tradition.",
+    "countryCode": "KI",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "ukulele-ws",
+      "ukulele-tv",
+      "ukulele-to",
+      "ukulele-tk"
+    ],
+    "ensemblePairing": [
+      "te-karewe",
+      "conch-ki2",
+      "te-kabae"
+    ],
+    "relatedInstruments2": [
+      "ukulele",
+      "ukulele-pn",
+      "ukulele-nf"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "guitar-nr",
+    "name": "Guitar (Nauruan)",
+    "latin": "Guitar",
+    "origin": "Nauru",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Folk guitar of Nauruan community song and dance.",
+    "countryCode": "NR",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5-6",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "ukulele-nr",
+      "steel-guitar-hi",
+      "slack-key-guitar",
+      "guitar-wf"
+    ],
+    "ensemblePairing": [
+      "pate-nr",
+      "conch-nr",
+      "drum-nr2"
+    ],
+    "relatedInstruments2": [
+      "slack-key-guitar",
+      "guitar-pn",
+      "guitar-nf"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "guitar-nu",
+    "name": "Guitar (Niuean)",
+    "latin": "Guitar",
+    "origin": "Niue",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Folk guitar of Niuean string-band tradition.",
+    "countryCode": "NU",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5-6",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "ukulele-nu",
+      "steel-guitar-hi",
+      "slack-key-guitar",
+      "guitar-wf"
+    ],
+    "ensemblePairing": [
+      "pate-nu",
+      "conch-nu",
+      "nafa-nu"
+    ],
+    "relatedInstruments2": [
+      "slack-key-guitar",
+      "guitar-pn",
+      "guitar-nf"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "drum-pn",
+    "name": "Drum (Pitcairn)",
+    "latin": "Drum",
+    "origin": "Pitcairn Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Drums of Pitcairn Island community gatherings.",
+    "countryCode": "PN",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "21",
+      "gloss": "struck membranophone"
+    },
+    "relatedInstruments": [
+      "norfolk-drum",
+      "uliuli-us",
+      "uliuli",
+      "tokere-tangarongaro"
+    ],
+    "ensemblePairing": [
+      "accordion-pn",
+      "ukulele-pn",
+      "yidaki-yolngu-au"
+    ],
+    "relatedInstruments2": [
+      "norfolk-drum",
+      "lali",
+      "patepacific"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "uculele-fj2",
+    "name": "Uculele",
+    "latin": "Uculele",
+    "origin": "Fiji",
+    "region": "Oceania",
+    "family": "string",
+    "note": "A small fretted lute of Fijian string-band tradition.",
+    "countryCode": "FJ",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ukulele-ws",
+      "ukulele-wf",
+      "ukulele-tv",
+      "ukulele-to"
+    ],
+    "ensemblePairing": [
+      "sambula-fj",
+      "derua-fj2",
+      "meke-ipu-fj"
+    ],
+    "relatedInstruments2": [
+      "ukulele",
+      "belembaotuyan",
+      "belembaotuyan-mp"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "ukulele-ws",
+    "name": "Ukulele (Samoan)",
+    "latin": "Ukulele",
+    "origin": "Samoa",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Ukulele of Samoan string-band and hymn music.",
+    "countryCode": "WS",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "ukulele-tv",
+      "ukulele-to",
+      "ukulele-tk",
+      "ukulele-pn"
+    ],
+    "ensemblePairing": [
+      "lali-ws",
+      "pu-samoa",
+      "ofe"
+    ],
+    "relatedInstruments2": [
+      "ukulele",
+      "ukulele-pn",
+      "ukulele-nf"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "pu-as"
+    ]
+  },
+  {
+    "id": "ukulele-to",
+    "name": "Ukulele (Tongan)",
+    "latin": "Ukulele",
+    "origin": "Tonga",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Ukulele of Tongan string-band tradition.",
+    "countryCode": "TO",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "ukulele-ws",
+      "ukulele-tv",
+      "ukulele-tk",
+      "ukulele-pn"
+    ],
+    "ensemblePairing": [
+      "lali-to",
+      "pū-to",
+      "nafa-to3"
+    ],
+    "relatedInstruments2": [
+      "ukulele",
+      "ukulele-pn",
+      "ukulele-nf"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "pagolo",
+    "name": "Pagolo",
+    "latin": "Pagolo",
+    "origin": "Papua New Guinea",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A bamboo xylophone of Papua New Guinean tradition.",
+    "countryCode": "PG",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tifa-pg",
+      "kundu-already",
+      "kundu",
+      "garamut"
+    ],
+    "ensemblePairing": [
+      "susap",
+      "ukulele-ws",
+      "yidaki-yolngu-au"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "nafa"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "jaw-harp-ws",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "vivo-ck",
+    "name": "Vivo (Cook Islands)",
+    "latin": "Vivo",
+    "origin": "Cook Islands",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A bamboo nose flute of Cook Islands traditional music.",
+    "countryCode": "CK",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "vivo-tahiti-pf",
+      "vivo",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "ensemblePairing": [
+      "tokere-tangarongaro",
+      "ukulele-ck",
+      "tokere"
+    ],
+    "relatedInstruments2": [
+      "vivo",
+      "didgeridoo",
+      "putorino"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "ukulele-ck",
+    "name": "Ukulele (Cook Islands)",
+    "latin": "Ukulele",
+    "origin": "Cook Islands",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Ukulele of Cook Islands string-band tradition.",
+    "countryCode": "CK",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "ukulele-ws",
+      "ukulele-tv",
+      "ukulele-to",
+      "ukulele-tk"
+    ],
+    "ensemblePairing": [
+      "tokere-tangarongaro",
+      "vivo-ck",
+      "tokere"
+    ],
+    "relatedInstruments2": [
+      "ukulele",
+      "ukulele-pn",
+      "ukulele-nf"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "hni",
+    "name": "Hni",
+    "latin": "Hni",
+    "origin": "New Caledonia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A bamboo flute of Kanak traditional music in New Caledonia.",
+    "countryCode": "NC",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "oboe-nc",
+      "conch-nc2",
+      "conch-nc",
+      "yidaki-yolngu-au"
+    ],
+    "ensemblePairing": [
+      "kaneka",
+      "ukulele-ws",
+      "bwanjep2"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "guitar-wf",
+    "name": "Guitar (Wallisian)",
+    "latin": "Guitar",
+    "origin": "Wallis and Futuna",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Folk guitar of Wallisian and Futunan song tradition.",
+    "countryCode": "WF",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5-6",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "ukulele-wf",
+      "steel-guitar-hi",
+      "slack-key-guitar",
+      "guitar-pn"
+    ],
+    "ensemblePairing": [
+      "pate-wf",
+      "pu-wf",
+      "nafa-wf"
+    ],
+    "relatedInstruments2": [
+      "slack-key-guitar",
+      "guitar-pn",
+      "guitar-nf"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "ukulele-gu",
+    "name": "Ukulele (Chamorro)",
+    "latin": "Ukulele",
+    "origin": "Guam",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Ukulele of Chamorro string-band tradition in Guam.",
+    "countryCode": "GU",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "sinsen-gu",
+      "belembaotuyan",
+      "ukulele-ws",
+      "ukulele-tv"
+    ],
+    "ensemblePairing": [
+      "bamboo-gu",
+      "nose-flute-gu",
+      "conch-gu"
+    ],
+    "relatedInstruments2": [
+      "ukulele",
+      "ukulele-pn",
+      "ukulele-nf"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "ukulele-mp",
+    "name": "Ukulele (CNMI)",
+    "latin": "Ukulele",
+    "origin": "Northern Mariana Islands",
+    "region": "Oceania",
+    "family": "string",
+    "note": "Ukulele of Northern Marianas string-band music.",
+    "countryCode": "MP",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.322-5",
+      "gloss": "necked box lutes / necked guitars"
+    },
+    "relatedInstruments": [
+      "belembaotuyan-mp",
+      "ukulele-ws",
+      "ukulele-tv",
+      "ukulele-to"
+    ],
+    "ensemblePairing": [
+      "pate-mp",
+      "nose-flute-mp",
+      "conch-mp"
+    ],
+    "relatedInstruments2": [
+      "ukulele",
+      "ukulele-pn",
+      "ukulele-nf"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "didgeridoo"
+    ]
+  },
+  {
+    "id": "porotiti-nz",
+    "name": "Porotiti",
+    "latin": "Porotiti",
+    "origin": "New Zealand",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A buzzing whirled disc aerophone of Māori tradition.",
+    "countryCode": "NZ",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "porotiti-maori-nz",
+      "pakuru",
+      "uliuli-us",
+      "uliuli"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "putorino"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ihara-pf",
+    "name": "Ihara",
+    "latin": "Ihara",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A bamboo stamping tube used in Tahitian percussion ensembles.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ihara-tahiti-pf",
+      "toere-tahiti-pf",
+      "toere-pf2",
+      "toere-pf"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "garamut",
+      "nafa"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "sambula-fj",
+    "name": "Sambula",
+    "latin": "Sambula",
+    "origin": "Fiji",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A large slit drum historically associated with Fijian signaling and ceremony.",
+    "countryCode": "FJ",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "meke-ipu-fj",
+      "lali-ni-vanua",
+      "lali",
+      "derua-fj"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "uculele-fj2",
+      "derua-fj2"
+    ],
+    "relatedInstruments2": [
+      "patepacific",
+      "garamut",
+      "nafa"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "conch-au",
+    "name": "Bu (Australian)",
+    "latin": "Bu",
+    "origin": "Australia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch-shell trumpet used in some Australian Aboriginal ceremonial contexts.",
+    "countryCode": "AU",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "bullroarer-au",
+      "yidaki-yolngu-au",
+      "yidaki",
+      "mago-bininj-au"
+    ],
+    "ensemblePairing": [
+      "music-boomerang",
+      "ukulele-ws",
+      "clapsticks-au"
+    ],
+    "relatedInstruments2": [
+      "putorino",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "meke-ipu-fj",
+    "name": "Ipu (Fijian)",
+    "latin": "Ipu",
+    "origin": "Fiji",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A gourd idiophone used in some Fijian dance accompaniment contexts.",
+    "countryCode": "FJ",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "sambula-fj",
+      "lali-ni-vanua",
+      "lali",
+      "derua-fj"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "uculele-fj2",
+      "derua-fj2"
+    ],
+    "relatedInstruments2": [
+      "ipu",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "conch-vu",
+    "name": "Conch (Vanuatu)",
+    "latin": "Conch",
+    "origin": "Vanuatu",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch-shell trumpet used in Vanuatu ceremonial signaling.",
+    "countryCode": "VU",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "423.11",
+      "gloss": "conches"
+    },
+    "relatedInstruments": [
+      "tamatangi",
+      "panpipe-vu",
+      "conch-fm",
+      "yidaki-yolngu-au"
+    ],
+    "ensemblePairing": [
+      "tamtam-vu",
+      "ukulele-ws",
+      "tamtam-vanuatu"
+    ],
+    "relatedInstruments2": [
+      "conch-fm",
+      "didgeridoo",
+      "putorino"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "bamboo-band-sb",
+    "name": "Bamboo band",
+    "latin": "Bamboo band",
+    "origin": "Solomon Islands",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Bamboo stamping-tube ensembles of Solomon Islands traditional music.",
+    "countryCode": "SB",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "slit-drum-sb",
+      "kundu-sb",
+      "bamboo-stamping-fm",
+      "bamboo-mp"
+    ],
+    "ensemblePairing": [
+      "susap-sb",
+      "ukulele-ws",
+      "susu-sb"
+    ],
+    "relatedInstruments2": [
+      "bamboo-stamping-fm",
+      "bamboo-gu",
+      "bamboo-mp"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "pahu-moto-pf",
+    "name": "Pahu moto",
+    "latin": "Pahu moto",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A bass drum type within Tahitian percussion ensembles.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pahu-tupa-i-rutu-pf",
+      "pahu-pf2",
+      "pahu-pf",
+      "pahu-nui-tahiti-pf"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "pahu-ra",
+      "pahu-hawaii",
+      "lali"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "hue-puruhau-nz",
+    "name": "Hue puruhau",
+    "latin": "Hue puruhau",
+    "origin": "New Zealand",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A gourd resonating vessel used as a Māori aerophone.",
+    "countryCode": "NZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "putorino",
+      "putatara-maori-nz",
+      "putatara",
+      "purerehua"
+    ],
+    "ensemblePairing": [
+      "porotiti-nz",
+      "ukulele-ws",
+      "porotiti-maori-nz"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "toere-pf",
+    "name": "Toere",
+    "latin": "Toere",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A slit drum of Tahitian traditional dance ensembles.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "toere-tahiti-pf",
+      "toere-pf2",
+      "toere",
+      "patepacific"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "garamut",
+      "nafa"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ipu-heke-us",
+    "name": "Ipu heke",
+    "latin": "Ipu heke",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A stacked double gourd drum of Hawaiian hula tradition.",
+    "countryCode": "US",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ipu-heke-ili-us",
+      "ipu-hawaii-us",
+      "ipu",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele",
+      "ohe-hano-ihu-us"
+    ],
+    "relatedInstruments2": [
+      "meke-ipu-fj",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "ondesmartenot",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "pahu-tupa-i-rutu-pf",
+    "name": "Pahu tupa i rutu",
+    "latin": "Pahu tupa i rutu",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A bass slit-log drum of Tahitian dance ensembles.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pahu-pf2",
+      "pahu-pf",
+      "pahu-nui-tahiti-pf",
+      "pahu-nui-pf"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "pahu-ra",
+      "pahu-hawaii",
+      "lali"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "uliuli-us",
+    "name": "Uliuli",
+    "latin": "Uliuli",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A feathered gourd rattle of Hawaiian hula tradition.",
+    "countryCode": "US",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "uliuli",
+      "puniu",
+      "puili-hula-us",
+      "pahu-hula-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele",
+      "ohe-hano-ihu-us"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "ondesmartenot",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "kaekeeke-us",
+    "name": "Kaekeeke",
+    "latin": "Kaekeeke",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Bamboo stamping pipes of Hawaiian traditional dance music.",
+    "countryCode": "US",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "kaekeeke-hula-us",
+      "uliuli-us",
+      "uliuli",
+      "puniu"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele",
+      "ohe-hano-ihu-us"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "ondesmartenot",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ohe-hano-ihu-us",
+    "name": "Ohe hano ihu",
+    "latin": "Ohe hano ihu",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A Hawaiian nose flute of traditional hula music.",
+    "countryCode": "US",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ohe-hano-ihu",
+      "nose-flute-hi-already",
+      "conch-hi",
+      "yidaki-yolngu-au"
+    ],
+    "ensemblePairing": [
+      "uliuli-us",
+      "ukulele",
+      "uliuli"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "putorino",
+      "panpipes-solomon"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "belembaotuyan",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "mago-au",
+    "name": "Mago",
+    "latin": "Mago",
+    "origin": "Australia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A didgeridoo type name used in western Arnhem Land.",
+    "countryCode": "AU",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "mago-bininj-au",
+      "yidaki-yolngu-au",
+      "yidaki",
+      "gumleaf"
+    ],
+    "ensemblePairing": [
+      "music-boomerang",
+      "ukulele-ws",
+      "clapsticks-au"
+    ],
+    "relatedInstruments2": [
+      "putorino",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "pahu-nui-pf",
+    "name": "Pahu nui",
+    "latin": "Pahu nui",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A large bass drum of Tahitian dance ensembles.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pahu-nui-tahiti-pf",
+      "pahu-tupa-i-rutu-pf",
+      "pahu-pf2",
+      "pahu-pf"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "pahu-ra",
+      "pahu-hawaii",
+      "lali"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "toere-tahiti-pf",
+    "name": "Toere tahiti",
+    "latin": "Toere tahiti",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A slit drum of Tahitian traditional dance music.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "toere-pf",
+      "pahu-nui-tahiti-pf",
+      "ihara-tahiti-pf",
+      "toere-pf2"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "garamut",
+      "nafa"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ihara-tahiti-pf",
+    "name": "Ihara tahiti",
+    "latin": "Ihara tahiti",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Bamboo stamping tubes of Tahitian ensembles.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "toere-tahiti-pf",
+      "pahu-nui-tahiti-pf",
+      "ihara-pf",
+      "toere-pf2"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "garamut",
+      "nafa"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "vivo-tahiti-pf",
+    "name": "Vivo tahiti",
+    "latin": "Vivo tahiti",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A nose flute of Tahitian traditional music.",
+    "countryCode": "PF",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "vivo",
+      "vivo-ck",
+      "yidaki-yolngu-au",
+      "yidaki"
+    ],
+    "ensemblePairing": [
+      "toere-tahiti-pf",
+      "ukulele-ws",
+      "pahu-nui-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "vivo-ck",
+      "didgeridoo",
+      "putorino"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "garamut"
+    ]
+  },
+  {
+    "id": "pahu-hula-us",
+    "name": "Pahu hula",
+    "latin": "Pahu hula",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A sharkskin drum of Hawaiian hula tradition.",
+    "countryCode": "US",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "puili-hula-us",
+      "pahu-hawaii",
+      "kaekeeke-hula-us",
+      "iliili-hula-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele",
+      "ohe-hano-ihu-us"
+    ],
+    "relatedInstruments2": [
+      "pahu-ra",
+      "pahu-pf",
+      "lali"
+    ],
+    "ensemblePairing2": [
+      "ondesmartenot",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ipu-heke-ili-us",
+    "name": "Ipu heke ili",
+    "latin": "Ipu heke ili",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A smaller double gourd drum of Hawaiian hula.",
+    "countryCode": "US",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ipu-heke-us",
+      "ipu-hawaii-us",
+      "ipu",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele",
+      "ohe-hano-ihu-us"
+    ],
+    "relatedInstruments2": [
+      "meke-ipu-fj",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "ondesmartenot",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "pukaea-maori-nz",
+    "name": "Pukaea Maori",
+    "latin": "Pukaea Maori",
+    "origin": "New Zealand",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A long wooden trumpet of Maori traditional music.",
+    "countryCode": "NZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "putorino",
+      "putatara-maori-nz",
+      "putatara",
+      "purerehua"
+    ],
+    "ensemblePairing": [
+      "porotiti-maori-nz",
+      "ukulele-ws",
+      "porotiti-nz"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "putatara-maori-nz",
+    "name": "Putatara",
+    "latin": "Putatara",
+    "origin": "New Zealand",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A conch trumpet of Maori ceremonial music.",
+    "countryCode": "NZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "putorino",
+      "putatara",
+      "purerehua",
+      "pukaea-maori-nz"
+    ],
+    "ensemblePairing": [
+      "porotiti-nz",
+      "ukulele-ws",
+      "porotiti-maori-nz"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "nguru-maori-nz",
+    "name": "Nguru",
+    "latin": "Nguru",
+    "origin": "New Zealand",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A nose flute of Maori traditional practice.",
+    "countryCode": "NZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "putorino",
+      "putatara-maori-nz",
+      "putatara",
+      "purerehua"
+    ],
+    "ensemblePairing": [
+      "porotiti-nz",
+      "ukulele-ws",
+      "porotiti-maori-nz"
+    ],
+    "relatedInstruments2": [
+      "didgeridoo",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "puili-hula-us",
+    "name": "Puili hula",
+    "latin": "Puili hula",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Split bamboo sticks of Hawaiian hula accompaniment.",
+    "countryCode": "US",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pahu-hula-us",
+      "kaekeeke-hula-us",
+      "iliili-hula-us",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele",
+      "ohe-hano-ihu-us"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "ondesmartenot",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "iliili-hula-us",
+    "name": "Iliili hula",
+    "latin": "Iliili hula",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Stone castanets of Hawaiian hula tradition.",
+    "countryCode": "US",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "puili-hula-us",
+      "pahu-hula-us",
+      "kaekeeke-hula-us",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele",
+      "ohe-hano-ihu-us"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "ondesmartenot",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "kaekeeke-hula-us",
+    "name": "Kaekeeke hula",
+    "latin": "Kaekeeke hula",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Bamboo stamping pipes of Hawaiian hula music.",
+    "countryCode": "US",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "puili-hula-us",
+      "pahu-hula-us",
+      "kaekeeke-us",
+      "iliili-hula-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele",
+      "ohe-hano-ihu-us"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "ondesmartenot",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "porotiti-maori-nz",
+    "name": "Porotiti Maori",
+    "latin": "Porotiti Maori",
+    "origin": "New Zealand",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A humming disk of Maori traditional practice.",
+    "countryCode": "NZ",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "porotiti-nz",
+      "pakuru",
+      "uliuli-us",
+      "uliuli"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "pukaea-maori-nz"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "yidaki-yolngu-au",
+    "name": "Yidaki Yolngu",
+    "latin": "Yidaki Yolngu",
+    "origin": "Australia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A Yolngu didgeridoo of Arnhem Land ceremonial music.",
+    "countryCode": "AU",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "yidaki",
+      "mago-bininj-au",
+      "mago-au",
+      "gumleaf"
+    ],
+    "ensemblePairing": [
+      "bilma-yolngu-au",
+      "ukulele-ws",
+      "music-boomerang"
+    ],
+    "relatedInstruments2": [
+      "putorino",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "bilma-yolngu-au",
+    "name": "Bilma Yolngu",
+    "latin": "Bilma Yolngu",
+    "origin": "Australia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "Clapsticks used with yidaki in Yolngu ceremony.",
+    "countryCode": "AU",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "bilma",
+      "music-boomerang",
+      "clapsticks-au",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "yidaki-yolngu-au"
+    ],
+    "relatedInstruments2": [
+      "lali",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "mago-bininj-au",
+    "name": "Mago Bininj",
+    "latin": "Mago Bininj",
+    "origin": "Australia",
+    "region": "Oceania",
+    "family": "wind",
+    "note": "A didgeridoo type of western Arnhem Land Bininj music.",
+    "countryCode": "AU",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "mago-au",
+      "yidaki-yolngu-au",
+      "yidaki",
+      "gumleaf"
+    ],
+    "ensemblePairing": [
+      "music-boomerang",
+      "ukulele-ws",
+      "clapsticks-au"
+    ],
+    "relatedInstruments2": [
+      "putorino",
+      "panpipes-solomon",
+      "fangufangu"
+    ],
+    "ensemblePairing2": [
+      "lali",
+      "ukulele",
+      "patepacific"
+    ]
+  },
+  {
+    "id": "pahu-nui-tahiti-pf",
+    "name": "Pahu nui Tahiti",
+    "latin": "Pahu nui Tahiti",
+    "origin": "French Polynesia",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A large bass drum of Tahitian traditional dance.",
+    "countryCode": "PF",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "pahu-nui-pf",
+      "toere-tahiti-pf",
+      "pahu-tupa-i-rutu-pf",
+      "pahu-pf2"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele-ws",
+      "vivo-tahiti-pf"
+    ],
+    "relatedInstruments2": [
+      "pahu-ra",
+      "pahu-hawaii",
+      "lali"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "susap",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ipu-hawaii-us",
+    "name": "Ipu Hawaii",
+    "latin": "Ipu Hawaii",
+    "origin": "United States",
+    "region": "Oceania",
+    "family": "percussion",
+    "note": "A gourd drum of Hawaiian hula music.",
+    "countryCode": "US",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ipu-heke-us",
+      "ipu-heke-ili-us",
+      "ipu",
+      "uliuli-us"
+    ],
+    "ensemblePairing": [
+      "utete-as",
+      "ukulele",
+      "ohe-hano-ihu-us"
+    ],
+    "relatedInstruments2": [
+      "meke-ipu-fj",
+      "patepacific",
+      "garamut"
+    ],
+    "ensemblePairing2": [
+      "ondesmartenot",
+      "susap",
+      "clavichord"
+    ]
+  }
+]

@@ -1,0 +1,7477 @@
+[
+  {
+    "id": "mandole",
+    "name": "Mandole",
+    "latin": "Mandole",
+    "origin": "Algeria",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A deep-bodied lute larger than the mandolin, anchoring Chaabi music's low register.",
+    "countryCode": "DZ",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "kwitra",
+      "guembri-algerian-dz",
+      "zeze",
+      "zez-sc2"
+    ],
+    "ensemblePairing": [
+      "tbila-dz",
+      "sparta-dz",
+      "tar-dz"
+    ],
+    "relatedInstruments2": [
+      "krar",
+      "nyatiti",
+      "guembri"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "krar",
+    "name": "Krar",
+    "latin": "Krar",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A five- or six-string lyre with a lively bounce.",
+    "countryCode": "ET",
+    "technique": "plucked",
+    "materials": "wood lyre, gut or nylon strings",
+    "classification": {
+      "code": "321.21",
+      "gloss": "bowl lyres"
+    },
+    "relatedInstruments": [
+      "krar-azmari-et",
+      "dita-et",
+      "begena-liturgical-et",
+      "begena"
+    ],
+    "ensemblePairing": [
+      "tsenatsil",
+      "zumbara-et",
+      "washint-oromo-et"
+    ],
+    "relatedInstruments2": [
+      "krar-er",
+      "mandole",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "nyatiti",
+    "name": "Nyatiti",
+    "latin": "Nyatiti",
+    "origin": "Kenya",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "An eight-stringed lyre played sitting, its strings plucked while toe-rings click the rhythm.",
+    "countryCode": "KE",
+    "technique": "plucked",
+    "materials": "wood lyre, animal skin, gut or nylon strings",
+    "classification": {
+      "code": "321.21-5",
+      "gloss": "bowl lyres"
+    },
+    "relatedInstruments": [
+      "orutu",
+      "obokano",
+      "ngadji",
+      "litungu"
+    ],
+    "ensemblePairing": [
+      "kayamba",
+      "nzumari",
+      "bukandi"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "guembri"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "ngadji",
+    "name": "Ngadji",
+    "latin": "Ngadji",
+    "origin": "Kenya",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "Strings from Kenya that carry melody across gatherings and quiet rooms.",
+    "countryCode": "KE",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "orutu",
+      "obokano",
+      "nyatiti",
+      "litungu"
+    ],
+    "ensemblePairing": [
+      "kayamba",
+      "nzumari",
+      "bukandi"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "guembri"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "guembri",
+    "name": "Guembri",
+    "latin": "Guembri",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A deep three-string lute driving Gnawa trance.",
+    "countryCode": "MA",
+    "technique": "plucked",
+    "materials": "wood, camel or goat skin, gut strings",
+    "classification": null,
+    "relatedInstruments": [
+      "guembri-gnawa-ma",
+      "ribab-ma",
+      "lotar",
+      "ginbri-ma"
+    ],
+    "ensemblePairing": [
+      "tbel-gnawa-ma",
+      "qasba-ma",
+      "tbel"
+    ],
+    "relatedInstruments2": [
+      "guembri-algerian-dz",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "valiha",
+    "name": "Valiha",
+    "latin": "Valiha",
+    "origin": "Madagascar",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A bamboo tube zither, its strings cut straight from the tube's own fibrous skin.",
+    "countryCode": "MG",
+    "technique": "plucked",
+    "materials": "bamboo tube, metal or gut strings",
+    "classification": {
+      "code": "312.11",
+      "gloss": "idiochord tube zithers"
+    },
+    "relatedInstruments": [
+      "valiha-mg-already",
+      "valiha-already",
+      "lokanga-voatavo-mg",
+      "lokanga"
+    ],
+    "ensemblePairing": [
+      "jedara",
+      "sodina",
+      "antsiva"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "inanga",
+    "name": "Inanga",
+    "latin": "Inanga",
+    "origin": "Rwanda",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A trough zither of eight strings, murmured to rather than struck, for quiet royal praise.",
+    "countryCode": "RW",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "322.11",
+      "gloss": "arched harps"
+    },
+    "relatedInstruments": [
+      "umuduri-rw",
+      "indingidi-rw",
+      "inanga-bi",
+      "zeze"
+    ],
+    "ensemblePairing": [
+      "ingoma-rw",
+      "zurna-maghreb",
+      "zumbara-et"
+    ],
+    "relatedInstruments2": [
+      "inanga-bi",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "tanbura-sudan",
+    "name": "Tanbura",
+    "latin": "Tanbura",
+    "origin": "Sudan",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A six-stringed bowl lyre used in ceremonies of healing and trance.",
+    "countryCode": "SD",
+    "technique": "plucked",
+    "materials": "bull's horn called a garin",
+    "classification": null,
+    "relatedInstruments": [
+      "tom-sd-already",
+      "kissar",
+      "tanbura-dj2",
+      "simsimiyya-eg-already"
+    ],
+    "ensemblePairing": [
+      "tom",
+      "waza",
+      "tambour-sd"
+    ],
+    "relatedInstruments2": [
+      "simsimiyya-eg-already",
+      "tanbura-dj2",
+      "mandole"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "mizwad",
+    "name": "Mizwad",
+    "latin": "Mizwad",
+    "origin": "Tunisia",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A goatskin bagpipe that drones and wails through wedding processions.",
+    "countryCode": "TN",
+    "technique": "blown",
+    "materials": "ewe's leather, with a joined double-chanter, terminating in two cow horns, similar to a hornpipe (instrument",
+    "classification": null,
+    "relatedInstruments": [
+      "zurna-maghreb",
+      "ney-tn2",
+      "mezoued-tn",
+      "mezoued-sfax-tn"
+    ],
+    "ensemblePairing": [
+      "tabla-tn",
+      "oud-tn",
+      "tabl"
+    ],
+    "relatedInstruments2": [
+      "agwara",
+      "mijwiz-levant",
+      "washint"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "zeze",
+    "name": "Zeze",
+    "latin": "Zeze",
+    "origin": "Tanzania",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A narrow plucked lute, its thin metal strings buzzing over a hollowed board.",
+    "countryCode": "TZ",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "311.221",
+      "gloss": "bar zithers"
+    },
+    "relatedInstruments": [
+      "zez-sc2",
+      "zez-sc",
+      "wata-er",
+      "valiha-mg-already"
+    ],
+    "ensemblePairing": [
+      "vugo",
+      "zurna-maghreb",
+      "rimba"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "adungu",
+    "name": "Adungu",
+    "latin": "Adungu",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "An arched harp of graduated strings, plucked into cascading, bell-like runs.",
+    "countryCode": "UG",
+    "technique": "plucked",
+    "materials": "cow leather as a soundboard",
+    "classification": {
+      "code": "322.11",
+      "gloss": "arched harps"
+    },
+    "relatedInstruments": [
+      "oseke",
+      "kissar-sd-already",
+      "kadingidi",
+      "entongoli"
+    ],
+    "ensemblePairing": [
+      "entenga",
+      "ndere-ug",
+      "ikondere"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "agwara",
+    "name": "Agwara",
+    "latin": "Agwara",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "Side-blown wooden or gourd trumpets of the Alur and related peoples of northwestern Uganda.",
+    "countryCode": "UG",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ndere-ug",
+      "ikondere",
+      "endere",
+      "zurna-maghreb"
+    ],
+    "ensemblePairing": [
+      "entenga",
+      "oseke",
+      "kissar-sd-already"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "mijwiz-levant",
+      "washint"
+    ],
+    "ensemblePairing2": [
+      "riq",
+      "mandole",
+      "kebero"
+    ]
+  },
+  {
+    "id": "ebinyege",
+    "name": "Ebinyege",
+    "latin": "Ebinyege",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Leg rattles worn by Ugandan dancers, especially in western and central traditions.",
+    "countryCode": "UG",
+    "technique": "shaken",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "endege",
+      "entenga",
+      "engoma",
+      "endingidi-already"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "oseke",
+      "ndere-ug"
+    ],
+    "relatedInstruments2": [
+      "kayamba",
+      "shekere",
+      "hosho"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "pierre-b-ique-organ"
+    ]
+  },
+  {
+    "id": "empuunyi",
+    "name": "Empuunyi",
+    "latin": "Empuunyi",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "The large bass drum of the Buganda royal and ceremonial drum ensemble.",
+    "countryCode": "UG",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "entenga",
+      "engoma",
+      "balafon-bwete",
+      "amadinda"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "oseke",
+      "ndere-ug"
+    ],
+    "relatedInstruments2": [
+      "riq",
+      "kebero",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "endege",
+    "name": "Endege",
+    "latin": "Endege",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Seed or gourd rattles of Ugandan traditional dance accompaniment.",
+    "countryCode": "UG",
+    "technique": "shaken",
+    "materials": "metal and consist of small, forged bells or jingles",
+    "classification": null,
+    "relatedInstruments": [
+      "ebinyege",
+      "entenga",
+      "engoma",
+      "endingidi-already"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "oseke",
+      "ndere-ug"
+    ],
+    "relatedInstruments2": [
+      "kayamba",
+      "shekere",
+      "hosho"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "pierre-b-ique-organ"
+    ]
+  },
+  {
+    "id": "ennongo",
+    "name": "Ennongo",
+    "latin": "Ennongo",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A traditional Ugandan chordophone of Busoga and neighboring song accompaniment.",
+    "countryCode": "UG",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "oseke",
+      "kissar-sd-already",
+      "kadingidi",
+      "entongoli"
+    ],
+    "ensemblePairing": [
+      "entenga",
+      "ndere-ug",
+      "ikondere"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "entenga",
+    "name": "Entenga",
+    "latin": "Entenga",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "The tuned royal drum chime of the Buganda court, played as a melodic percussion ensemble.",
+    "countryCode": "UG",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "engoma",
+      "empuunyi",
+      "balafon-bwete",
+      "amadinda"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "oseke",
+      "ndere-ug"
+    ],
+    "relatedInstruments2": [
+      "riq",
+      "kebero",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "kadingidi",
+    "name": "Kadingidi",
+    "latin": "Kadingidi",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A one-string tube fiddle of Ugandan folk song accompaniment.",
+    "countryCode": "UG",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "oseke",
+      "kissar-sd-already",
+      "entongoli",
+      "ennongo"
+    ],
+    "ensemblePairing": [
+      "entenga",
+      "ndere-ug",
+      "ikondere"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "oseke",
+    "name": "Oseke",
+    "latin": "Oseke",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A mouth-resonated musical bow of Ugandan traditional practice.",
+    "countryCode": "UG",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "kissar-sd-already",
+      "kadingidi",
+      "entongoli",
+      "ennongo"
+    ],
+    "ensemblePairing": [
+      "entenga",
+      "ndere-ug",
+      "ikondere"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "mijwiz-levant",
+    "name": "Arghul",
+    "latin": "Arghul",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A paired single-reed pipe with drone of Egyptian and Levantine folk music.",
+    "countryCode": "EG",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "422.22",
+      "gloss": "sets of clarinets"
+    },
+    "relatedInstruments": [
+      "arghul-tawil-eg",
+      "arghul-qasir-eg",
+      "salamiyya",
+      "mizmar-saiidi-eg"
+    ],
+    "ensemblePairing": [
+      "tabla-masri-eg",
+      "simsimiyya-eg-already",
+      "tabla-egypian"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "washint"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "kebero"
+    ]
+  },
+  {
+    "id": "mizmar",
+    "name": "Mizmar",
+    "latin": "Mizmar",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A piercing shawm of Egyptian wedding and folk processions.",
+    "countryCode": "EG",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "422.112.2",
+      "gloss": "with conical bore"
+    },
+    "relatedInstruments": [
+      "mizmar-saiidi-eg",
+      "mizmar-baladi",
+      "salamiyya",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing": [
+      "tabla-masri-eg",
+      "simsimiyya-eg-already",
+      "tabla-egypian"
+    ],
+    "relatedInstruments2": [
+      "mizmar-dj",
+      "mizwad",
+      "agwara"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "kebero"
+    ]
+  },
+  {
+    "id": "riq",
+    "name": "Riq",
+    "latin": "Riq",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A tambourine with jingles central to Arabic classical rhythm.",
+    "countryCode": "EG",
+    "technique": "struck",
+    "materials": "wood frame, fish or goat skin, metal jingles",
+    "classification": {
+      "code": "211.311",
+      "gloss": "single-skin frame drums"
+    },
+    "relatedInstruments": [
+      "riq-egyptian-eg",
+      "tabla-masri-eg",
+      "tabla-egypian",
+      "tabl-baladi"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "simsimiyya-eg-already",
+      "salamiyya"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "kebero",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "tabla-egypian",
+    "name": "Tabla (darabuka)",
+    "latin": "Tabla baladi",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "The Egyptian goblet drum of baladi and classical ensembles.",
+    "countryCode": "EG",
+    "technique": "struck",
+    "materials": "ceramic or metal goblet, fish or goat skin",
+    "classification": {
+      "code": "211.11",
+      "gloss": "separate kettle drums"
+    },
+    "relatedInstruments": [
+      "tabla-masri-eg",
+      "tabl-baladi",
+      "sagat-saiidi-eg",
+      "sagat"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "simsimiyya-eg-already",
+      "salamiyya"
+    ],
+    "relatedInstruments2": [
+      "tabla-tn",
+      "empuunyi",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "sagat",
+    "name": "Sagat",
+    "latin": "Sagat",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Finger cymbals of Egyptian dance and folk accompaniment.",
+    "countryCode": "EG",
+    "technique": "struck",
+    "materials": "brass or bronze finger cymbals",
+    "classification": null,
+    "relatedInstruments": [
+      "sagat-saiidi-eg",
+      "tabla-masri-eg",
+      "tabla-egypian",
+      "tabl-baladi"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "simsimiyya-eg-already",
+      "salamiyya"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "kebero",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "rebab-egypt",
+    "name": "Rababa",
+    "latin": "Rababa",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A spike fiddle of Egyptian and Sudanese epic song.",
+    "countryCode": "EG",
+    "technique": "bowed",
+    "materials": "wood, skin soundboard, horsehair",
+    "classification": null,
+    "relatedInstruments": [
+      "simsimiyya-eg-already",
+      "qanun-eg",
+      "oud-eg",
+      "rababa-ss"
+    ],
+    "ensemblePairing": [
+      "tabla-masri-eg",
+      "salamiyya",
+      "tabla-egypian"
+    ],
+    "relatedInstruments2": [
+      "rababa-ss",
+      "masenqo",
+      "endingidi"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "endingidi-already",
+      "cornemuse-du-centre"
+    ]
+  },
+  {
+    "id": "masenqo",
+    "name": "Masenqo",
+    "latin": "Masenqo",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A one-string bowed fiddle of Ethiopian azmari song.",
+    "countryCode": "ET",
+    "technique": "bowed",
+    "materials": "wood, rawhide, horsehair",
+    "classification": {
+      "code": "321.311",
+      "gloss": "spike bowls / spike bowl lutes"
+    },
+    "relatedInstruments": [
+      "masenqo-azmari-et",
+      "krar-azmari-et",
+      "krar",
+      "dita-et"
+    ],
+    "ensemblePairing": [
+      "tsenatsil",
+      "zumbara-et",
+      "washint-oromo-et"
+    ],
+    "relatedInstruments2": [
+      "rebab-egypt",
+      "endingidi",
+      "rababa-ss"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "endingidi-already",
+      "cornemuse-du-centre"
+    ]
+  },
+  {
+    "id": "washint",
+    "name": "Washint",
+    "latin": "Washint",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown bamboo melody flute of Ethiopian highland song and dance music.",
+    "countryCode": "ET",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "421.111.12",
+      "gloss": "single end-blown flutes"
+    },
+    "relatedInstruments": [
+      "washint-oromo-et",
+      "washint-amhara-et",
+      "zumbara-et",
+      "meleket"
+    ],
+    "ensemblePairing": [
+      "tsenatsil",
+      "masenqo-azmari-et",
+      "masenqo"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "kebero",
+    "name": "Kebero",
+    "latin": "Kebero",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A double-headed liturgical drum of the Ethiopian Orthodox Church.",
+    "countryCode": "ET",
+    "technique": "struck",
+    "materials": "wood shell, animal skin",
+    "classification": null,
+    "relatedInstruments": [
+      "kebero-tigray-et",
+      "kebero-beata-et",
+      "tsenatsil",
+      "kebero-already"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "masenqo-azmari-et",
+      "zumbara-et"
+    ],
+    "relatedInstruments2": [
+      "kebero-er",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "begena",
+    "name": "Begena",
+    "latin": "Begena",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A large ten-string box lyre of Ethiopian sacred song.",
+    "countryCode": "ET",
+    "technique": "plucked",
+    "materials": "horn or wood is",
+    "classification": {
+      "code": "321.22",
+      "gloss": "box lyres"
+    },
+    "relatedInstruments": [
+      "begena-liturgical-et",
+      "krar-azmari-et",
+      "krar",
+      "dita-et"
+    ],
+    "ensemblePairing": [
+      "tsenatsil",
+      "zumbara-et",
+      "washint-oromo-et"
+    ],
+    "relatedInstruments2": [
+      "begena-er",
+      "mandole",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "tom",
+    "name": "Tom",
+    "latin": "Tom",
+    "origin": "Sudan",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A Sudanese drum type used in zar and folk ceremony.",
+    "countryCode": "SD",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tambour-sd",
+      "daluka",
+      "tom-ss",
+      "vugo"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "tom-sd-already",
+      "waza"
+    ],
+    "relatedInstruments2": [
+      "tom-ss",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "kissar",
+    "name": "Kissar",
+    "latin": "Kissar",
+    "origin": "Sudan",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A bowl lyre of Nubian and Sudanese tradition.",
+    "countryCode": "SD",
+    "technique": "plucked",
+    "materials": "wood, covered with a soundboard of sheepskin, in",
+    "classification": {
+      "code": "321.21",
+      "gloss": "bowl lyres"
+    },
+    "relatedInstruments": [
+      "tom-sd-already",
+      "tanbura-sudan",
+      "zeze",
+      "zez-sc2"
+    ],
+    "ensemblePairing": [
+      "tom",
+      "waza",
+      "tambour-sd"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "gimbri",
+    "name": "Gimbri",
+    "latin": "Gimbri",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A three-string bass lute of Gnawa ceremony (also guembri).",
+    "countryCode": "MA",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ribab-ma",
+      "lotar",
+      "guembri-gnawa-ma",
+      "guembri"
+    ],
+    "ensemblePairing": [
+      "tbel-gnawa-ma",
+      "qasba-ma",
+      "tbel"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "qraqeb",
+    "name": "Qraqeb",
+    "latin": "Qraqeb",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Iron castanets of Moroccan Gnawa ritual music.",
+    "countryCode": "MA",
+    "technique": "struck",
+    "materials": "iron castanets",
+    "classification": null,
+    "relatedInstruments": [
+      "qraqeb-gnawa-ma",
+      "tbel-gnawa-ma",
+      "tbel",
+      "tarija"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "ribab-ma",
+      "qasba-ma"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "bendir",
+    "name": "Bendir",
+    "latin": "Bendir",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A snared frame drum of Maghrebi folk and Sufi music.",
+    "countryCode": "MA",
+    "technique": "struck",
+    "materials": "wood frame, goatskin",
+    "classification": {
+      "code": "211.3",
+      "gloss": "frame drums"
+    },
+    "relatedInstruments": [
+      "bendir-moroccan-ma",
+      "tbel-gnawa-ma",
+      "tbel",
+      "tarija"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "ribab-ma",
+      "qasba-ma"
+    ],
+    "relatedInstruments2": [
+      "bendir-dz",
+      "bendir-tn",
+      "bendir-ly"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ghaita",
+    "name": "Ghaita",
+    "latin": "Ghaita",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A Maghrebi shawm of outdoor celebration.",
+    "countryCode": "MA",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "qasba-ma",
+      "nay-ma",
+      "zurna-maghreb",
+      "zumbara-et"
+    ],
+    "ensemblePairing": [
+      "tbel-gnawa-ma",
+      "ribab-ma",
+      "tbel"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "gasba",
+    "name": "Gasba",
+    "latin": "Gasba",
+    "origin": "Algeria",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown reed flute of Algerian and Maghrebi folk song.",
+    "countryCode": "DZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "gasba-oran-dz",
+      "gasba-chaabi-dz",
+      "sparta-dz",
+      "gasba-dz-already"
+    ],
+    "ensemblePairing": [
+      "tbila-dz",
+      "mandole",
+      "tar-dz"
+    ],
+    "relatedInstruments2": [
+      "gasba-tn",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "krar",
+      "riq"
+    ]
+  },
+  {
+    "id": "zurna-maghreb",
+    "name": "Zukra",
+    "latin": "Zukra",
+    "origin": "Tunisia",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A Tunisian bagpipe of rural festivity.",
+    "countryCode": "TN",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ney-tn2",
+      "mizwad",
+      "mezoued-tn",
+      "mezoued-sfax-tn"
+    ],
+    "ensemblePairing": [
+      "tabla-tn",
+      "oud-tn",
+      "tabl"
+    ],
+    "relatedInstruments2": [
+      "agwara",
+      "mijwiz-levant",
+      "washint"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "tabl",
+    "name": "Tabl",
+    "latin": "Tabl",
+    "origin": "Tunisia",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A double-headed drum of North African folk ensembles.",
+    "countryCode": "TN",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tabla-tn",
+      "darbuka-tn2",
+      "darbouka-tunisian-tn",
+      "darbouka-tn-folk"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "oud-tn",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "tabl-baladi",
+      "empuunyi",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "endongo",
+    "name": "Endongo",
+    "latin": "Endongo",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A bowl lyre of the Baganda people of Uganda.",
+    "countryCode": "UG",
+    "technique": "plucked",
+    "materials": "the hardwood makembya tree (also known as olusambya",
+    "classification": {
+      "code": "321.21",
+      "gloss": "bowl lyres"
+    },
+    "relatedInstruments": [
+      "oseke",
+      "kissar-sd-already",
+      "kadingidi",
+      "entongoli"
+    ],
+    "ensemblePairing": [
+      "entenga",
+      "ndere-ug",
+      "ikondere"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "endingidi",
+    "name": "Endingidi",
+    "latin": "Endingidi",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A one-string tube fiddle of Ugandan folk song.",
+    "countryCode": "UG",
+    "technique": "bowed",
+    "materials": "wood or cow horn",
+    "classification": {
+      "code": "321.313-7",
+      "gloss": "spike tube lutes; sounded by bowing"
+    },
+    "relatedInstruments": [
+      "oseke",
+      "kissar-sd-already",
+      "kadingidi",
+      "entongoli"
+    ],
+    "ensemblePairing": [
+      "endingidi-already",
+      "ndere-ug",
+      "ikondere"
+    ],
+    "relatedInstruments2": [
+      "rebab-egypt",
+      "masenqo",
+      "rababa-ss"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "riq",
+      "cornemuse-du-centre"
+    ]
+  },
+  {
+    "id": "engoma",
+    "name": "Engoma",
+    "latin": "Engoma",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Royal and social drums of Buganda tradition.",
+    "countryCode": "UG",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "entenga",
+      "empuunyi",
+      "balafon-bwete",
+      "amadinda"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "oseke",
+      "ndere-ug"
+    ],
+    "relatedInstruments2": [
+      "riq",
+      "kebero",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ilimba",
+    "name": "Ilimba",
+    "latin": "Ilimba",
+    "origin": "Tanzania",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A large lamellophone of the Gogo people of Tanzania.",
+    "countryCode": "TZ",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "112.11",
+      "gloss": "suspension rattle"
+    },
+    "relatedInstruments": [
+      "vugo",
+      "rimba",
+      "ngoma-tz",
+      "msondo"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "zeze",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "balafon-bwete",
+    "name": "Endara",
+    "latin": "Endara",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A log xylophone of the Bagisu people of eastern Uganda.",
+    "countryCode": "UG",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "entenga",
+      "engoma",
+      "empuunyi",
+      "amadinda"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "oseke",
+      "ndere-ug"
+    ],
+    "relatedInstruments2": [
+      "riq",
+      "kebero",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "entongoli",
+    "name": "Entongoli",
+    "latin": "Entongoli",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "An eight-string bowl lyre of Basoga tradition in Uganda.",
+    "countryCode": "UG",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "oseke",
+      "kissar-sd-already",
+      "kadingidi",
+      "ennongo"
+    ],
+    "ensemblePairing": [
+      "entenga",
+      "ndere-ug",
+      "ikondere"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "adungu-keep",
+    "name": "Ardin",
+    "latin": "Ardin",
+    "origin": "Mauritania",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A Moorish woman's harp of Mauritanian classical music.",
+    "countryCode": "MR",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "322.12",
+      "gloss": "angular harps"
+    },
+    "relatedInstruments": [
+      "ardin-eh",
+      "zeze",
+      "zez-sc2",
+      "zez-sc"
+    ],
+    "ensemblePairing": [
+      "tidinit-keep",
+      "neifara-mr",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "ardin-eh",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "tidinit-keep",
+    "name": "Tbal",
+    "latin": "Tbal",
+    "origin": "Mauritania",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A kettledrum of Mauritanian and Saharan ceremonial music.",
+    "countryCode": "MR",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tbal-eh",
+      "vugo",
+      "tsenatsil",
+      "triangle-sc"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "adungu-keep",
+      "neifara-mr"
+    ],
+    "relatedInstruments2": [
+      "tbal-eh",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "kawala",
+    "name": "Kawala",
+    "latin": "Kawala",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown reed flute of Egyptian Sufi and folk practice.",
+    "countryCode": "EG",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "421.111.12",
+      "gloss": "single end-blown flutes"
+    },
+    "relatedInstruments": [
+      "salamiyya",
+      "mizmar-saiidi-eg",
+      "mizmar-baladi",
+      "mizmar"
+    ],
+    "ensemblePairing": [
+      "tabla-masri-eg",
+      "simsimiyya-eg-already",
+      "tabla-egypian"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "washint"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "kebero"
+    ]
+  },
+  {
+    "id": "salamiyya",
+    "name": "Salamiyya",
+    "latin": "Salamiyya",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A longer Egyptian reed flute related to the kawala.",
+    "countryCode": "EG",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "mizmar-saiidi-eg",
+      "mizmar-baladi",
+      "mizmar",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing": [
+      "tabla-masri-eg",
+      "simsimiyya-eg-already",
+      "tabla-egypian"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "washint"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "kebero"
+    ]
+  },
+  {
+    "id": "tabl-baladi",
+    "name": "Tabl baladi",
+    "latin": "Tabl baladi",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A large double-headed drum of Egyptian street and wedding music.",
+    "countryCode": "EG",
+    "technique": "struck",
+    "materials": "made of hard wood, perhaps walnut or chestnut, though many woods may be in use depending on the regi",
+    "classification": null,
+    "relatedInstruments": [
+      "tabla-masri-eg",
+      "tabla-egypian",
+      "sagat-saiidi-eg",
+      "sagat"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "simsimiyya-eg-already",
+      "mizmar-baladi"
+    ],
+    "relatedInstruments2": [
+      "tabl",
+      "empuunyi",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "mazhar",
+    "name": "Mazhar",
+    "latin": "Mazhar",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A deep-framed tambourine of Egyptian classical and folk rhythm.",
+    "countryCode": "EG",
+    "technique": "struck",
+    "materials": "generally made out of wood",
+    "classification": null,
+    "relatedInstruments": [
+      "tabla-masri-eg",
+      "tabla-egypian",
+      "tabl-baladi",
+      "sagat-saiidi-eg"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "simsimiyya-eg-already",
+      "salamiyya"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "kebero",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "duff-eg",
+    "name": "Duff",
+    "latin": "Duff",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A frame drum of Egyptian and wider Arab folk and ritual music.",
+    "countryCode": "EG",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "211.311",
+      "gloss": "single-skin frame drums"
+    },
+    "relatedInstruments": [
+      "tabla-masri-eg",
+      "tabla-egypian",
+      "tabl-baladi",
+      "sagat-saiidi-eg"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "simsimiyya-eg-already",
+      "salamiyya"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "kebero",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "akadinda",
+    "name": "Akadinda",
+    "latin": "Akadinda",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A large log xylophone of the Buganda court tradition.",
+    "countryCode": "UG",
+    "technique": "struck",
+    "materials": "rosewood, ebony, birch, or other hard woods",
+    "classification": null,
+    "relatedInstruments": [
+      "entenga",
+      "engoma",
+      "empuunyi",
+      "balafon-bwete"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "oseke",
+      "ndere-ug"
+    ],
+    "relatedInstruments2": [
+      "riq",
+      "kebero",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "amadinda",
+    "name": "Amadinda",
+    "latin": "Amadinda",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A twelve-key xylophone of Buganda classical music.",
+    "countryCode": "UG",
+    "technique": "struck",
+    "materials": "rosewood, ebony, birch, or other hard woods",
+    "classification": {
+      "code": "111.212",
+      "gloss": "sets of percussion sticks"
+    },
+    "relatedInstruments": [
+      "entenga",
+      "engoma",
+      "empuunyi",
+      "balafon-bwete"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "oseke",
+      "ndere-ug"
+    ],
+    "relatedInstruments2": [
+      "riq",
+      "kebero",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ennanga",
+    "name": "Ennanga",
+    "latin": "Ennanga",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A arched harp of the Buganda court.",
+    "countryCode": "UG",
+    "technique": "plucked",
+    "materials": "calabash, with 10 to 16 strings and metal rings affixed to the top of the neck, and a skin belly",
+    "classification": {
+      "code": "322.11",
+      "gloss": "arched harps"
+    },
+    "relatedInstruments": [
+      "oseke",
+      "kissar-sd-already",
+      "kadingidi",
+      "entongoli"
+    ],
+    "ensemblePairing": [
+      "entenga",
+      "ndere-ug",
+      "ikondere"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "litungu",
+    "name": "Litungu",
+    "latin": "Litungu",
+    "origin": "Kenya",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A seven-string lyre of the Luhya people of western Kenya.",
+    "countryCode": "KE",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "orutu",
+      "obokano",
+      "nyatiti",
+      "ngadji"
+    ],
+    "ensemblePairing": [
+      "kayamba",
+      "nzumari",
+      "bukandi"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "guembri"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "orutu",
+    "name": "Orutu",
+    "latin": "Orutu",
+    "origin": "Kenya",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A one-string bowed fiddle of Luo popular and folk music.",
+    "countryCode": "KE",
+    "technique": "plucked",
+    "materials": "a hollowed out piece of wood",
+    "classification": {
+      "code": "321.313",
+      "gloss": "spike tube lutes"
+    },
+    "relatedInstruments": [
+      "obokano",
+      "nyatiti",
+      "ngadji",
+      "litungu"
+    ],
+    "ensemblePairing": [
+      "kayamba",
+      "nzumari",
+      "bukandi"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "guembri"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "embilta",
+    "name": "Embilta",
+    "latin": "Embilta",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "Sets of end-blown bamboo tubes without finger holes, sounded in Ethiopian ceremonial ensembles.",
+    "countryCode": "ET",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "zumbara-et",
+      "washint-oromo-et",
+      "washint-amhara-et",
+      "washint"
+    ],
+    "ensemblePairing": [
+      "tsenatsil",
+      "masenqo-azmari-et",
+      "masenqo"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "meleket",
+    "name": "Meleket",
+    "latin": "Meleket",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A long natural trumpet of Ethiopian ceremonial ensembles.",
+    "countryCode": "ET",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "zumbara-et",
+      "washint-oromo-et",
+      "washint-amhara-et",
+      "washint"
+    ],
+    "ensemblePairing": [
+      "tsenatsil",
+      "masenqo-azmari-et",
+      "masenqo"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "waza",
+    "name": "Waza",
+    "latin": "Waza",
+    "origin": "Sudan",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "End-blown gourd trumpets of the Berta people of Sudan and Ethiopia.",
+    "countryCode": "SD",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "zurna-maghreb",
+      "zumbara-et",
+      "zokra-ly2",
+      "zokra-ly"
+    ],
+    "ensemblePairing": [
+      "tom",
+      "tom-sd-already",
+      "tanbura-sudan"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "umuduri",
+    "name": "Umuduri",
+    "latin": "Umuduri",
+    "origin": "Burundi",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A braced musical bow of Burundian tradition.",
+    "countryCode": "BI",
+    "technique": "plucked",
+    "materials": "plant fiber and animal gut",
+    "classification": {
+      "code": "311.111",
+      "gloss": "bar zithers"
+    },
+    "relatedInstruments": [
+      "indonongo",
+      "inanga-bi",
+      "umuduri-rw",
+      "zeze"
+    ],
+    "ensemblePairing": [
+      "vugo",
+      "igihuha",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "umuduri-rw",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "ikondere",
+    "name": "Ikondere",
+    "latin": "Ikondere",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "Side-blown gourd trumpets of Ugandan royal and ceremonial music.",
+    "countryCode": "UG",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ndere-ug",
+      "endere",
+      "agwara",
+      "zurna-maghreb"
+    ],
+    "ensemblePairing": [
+      "entenga",
+      "oseke",
+      "kissar-sd-already"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "mijwiz-levant",
+      "washint"
+    ],
+    "ensemblePairing2": [
+      "riq",
+      "mandole",
+      "kebero"
+    ]
+  },
+  {
+    "id": "endingidi-already",
+    "name": "Engalabi",
+    "latin": "Engalabi",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A long drum of Buganda ensembles.",
+    "countryCode": "UG",
+    "technique": "bowed",
+    "materials": null,
+    "classification": {
+      "code": "211.211.1-7",
+      "gloss": "single-skin cylindrical drums; sounded by bowing"
+    },
+    "relatedInstruments": [
+      "entenga",
+      "engoma",
+      "endege",
+      "empuunyi"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "endingidi",
+      "ndere-ug"
+    ],
+    "relatedInstruments2": [
+      "riq",
+      "kebero",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "pierre-b-ique-organ"
+    ]
+  },
+  {
+    "id": "nzumari",
+    "name": "Nzumari",
+    "latin": "Nzumari",
+    "origin": "Kenya",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A coastal Kenyan double-reed shawm of Swahili tradition.",
+    "countryCode": "KE",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "abu-ke",
+      "zurna-maghreb",
+      "zumbara-et",
+      "zokra-ly2"
+    ],
+    "ensemblePairing": [
+      "kayamba",
+      "orutu",
+      "obokano"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "kayamba",
+    "name": "Kayamba",
+    "latin": "Kayamba",
+    "origin": "Kenya",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A raft rattle of coastal East African dance music.",
+    "countryCode": "KE",
+    "technique": "shaken",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "bukandi",
+      "endege",
+      "ebinyege",
+      "vugo"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "orutu",
+      "nzumari"
+    ],
+    "relatedInstruments2": [
+      "ebinyege",
+      "shekere",
+      "hosho"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "pierre-b-ique-organ"
+    ]
+  },
+  {
+    "id": "msondo",
+    "name": "Msondo",
+    "latin": "Msondo",
+    "origin": "Tanzania",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A drum of Zanzibari and coastal Tanzanian dance music.",
+    "countryCode": "TZ",
+    "technique": "struck",
+    "materials": "a terra-cotta pitcher topped with goatskin",
+    "classification": null,
+    "relatedInstruments": [
+      "vugo",
+      "rimba",
+      "ngoma-tz",
+      "marimba-tz"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "zeze",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "msondo-km",
+      "msondo-yt",
+      "empuunyi"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "vugo",
+    "name": "Vugo",
+    "latin": "Vugo",
+    "origin": "Tanzania",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A buffalo-horn idiophone of coastal wedding music in Tanzania.",
+    "countryCode": "TZ",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "rimba",
+      "ngoma-tz",
+      "msondo",
+      "marimba-tz"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "zeze",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "chapuo",
+    "name": "Chapuo",
+    "latin": "Chapuo",
+    "origin": "Tanzania",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A small frame drum of taarab-related coastal ensembles.",
+    "countryCode": "TZ",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "211.212.11",
+      "gloss": "double-skin cylindrical drums"
+    },
+    "relatedInstruments": [
+      "vugo",
+      "rimba",
+      "ngoma-tz",
+      "msondo"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "zeze",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "rimba",
+    "name": "Rimba",
+    "latin": "Rimba",
+    "origin": "Tanzania",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A log xylophone of southern Tanzanian traditions.",
+    "countryCode": "TZ",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "vugo",
+      "ngoma-tz",
+      "msondo",
+      "marimba-tz"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "zeze",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "marimba-tz",
+    "name": "Marimba (Tanzanian)",
+    "latin": "Marimba",
+    "origin": "Tanzania",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A Tanzanian xylophone tradition distinct from Latin American marimba.",
+    "countryCode": "TZ",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.212",
+      "gloss": "sets of percussion sticks"
+    },
+    "relatedInstruments": [
+      "ngoma-tz",
+      "vugo",
+      "rimba",
+      "msondo"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "zeze",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "lotar",
+    "name": "Lotar",
+    "latin": "Lotar",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A plucked lute of Amazigh folk music in Morocco.",
+    "countryCode": "MA",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ribab-ma",
+      "guembri-gnawa-ma",
+      "guembri",
+      "ginbri-ma"
+    ],
+    "ensemblePairing": [
+      "tbel-gnawa-ma",
+      "qasba-ma",
+      "tbel"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "ribab-ma",
+    "name": "Ribab",
+    "latin": "Ribab",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A bowed spike fiddle of Amazigh traditions in Morocco.",
+    "countryCode": "MA",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "lotar",
+      "guembri-gnawa-ma",
+      "guembri",
+      "ginbri-ma"
+    ],
+    "ensemblePairing": [
+      "tbel-gnawa-ma",
+      "qasba-ma",
+      "tbel"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "tbel",
+    "name": "Tbel",
+    "latin": "Tbel",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A large double-headed drum of Moroccan ceremonial music.",
+    "countryCode": "MA",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tbel-gnawa-ma",
+      "tarija",
+      "qraqeb-gnawa-ma",
+      "qraqeb"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "ribab-ma",
+      "qasba-ma"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "tarija",
+    "name": "Tarija",
+    "latin": "Tarija",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A small terracotta goblet drum of Moroccan folk music.",
+    "countryCode": "MA",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tbel-gnawa-ma",
+      "tbel",
+      "qraqeb-gnawa-ma",
+      "qraqeb"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "ribab-ma",
+      "qasba-ma"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "gasba-dz-already",
+    "name": "Zorna",
+    "latin": "Zorna",
+    "origin": "Algeria",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An Algerian outdoor shawm of festivity and procession.",
+    "countryCode": "DZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "sparta-dz",
+      "gasba-oran-dz",
+      "gasba-chaabi-dz",
+      "gasba"
+    ],
+    "ensemblePairing": [
+      "tbila-dz",
+      "mandole",
+      "tar-dz"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "krar",
+      "riq"
+    ]
+  },
+  {
+    "id": "bendir-dz",
+    "name": "Bendir (Algerian)",
+    "latin": "Bendir",
+    "origin": "Algeria",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A frame drum of Algerian folk and Andalusian-related practice.",
+    "countryCode": "DZ",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "211.3",
+      "gloss": "frame drums"
+    },
+    "relatedInstruments": [
+      "tar-dz",
+      "tbila-dz",
+      "guellal",
+      "darbouka-dz2"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "guembri-algerian-dz",
+      "sparta-dz"
+    ],
+    "relatedInstruments2": [
+      "bendir",
+      "bendir-tn",
+      "bendir-ly"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "valiha-already",
+    "name": "Marovany",
+    "latin": "Marovany",
+    "origin": "Madagascar",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A box zither of Malagasy traditional music.",
+    "countryCode": "MG",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "valiha-mg-already",
+      "valiha",
+      "lokanga-voatavo-mg",
+      "lokanga"
+    ],
+    "ensemblePairing": [
+      "jedara",
+      "sodina",
+      "antsiva"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "lokanga",
+    "name": "Lokanga",
+    "latin": "Lokanga",
+    "origin": "Madagascar",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A bowed folk fiddle of Madagascar.",
+    "countryCode": "MG",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "lokanga-voatavo-mg",
+      "valiha-mg-already",
+      "valiha-already",
+      "valiha"
+    ],
+    "ensemblePairing": [
+      "jedara",
+      "sodina",
+      "antsiva"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "kabosy",
+    "name": "Kabosy",
+    "latin": "Kabosy",
+    "origin": "Madagascar",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A fretted folk lute of Madagascar.",
+    "countryCode": "MG",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "valiha-mg-already",
+      "valiha-already",
+      "valiha",
+      "lokanga-voatavo-mg"
+    ],
+    "ensemblePairing": [
+      "jedara",
+      "sodina",
+      "antsiva"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "jedara",
+    "name": "Jedara",
+    "latin": "Jedara",
+    "origin": "Madagascar",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A drum of Malagasy ceremonial and dance music.",
+    "countryCode": "MG",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "amponga",
+      "vugo",
+      "tsenatsil",
+      "triangle-sc"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "valiha-mg-already",
+      "sodina"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "inanga-rw-already",
+    "name": "Ikembe",
+    "latin": "Ikembe",
+    "origin": "Rwanda",
+    "region": "North & East Africa",
+    "family": "freereed",
+    "note": "A lamellophone of Rwandan and neighboring Great Lakes traditions.",
+    "countryCode": "RW",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "122.1",
+      "gloss": "with laced-on lamellae"
+    },
+    "relatedInstruments": [
+      "accordion-re",
+      "accordion-mu"
+    ],
+    "ensemblePairing": [
+      "ingoma-rw",
+      "umuduri-rw",
+      "indingidi-rw"
+    ],
+    "relatedInstruments2": [
+      "setinkane",
+      "matepe",
+      "mbira-mz"
+    ],
+    "ensemblePairing2": [
+      "likembe",
+      "mandole",
+      "krar"
+    ]
+  },
+  {
+    "id": "ingoma-rw",
+    "name": "Ingoma",
+    "latin": "Ingoma",
+    "origin": "Rwanda",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Ceremonial drums of Rwandan court and dance tradition.",
+    "countryCode": "RW",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "vugo",
+      "tsenatsil",
+      "triangle-sc",
+      "triangle-re"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "umuduri-rw",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "accordion-re",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "indonongo",
+    "name": "Indonongo",
+    "latin": "Indonongo",
+    "origin": "Burundi",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A musical bow of Burundian tradition.",
+    "countryCode": "BI",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "umuduri",
+      "inanga-bi",
+      "zeze",
+      "zez-sc2"
+    ],
+    "ensemblePairing": [
+      "vugo",
+      "igihuha",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "kissar-sd-already",
+    "name": "Nanga",
+    "latin": "Nanga",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A trough zither of western Ugandan traditions.",
+    "countryCode": "UG",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "oseke",
+      "kadingidi",
+      "entongoli",
+      "ennongo"
+    ],
+    "ensemblePairing": [
+      "entenga",
+      "ndere-ug",
+      "ikondere"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "endere",
+    "name": "Endere",
+    "latin": "Endere",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A notched flute of Buganda court and folk music.",
+    "countryCode": "UG",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ndere-ug",
+      "ikondere",
+      "agwara",
+      "zurna-maghreb"
+    ],
+    "ensemblePairing": [
+      "entenga",
+      "oseke",
+      "kissar-sd-already"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "mijwiz-levant",
+      "washint"
+    ],
+    "ensemblePairing2": [
+      "riq",
+      "mandole",
+      "kebero"
+    ]
+  },
+  {
+    "id": "begena-already",
+    "name": "Holdudwa",
+    "latin": "Holdudwa",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A sistrum-like rattle of Ethiopian Orthodox liturgical music.",
+    "countryCode": "ET",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tsenatsil",
+      "kebero-tigray-et",
+      "kebero-beata-et",
+      "kebero-already"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "masenqo-azmari-et",
+      "zumbara-et"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "tsenatsil",
+    "name": "Tsenatsil",
+    "latin": "Tsenatsil",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A liturgical sistrum of the Ethiopian Orthodox Church.",
+    "countryCode": "ET",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "kebero-tigray-et",
+      "kebero-beata-et",
+      "kebero-already",
+      "kebero"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "masenqo-azmari-et",
+      "zumbara-et"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "kebero-already",
+    "name": "Negarit",
+    "latin": "Negarit",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Kettledrums of Ethiopian ceremonial and historical court music.",
+    "countryCode": "ET",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tsenatsil",
+      "kebero-tigray-et",
+      "kebero-beata-et",
+      "kebero"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "masenqo-azmari-et",
+      "zumbara-et"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "tom-sd-already",
+    "name": "Kisir",
+    "latin": "Kisir",
+    "origin": "Sudan",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A five-string lyre of Nubian tradition in Sudan.",
+    "countryCode": "SD",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tanbura-sudan",
+      "kissar",
+      "zeze",
+      "zez-sc2"
+    ],
+    "ensemblePairing": [
+      "tom",
+      "waza",
+      "tambour-sd"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "daluka",
+    "name": "Daluka",
+    "latin": "Daluka",
+    "origin": "Sudan",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Goblet drums of Sudanese popular and folk music.",
+    "countryCode": "SD",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tom",
+      "tambour-sd",
+      "vugo",
+      "tsenatsil"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "tom-sd-already",
+      "waza"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "tambour-sd",
+    "name": "Tambour (Sudanese)",
+    "latin": "Tambour",
+    "origin": "Sudan",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A frame drum of Sudanese song accompaniment.",
+    "countryCode": "SD",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "2.074",
+      "gloss": "membranophone"
+    },
+    "relatedInstruments": [
+      "tom",
+      "daluka",
+      "tom-ss",
+      "vugo"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "tom-sd-already",
+      "waza"
+    ],
+    "relatedInstruments2": [
+      "tom-ss",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "simsimiyya-eg-already",
+    "name": "Tanbura (Egyptian)",
+    "latin": "Tanbura",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A lyre of Egyptian zar and related ritual music.",
+    "countryCode": "EG",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "qanun-eg",
+      "oud-eg",
+      "rebab-egypt",
+      "tanbura-sudan"
+    ],
+    "ensemblePairing": [
+      "riq-egyptian-eg",
+      "salamiyya",
+      "tabla-masri-eg"
+    ],
+    "relatedInstruments2": [
+      "tanbura-sudan",
+      "tanbura-dj2",
+      "mandole"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "mizmar-baladi",
+    "name": "Mizmar baladi",
+    "latin": "Mizmar baladi",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An outdoor folk shawm of Egyptian wedding music.",
+    "countryCode": "EG",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "mizmar-saiidi-eg",
+      "mizmar",
+      "salamiyya",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing": [
+      "tabl-baladi",
+      "simsimiyya-eg-already",
+      "tabla-masri-eg"
+    ],
+    "relatedInstruments2": [
+      "mizmar-dj",
+      "mizwad",
+      "agwara"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "kebero"
+    ]
+  },
+  {
+    "id": "umuduri-rw",
+    "name": "Umuduri (Rwandan)",
+    "latin": "Umuduri",
+    "origin": "Rwanda",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A braced musical bow of Rwandan tradition.",
+    "countryCode": "RW",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "311.111",
+      "gloss": "bar zithers"
+    },
+    "relatedInstruments": [
+      "indingidi-rw",
+      "inanga",
+      "umuduri",
+      "zeze"
+    ],
+    "ensemblePairing": [
+      "ingoma-rw",
+      "zurna-maghreb",
+      "zumbara-et"
+    ],
+    "relatedInstruments2": [
+      "umuduri",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "indingidi-rw",
+    "name": "Indingidi",
+    "latin": "Indingidi",
+    "origin": "Rwanda",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A one-string bowed fiddle of Rwandan music.",
+    "countryCode": "RW",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "umuduri-rw",
+      "inanga",
+      "zeze",
+      "zez-sc2"
+    ],
+    "ensemblePairing": [
+      "ingoma-rw",
+      "zurna-maghreb",
+      "zumbara-et"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "inanga-bi",
+    "name": "Inanga (Burundian)",
+    "latin": "Inanga",
+    "origin": "Burundi",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A trough zither of Burundian court song.",
+    "countryCode": "BI",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "322.11",
+      "gloss": "arched harps"
+    },
+    "relatedInstruments": [
+      "umuduri",
+      "indonongo",
+      "inanga",
+      "zeze"
+    ],
+    "ensemblePairing": [
+      "vugo",
+      "igihuha",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "inanga",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "igihuha",
+    "name": "Igihuha",
+    "latin": "Igihuha",
+    "origin": "Burundi",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A flute of Burundian traditional music.",
+    "countryCode": "BI",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "zurna-maghreb",
+      "zumbara-et",
+      "zokra-ly2",
+      "zokra-ly"
+    ],
+    "ensemblePairing": [
+      "vugo",
+      "umuduri",
+      "indonongo"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "bendir-tn",
+    "name": "Bendir (Tunisian)",
+    "latin": "Bendir",
+    "origin": "Tunisia",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A frame drum of Tunisian folk and classical practice.",
+    "countryCode": "TN",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "211.3",
+      "gloss": "frame drums"
+    },
+    "relatedInstruments": [
+      "tabla-tn",
+      "darbuka-tn2",
+      "darbouka-tunisian-tn",
+      "darbouka-tn-folk"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "oud-tn",
+      "ney-tn2"
+    ],
+    "relatedInstruments2": [
+      "bendir",
+      "bendir-dz",
+      "bendir-ly"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "darbuka-tn2",
+    "name": "Darbuka (Tunisian)",
+    "latin": "Darbuka",
+    "origin": "Tunisia",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A goblet drum of Tunisian popular music.",
+    "countryCode": "TN",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "211.261.21",
+      "gloss": "single-skin goblet drums"
+    },
+    "relatedInstruments": [
+      "tabla-tn",
+      "darbouka-tunisian-tn",
+      "darbouka-tn-folk",
+      "bendir-tn"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "oud-tn",
+      "ney-tn2"
+    ],
+    "relatedInstruments2": [
+      "darbuka-ly",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ney-tn2",
+    "name": "Nay (Tunisian)",
+    "latin": "Nay",
+    "origin": "Tunisia",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown reed flute of Tunisian classical and Sufi practice.",
+    "countryCode": "TN",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "gasba-tn",
+      "zurna-maghreb",
+      "mizwad",
+      "mezoued-tn"
+    ],
+    "ensemblePairing": [
+      "tabla-tn",
+      "oud-tn",
+      "darbuka-tn2"
+    ],
+    "relatedInstruments2": [
+      "nay-ma",
+      "sparta-dz",
+      "agwara"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "oud-tn",
+    "name": "Oud (Tunisian)",
+    "latin": "Oud",
+    "origin": "Tunisia",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "The short-neck lute of Tunisian ma'luf and song.",
+    "countryCode": "TN",
+    "technique": "plucked",
+    "materials": "wood body, gut or nylon strings",
+    "classification": {
+      "code": "321.321-6",
+      "gloss": "necked bowl lutes; with sympathetic or drone strings"
+    },
+    "relatedInstruments": [
+      "oud-eg",
+      "zeze",
+      "zez-sc2",
+      "zez-sc"
+    ],
+    "ensemblePairing": [
+      "tabla-tn",
+      "ney-tn2",
+      "gasba-tn"
+    ],
+    "relatedInstruments2": [
+      "oud-eg",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "agwara"
+    ]
+  },
+  {
+    "id": "darbouka-dz2",
+    "name": "Darbouka",
+    "latin": "Darbouka",
+    "origin": "Algeria",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A goblet drum of Algerian popular rhythm.",
+    "countryCode": "DZ",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tbila-dz",
+      "tar-dz",
+      "guellal",
+      "bendir-dz"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "mandole",
+      "sparta-dz"
+    ],
+    "relatedInstruments2": [
+      "darbuka-km2",
+      "darbouka-tunisian-tn",
+      "empuunyi"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "kwitra",
+    "name": "Kwitra",
+    "latin": "Kwitra",
+    "origin": "Algeria",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A short-neck lute of Algerian Andalusian classical music.",
+    "countryCode": "DZ",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "mandole",
+      "guembri-algerian-dz",
+      "zeze",
+      "zez-sc2"
+    ],
+    "ensemblePairing": [
+      "tbila-dz",
+      "sparta-dz",
+      "tar-dz"
+    ],
+    "relatedInstruments2": [
+      "krar",
+      "nyatiti",
+      "guembri"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "valiha-mg-already",
+    "name": "Jejy voatavo",
+    "latin": "Jejy voatavo",
+    "origin": "Madagascar",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A gourd-resonated tube zither of Malagasy tradition.",
+    "countryCode": "MG",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "lokanga-voatavo-mg",
+      "valiha-already",
+      "valiha",
+      "lokanga"
+    ],
+    "ensemblePairing": [
+      "jedara",
+      "sodina",
+      "antsiva"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "sodina",
+    "name": "Sodina",
+    "latin": "Sodina",
+    "origin": "Madagascar",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown flute of Malagasy traditional music.",
+    "countryCode": "MG",
+    "technique": "blown",
+    "materials": "bamboo, lightwood, plastic, or reed and varies in size depending upon the region it is being played in",
+    "classification": null,
+    "relatedInstruments": [
+      "antsiva",
+      "zurna-maghreb",
+      "zumbara-et",
+      "zokra-ly2"
+    ],
+    "ensemblePairing": [
+      "jedara",
+      "valiha-mg-already",
+      "valiha-already"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "antsiva",
+    "name": "Antsiva",
+    "latin": "Antsiva",
+    "origin": "Madagascar",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A conch trumpet of Malagasy ceremonial call.",
+    "countryCode": "MG",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "sodina",
+      "zurna-maghreb",
+      "zumbara-et",
+      "zokra-ly2"
+    ],
+    "ensemblePairing": [
+      "jedara",
+      "valiha-mg-already",
+      "valiha-already"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "amponga",
+    "name": "Amponga",
+    "latin": "Amponga",
+    "origin": "Madagascar",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Drums of Malagasy ceremonial and dance music.",
+    "countryCode": "MG",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "jedara",
+      "vugo",
+      "tsenatsil",
+      "triangle-sc"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "valiha-mg-already",
+      "sodina"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "zokra-ly",
+    "name": "Zokra",
+    "latin": "Zokra",
+    "origin": "Libya",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A Libyan bagpipe of folk and ceremonial music.",
+    "countryCode": "LY",
+    "technique": "blown",
+    "materials": "ewe's leather, with a joined double-chanter, terminating in two cow horns, similar to a hornpipe (instrument",
+    "classification": null,
+    "relatedInstruments": [
+      "zokra-ly2",
+      "ghayta-ly",
+      "zurna-maghreb",
+      "zumbara-et"
+    ],
+    "ensemblePairing": [
+      "darbuka-ly",
+      "imzad-ly",
+      "bendir-ly"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "ghayta-ly",
+    "name": "Ghayta (Libyan)",
+    "latin": "Ghayta",
+    "origin": "Libya",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An outdoor shawm of Libyan festivity.",
+    "countryCode": "LY",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "zokra-ly2",
+      "zokra-ly",
+      "zurna-maghreb",
+      "zumbara-et"
+    ],
+    "ensemblePairing": [
+      "darbuka-ly",
+      "imzad-ly",
+      "bendir-ly"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "bendir-ly",
+    "name": "Bendir (Libyan)",
+    "latin": "Bendir",
+    "origin": "Libya",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A frame drum of Libyan folk practice.",
+    "countryCode": "LY",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "211.3",
+      "gloss": "frame drums"
+    },
+    "relatedInstruments": [
+      "darbuka-ly",
+      "bendir-tn",
+      "bendir-moroccan-ma",
+      "bendir-eh"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "imzad-ly",
+      "zokra-ly2"
+    ],
+    "relatedInstruments2": [
+      "bendir",
+      "bendir-dz",
+      "bendir-tn"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "darbuka-ly",
+    "name": "Darbuka (Libyan)",
+    "latin": "Darbuka",
+    "origin": "Libya",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A goblet drum of Libyan popular rhythm.",
+    "countryCode": "LY",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "211.261.21",
+      "gloss": "single-skin goblet drums"
+    },
+    "relatedInstruments": [
+      "bendir-ly",
+      "darbuka-tn2",
+      "vugo",
+      "tsenatsil"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "imzad-ly",
+      "zokra-ly2"
+    ],
+    "relatedInstruments2": [
+      "darbuka-tn2",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "shareero",
+    "name": "Shareero",
+    "latin": "Shareero",
+    "origin": "Somalia",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A six-string lyre of Somali traditional music.",
+    "countryCode": "SO",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "masinko-so",
+      "kaban",
+      "shareero-dj",
+      "zeze"
+    ],
+    "ensemblePairing": [
+      "durbaan",
+      "fuug-so",
+      "clarinette-so"
+    ],
+    "relatedInstruments2": [
+      "shareero-dj",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "kaban",
+    "name": "Kaban",
+    "latin": "Kaban",
+    "origin": "Somalia",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A lute of Somali traditional and popular song.",
+    "countryCode": "SO",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "shareero",
+      "masinko-so",
+      "kaban-dj",
+      "zeze"
+    ],
+    "ensemblePairing": [
+      "durbaan",
+      "fuug-so",
+      "clarinette-so"
+    ],
+    "relatedInstruments2": [
+      "kaban-dj",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "durbaan",
+    "name": "Durbaan",
+    "latin": "Durbaan",
+    "origin": "Somalia",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Drums of Somali ceremonial and dance music.",
+    "countryCode": "SO",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "bowl-drum-dj",
+      "vugo",
+      "tsenatsil",
+      "triangle-sc"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "shareero",
+      "fuug-so"
+    ],
+    "relatedInstruments2": [
+      "bowl-drum-dj",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "krar-er",
+    "name": "Krar (Eritrean)",
+    "latin": "Krar",
+    "origin": "Eritrea",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A five- or six-string lyre of Eritrean tradition.",
+    "countryCode": "ER",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.21",
+      "gloss": "bowl lyres"
+    },
+    "relatedInstruments": [
+      "begena-er",
+      "wata-er",
+      "mesenko-er",
+      "krar-azmari-et"
+    ],
+    "ensemblePairing": [
+      "kebero-er",
+      "zurna-maghreb",
+      "kebero-small-er"
+    ],
+    "relatedInstruments2": [
+      "krar",
+      "mandole",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "kebero-er",
+    "name": "Kebero (Eritrean)",
+    "latin": "Kebero",
+    "origin": "Eritrea",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A ceremonial drum of Eritrean music.",
+    "countryCode": "ER",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "kebero-small-er",
+      "kebero-tigray-et",
+      "kebero-beata-et",
+      "kebero"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "krar-er",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "kebero",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "wata-er",
+    "name": "Wata",
+    "latin": "Wata",
+    "origin": "Eritrea",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A one-string bowed fiddle of Eritrean tradition.",
+    "countryCode": "ER",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "mesenko-er",
+      "krar-er",
+      "begena-er",
+      "zeze"
+    ],
+    "ensemblePairing": [
+      "kebero-small-er",
+      "zurna-maghreb",
+      "kebero-er"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "tanbura-dj2",
+    "name": "Tanbura (Djiboutian)",
+    "latin": "Tanbura",
+    "origin": "Djibouti",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A lyre of Djiboutian Red Sea coastal tradition.",
+    "countryCode": "DJ",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "shareero-dj",
+      "kaban-dj",
+      "tanbura-sudan",
+      "simsimiyya-eg-already"
+    ],
+    "ensemblePairing": [
+      "daf-dj",
+      "mizmar-dj",
+      "bowl-drum-dj"
+    ],
+    "relatedInstruments2": [
+      "tanbura-sudan",
+      "simsimiyya-eg-already",
+      "mandole"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "shareero-dj",
+    "name": "Shareero (Djiboutian)",
+    "latin": "Shareero",
+    "origin": "Djibouti",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A bowl lyre of Djiboutian Somali-related music.",
+    "countryCode": "DJ",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tanbura-dj2",
+      "kaban-dj",
+      "shareero",
+      "zeze"
+    ],
+    "ensemblePairing": [
+      "daf-dj",
+      "mizmar-dj",
+      "bowl-drum-dj"
+    ],
+    "relatedInstruments2": [
+      "shareero",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "bowl-drum-dj",
+    "name": "Durbaan (Djiboutian)",
+    "latin": "Durbaan",
+    "origin": "Djibouti",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Drums of Djiboutian ceremonial and dance music.",
+    "countryCode": "DJ",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "daf-dj",
+      "durbaan",
+      "vugo",
+      "tsenatsil"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "tanbura-dj2",
+      "mizmar-dj"
+    ],
+    "relatedInstruments2": [
+      "durbaan",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "kaban-dj",
+    "name": "Kaban (Djiboutian)",
+    "latin": "Kaban",
+    "origin": "Djibouti",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A lute of Djiboutian popular traditional song.",
+    "countryCode": "DJ",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tanbura-dj2",
+      "shareero-dj",
+      "kaban",
+      "zeze"
+    ],
+    "ensemblePairing": [
+      "daf-dj",
+      "mizmar-dj",
+      "bowl-drum-dj"
+    ],
+    "relatedInstruments2": [
+      "kaban",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "gambare",
+    "name": "Gambare",
+    "latin": "Gambare",
+    "origin": "Comoros",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Drums of Comorian traditional dance music.",
+    "countryCode": "KM",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "msondo-km",
+      "darbuka-km2",
+      "darbuka-km",
+      "vugo"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "ndzedze",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "msondo-km",
+    "name": "Msondo (Comorian)",
+    "latin": "Msondo",
+    "origin": "Comoros",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A drum of Comorian ceremonial ensembles.",
+    "countryCode": "KM",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "darbuka-km2",
+      "darbuka-km",
+      "gambare",
+      "msondo-yt"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "ndzedze",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "msondo",
+      "msondo-yt",
+      "empuunyi"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "gabusi",
+    "name": "Gabusi",
+    "latin": "Gabusi",
+    "origin": "Comoros",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A short-neck lute of Comorian traditional music.",
+    "countryCode": "KM",
+    "technique": "plucked",
+    "materials": "made of light woods, the neck of a hardwood",
+    "classification": null,
+    "relatedInstruments": [
+      "ndzedze",
+      "gabusi-yt",
+      "zeze",
+      "zez-sc2"
+    ],
+    "ensemblePairing": [
+      "msondo-km",
+      "zurna-maghreb",
+      "gambare"
+    ],
+    "relatedInstruments2": [
+      "gabusi-yt",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "ndzedze",
+    "name": "Ndzedze",
+    "latin": "Ndzedze",
+    "origin": "Comoros",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A zither of Comorian folk tradition.",
+    "countryCode": "KM",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "gabusi",
+      "ndzedze-yt",
+      "zeze",
+      "zez-sc2"
+    ],
+    "ensemblePairing": [
+      "msondo-km",
+      "zurna-maghreb",
+      "gambare"
+    ],
+    "relatedInstruments2": [
+      "ndzedze-yt",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "tam-tam-sc",
+    "name": "Tam-tam (Seychellois)",
+    "latin": "Tam-tam",
+    "origin": "Seychelles",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Drums of Seychellois moutya and related traditions.",
+    "countryCode": "SC",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.241.1",
+      "gloss": "individual gongs"
+    },
+    "relatedInstruments": [
+      "triangle-sc",
+      "bonm",
+      "bom",
+      "vugo"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "zez-sc2",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "triangle-sc",
+    "name": "Triangle (Seychellois)",
+    "latin": "Triangle",
+    "origin": "Seychelles",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "The triangle of Seychellois moutya ensembles.",
+    "countryCode": "SC",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.211",
+      "gloss": "individual percussion sticks"
+    },
+    "relatedInstruments": [
+      "tam-tam-sc",
+      "bonm",
+      "bom",
+      "triangle-re"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "zez-sc2",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "triangle-re",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "bom",
+    "name": "Bom",
+    "latin": "Bom",
+    "origin": "Seychelles",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A box bass drum of Seychellois traditional dance music.",
+    "countryCode": "SC",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "triangle-sc",
+      "tam-tam-sc",
+      "bonm",
+      "vugo"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "zez-sc2",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "zez-sc",
+    "name": "Zez",
+    "latin": "Zez",
+    "origin": "Seychelles",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A one-string bowed fiddle of Seychellois tradition.",
+    "countryCode": "SC",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "zez-sc2",
+      "zeze",
+      "wata-er",
+      "valiha-mg-already"
+    ],
+    "ensemblePairing": [
+      "triangle-sc",
+      "zurna-maghreb",
+      "tam-tam-sc"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "tongoli",
+    "name": "Tongoli",
+    "latin": "Tongoli",
+    "origin": "South Sudan",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A arched harp of South Sudanese traditions.",
+    "countryCode": "SS",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "arang-ss",
+      "rababa-ss",
+      "zeze",
+      "zez-sc2"
+    ],
+    "ensemblePairing": [
+      "tom-ss",
+      "zurna-maghreb",
+      "thom-ss"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "kudi",
+    "name": "Kudi",
+    "latin": "Kudi",
+    "origin": "South Sudan",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Drums of South Sudanese ceremonial music.",
+    "countryCode": "SS",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tom-ss",
+      "thom-ss",
+      "vugo",
+      "tsenatsil"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "tongoli",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "rababa-ss",
+    "name": "Rababa (South Sudanese)",
+    "latin": "Rababa",
+    "origin": "South Sudan",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A bowed lyre or fiddle of South Sudanese tradition.",
+    "countryCode": "SS",
+    "technique": "bowed",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tongoli",
+      "arang-ss",
+      "rebab-egypt",
+      "masenqo-azmari-et"
+    ],
+    "ensemblePairing": [
+      "tom-ss",
+      "zurna-maghreb",
+      "thom-ss"
+    ],
+    "relatedInstruments2": [
+      "rebab-egypt",
+      "masenqo",
+      "endingidi"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "endingidi-already",
+      "cornemuse-du-centre"
+    ]
+  },
+  {
+    "id": "tom-ss",
+    "name": "Tom (South Sudanese)",
+    "latin": "Tom",
+    "origin": "South Sudan",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A drum of South Sudanese song and dance accompaniment.",
+    "countryCode": "SS",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "thom-ss",
+      "kudi",
+      "tom",
+      "tambour-sd"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "rababa-ss",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "tom",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "tidinit-eh",
+    "name": "Tidinit (Sahrawi)",
+    "latin": "Tidinit",
+    "origin": "Western Sahara",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A plucked lute of Sahrawi traditional music.",
+    "countryCode": "EH",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ardin-eh",
+      "zeze",
+      "zez-sc2",
+      "zez-sc"
+    ],
+    "ensemblePairing": [
+      "tbal-eh",
+      "nafar-eh",
+      "daghumma-eh"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "tbal-eh",
+    "name": "Tbal (Sahrawi)",
+    "latin": "Tbal",
+    "origin": "Western Sahara",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A kettle drum of Sahrawi ceremonial music.",
+    "countryCode": "EH",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "daghumma-eh",
+      "bendir-eh",
+      "tidinit-keep",
+      "vugo"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "tidinit-eh",
+      "nafar-eh"
+    ],
+    "relatedInstruments2": [
+      "tidinit-keep",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ardin-eh",
+    "name": "Ardin (Sahrawi)",
+    "latin": "Ardin",
+    "origin": "Western Sahara",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A harp of Sahrawi women's traditional song.",
+    "countryCode": "EH",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "322.12",
+      "gloss": "angular harps"
+    },
+    "relatedInstruments": [
+      "tidinit-eh",
+      "adungu-keep",
+      "zeze",
+      "zez-sc2"
+    ],
+    "ensemblePairing": [
+      "tbal-eh",
+      "nafar-eh",
+      "daghumma-eh"
+    ],
+    "relatedInstruments2": [
+      "adungu-keep",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "daghumma-eh",
+    "name": "Daghumma (Sahrawi)",
+    "latin": "Daghumma",
+    "origin": "Western Sahara",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A calabash rattle of Sahrawi traditional ensembles.",
+    "countryCode": "EH",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tbal-eh",
+      "bendir-eh",
+      "vugo",
+      "tsenatsil"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "tidinit-eh",
+      "nafar-eh"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "thom-ss",
+    "name": "Thom",
+    "latin": "Thom",
+    "origin": "South Sudan",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A drum of South Sudanese traditional dance music.",
+    "countryCode": "SS",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tom-ss",
+      "kudi",
+      "vugo",
+      "tsenatsil"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "tongoli",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "arang-ss",
+    "name": "Arango",
+    "latin": "Arango",
+    "origin": "South Sudan",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A lyre of South Sudanese traditional song.",
+    "countryCode": "SS",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tongoli",
+      "rababa-ss",
+      "zeze",
+      "zez-sc2"
+    ],
+    "ensemblePairing": [
+      "tom-ss",
+      "zurna-maghreb",
+      "thom-ss"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "kayamb-re",
+    "name": "Kayamb (Réunionese)",
+    "latin": "Kayamb",
+    "origin": "Réunion",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A flat raft rattle of Réunionese maloya and séga music.",
+    "countryCode": "RE",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "112.13",
+      "gloss": "vessel rattle"
+    },
+    "relatedInstruments": [
+      "triangle-re",
+      "satí-re",
+      "roulèr-re",
+      "piké-re"
+    ],
+    "ensemblePairing": [
+      "accordion-re",
+      "bobre-re",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "roulèr-re",
+    "name": "Roulèr",
+    "latin": "Rouler",
+    "origin": "Réunion",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A barrel drum of Réunionese maloya tradition.",
+    "countryCode": "RE",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "triangle-re",
+      "satí-re",
+      "piké-re",
+      "kayamb-re"
+    ],
+    "ensemblePairing": [
+      "accordion-re",
+      "bobre-re",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "bobre-re",
+    "name": "Bobre",
+    "latin": "Bobre",
+    "origin": "Réunion",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A musical bow of Réunionese maloya music.",
+    "countryCode": "RE",
+    "technique": "plucked",
+    "materials": "wood with a vegetable fibre string, with a calabash acting as a resonator",
+    "classification": {
+      "code": "311.121.222",
+      "gloss": "single-stringed musical bow with attached resonator"
+    },
+    "relatedInstruments": [
+      "kayamb-mu2",
+      "zeze",
+      "zez-sc2",
+      "zez-sc"
+    ],
+    "ensemblePairing": [
+      "triangle-re",
+      "zurna-maghreb",
+      "satí-re"
+    ],
+    "relatedInstruments2": [
+      "kayamb-mu2",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "triangle-re",
+    "name": "Triangle (Réunionese)",
+    "latin": "Triangle",
+    "origin": "Réunion",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Triangle of Réunionese séga and maloya ensembles.",
+    "countryCode": "RE",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "111.211",
+      "gloss": "individual percussion sticks"
+    },
+    "relatedInstruments": [
+      "kayamb-re",
+      "satí-re",
+      "roulèr-re",
+      "piké-re"
+    ],
+    "ensemblePairing": [
+      "accordion-re",
+      "bobre-re",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "triangle-sc",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "gabusi-yt",
+    "name": "Gabusi (Mahoran)",
+    "latin": "Gabusi",
+    "origin": "Mayotte",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A short-neck lute of Mayotte (Mahoran) traditional music.",
+    "countryCode": "YT",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ndzedze-yt",
+      "dzenze-yt",
+      "gabusi",
+      "zeze"
+    ],
+    "ensemblePairing": [
+      "msondo-yt",
+      "zurna-maghreb",
+      "darbuka-yt"
+    ],
+    "relatedInstruments2": [
+      "gabusi",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "msondo-yt",
+    "name": "Msondo (Mahoran)",
+    "latin": "Msondo",
+    "origin": "Mayotte",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A drum of Mayotte ceremonial and dance music.",
+    "countryCode": "YT",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "darbuka-yt",
+      "morizine",
+      "msondo-km",
+      "msondo"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "ndzedze-yt",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "msondo",
+      "msondo-km",
+      "empuunyi"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ndzedze-yt",
+    "name": "Ndzedze (Mahoran)",
+    "latin": "Ndzedze",
+    "origin": "Mayotte",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A box zither of Mayotte traditional music.",
+    "countryCode": "YT",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "gabusi-yt",
+      "dzenze-yt",
+      "ndzedze",
+      "zeze"
+    ],
+    "ensemblePairing": [
+      "msondo-yt",
+      "zurna-maghreb",
+      "darbuka-yt"
+    ],
+    "relatedInstruments2": [
+      "ndzedze",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "darbuka-yt",
+    "name": "Tari (Mahoran)",
+    "latin": "Tari",
+    "origin": "Mayotte",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A frame drum of Mayotte traditional song accompaniment.",
+    "countryCode": "YT",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "msondo-yt",
+      "morizine",
+      "darbuka-km",
+      "vugo"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "ndzedze-yt",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "darbuka-km",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "fuug-so",
+    "name": "Fuug",
+    "latin": "Fuug",
+    "origin": "Somalia",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A horn of Somali traditional signaling and music.",
+    "countryCode": "SO",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "clarinette-so",
+      "zurna-maghreb",
+      "zumbara-et",
+      "zokra-ly2"
+    ],
+    "ensemblePairing": [
+      "durbaan",
+      "shareero",
+      "masinko-so"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "zokra-ly2",
+    "name": "Shababa (Libyan)",
+    "latin": "Shababa",
+    "origin": "Libya",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown flute of Libyan folk tradition.",
+    "countryCode": "LY",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ghayta-ly",
+      "zokra-ly",
+      "zurna-maghreb",
+      "zumbara-et"
+    ],
+    "ensemblePairing": [
+      "darbuka-ly",
+      "imzad-ly",
+      "bendir-ly"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "imzad-ly",
+    "name": "Imzad (Libyan)",
+    "latin": "Imzad",
+    "origin": "Libya",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A one-string fiddle of Tuareg-related tradition in Libya.",
+    "countryCode": "LY",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.311-7",
+      "gloss": "spike bowls / spike bowl lutes; sounded by bowing"
+    },
+    "relatedInstruments": [
+      "zeze",
+      "zez-sc2",
+      "zez-sc",
+      "wata-er"
+    ],
+    "ensemblePairing": [
+      "darbuka-ly",
+      "zokra-ly2",
+      "ghayta-ly"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "kebero-small-er",
+    "name": "Kebero nagarit",
+    "latin": "Kebero nagarit",
+    "origin": "Eritrea",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Paired ceremonial drums of Eritrean Orthodox and folk practice.",
+    "countryCode": "ER",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "kebero-er",
+      "kebero-tigray-et",
+      "kebero-beata-et",
+      "kebero"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "wata-er",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "kebero",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "masinko-so",
+    "name": "Masanko",
+    "latin": "Masanko",
+    "origin": "Somalia",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A bowed spike fiddle of Somali traditional music.",
+    "countryCode": "SO",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "shareero",
+      "kaban",
+      "zeze",
+      "zez-sc2"
+    ],
+    "ensemblePairing": [
+      "durbaan",
+      "fuug-so",
+      "clarinette-so"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "nafar-eh",
+    "name": "Nafir (Sahrawi)",
+    "latin": "Nafir",
+    "origin": "Western Sahara",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A natural trumpet of Sahrawi ceremonial music.",
+    "countryCode": "EH",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "zurna-maghreb",
+      "zumbara-et",
+      "zokra-ly2",
+      "zokra-ly"
+    ],
+    "ensemblePairing": [
+      "tbal-eh",
+      "tidinit-eh",
+      "daghumma-eh"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "bendir-eh",
+    "name": "Bendir (Sahrawi)",
+    "latin": "Bendir",
+    "origin": "Western Sahara",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A frame drum of Sahrawi traditional ensembles.",
+    "countryCode": "EH",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "211.3",
+      "gloss": "frame drums"
+    },
+    "relatedInstruments": [
+      "tbal-eh",
+      "daghumma-eh",
+      "bendir-tn",
+      "bendir-moroccan-ma"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "tidinit-eh",
+      "nafar-eh"
+    ],
+    "relatedInstruments2": [
+      "bendir",
+      "bendir-dz",
+      "bendir-tn"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "kayamb-mu2",
+    "name": "Bobre (Mauritian)",
+    "latin": "Bobre",
+    "origin": "Mauritius",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A musical bow of Mauritian séga tradition.",
+    "countryCode": "MU",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "311.121.222",
+      "gloss": "single-stringed musical bow with attached resonator"
+    },
+    "relatedInstruments": [
+      "bobre-re",
+      "zeze",
+      "zez-sc2",
+      "zez-sc"
+    ],
+    "ensemblePairing": [
+      "vugo",
+      "zurna-maghreb",
+      "zumbara-et"
+    ],
+    "relatedInstruments2": [
+      "bobre-re",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "zez-sc2",
+    "name": "Makalapo",
+    "latin": "Makalapo",
+    "origin": "Seychelles",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A one-string fiddle of Seychellois traditional music.",
+    "countryCode": "SC",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "zez-sc",
+      "zeze",
+      "wata-er",
+      "valiha-mg-already"
+    ],
+    "ensemblePairing": [
+      "triangle-sc",
+      "zurna-maghreb",
+      "tam-tam-sc"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "darbuka-km",
+    "name": "Tari (Comorian)",
+    "latin": "Tari",
+    "origin": "Comoros",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A frame drum of Comorian traditional song accompaniment.",
+    "countryCode": "KM",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "msondo-km",
+      "darbuka-km2",
+      "gambare",
+      "darbuka-yt"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "ndzedze",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "darbuka-yt",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "piké-re",
+    "name": "Piké",
+    "latin": "Pike",
+    "origin": "Réunion",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A supporting drum of Réunionese maloya ensembles.",
+    "countryCode": "RE",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "triangle-re",
+      "satí-re",
+      "roulèr-re",
+      "kayamb-re"
+    ],
+    "ensemblePairing": [
+      "accordion-re",
+      "bobre-re",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "satí-re",
+    "name": "Satí",
+    "latin": "Sati",
+    "origin": "Réunion",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A flat drum of Réunionese maloya tradition.",
+    "countryCode": "RE",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "triangle-re",
+      "roulèr-re",
+      "piké-re",
+      "kayamb-re"
+    ],
+    "ensemblePairing": [
+      "accordion-re",
+      "bobre-re",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "dzenze-yt",
+    "name": "Dzenze",
+    "latin": "Dzenze",
+    "origin": "Mayotte",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A stick zither of Mayotte traditional music.",
+    "countryCode": "YT",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ndzedze-yt",
+      "gabusi-yt",
+      "zeze",
+      "zez-sc2"
+    ],
+    "ensemblePairing": [
+      "msondo-yt",
+      "zurna-maghreb",
+      "morizine"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "mizmar-dj",
+    "name": "Mizmar (Djiboutian)",
+    "latin": "Mizmar",
+    "origin": "Djibouti",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A shawm of Djiboutian traditional ensembles.",
+    "countryCode": "DJ",
+    "technique": "blown",
+    "materials": null,
+    "classification": {
+      "code": "422.112.2",
+      "gloss": "with conical bore"
+    },
+    "relatedInstruments": [
+      "mizmar-saiidi-eg",
+      "mizmar-baladi",
+      "mizmar",
+      "zurna-maghreb"
+    ],
+    "ensemblePairing": [
+      "daf-dj",
+      "tanbura-dj2",
+      "shareero-dj"
+    ],
+    "relatedInstruments2": [
+      "mizmar",
+      "mizwad",
+      "agwara"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "daf-dj",
+    "name": "Daf (Djiboutian)",
+    "latin": "Daf",
+    "origin": "Djibouti",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A frame drum of Djiboutian traditional music.",
+    "countryCode": "DJ",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "211.311",
+      "gloss": "single-skin frame drums"
+    },
+    "relatedInstruments": [
+      "bowl-drum-dj",
+      "vugo",
+      "tsenatsil",
+      "triangle-sc"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "tanbura-dj2",
+      "mizmar-dj"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "clarinette-so",
+    "name": "Mias",
+    "latin": "Mias",
+    "origin": "Somalia",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A reed pipe of Somali traditional music.",
+    "countryCode": "SO",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "fuug-so",
+      "zurna-maghreb",
+      "zumbara-et",
+      "zokra-ly2"
+    ],
+    "ensemblePairing": [
+      "durbaan",
+      "shareero",
+      "masinko-so"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "neifara-mr",
+    "name": "Nefara",
+    "latin": "Nefara",
+    "origin": "Mauritania",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A flute of Mauritanian traditional music.",
+    "countryCode": "MR",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "zurna-maghreb",
+      "zumbara-et",
+      "zokra-ly2",
+      "zokra-ly"
+    ],
+    "ensemblePairing": [
+      "tidinit-keep",
+      "adungu-keep",
+      "zeze"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "darbuka-km2",
+    "name": "Darbouka (Comorian)",
+    "latin": "Darbouka",
+    "origin": "Comoros",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A goblet drum of Comorian traditional music.",
+    "countryCode": "KM",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "msondo-km",
+      "darbuka-km",
+      "gambare",
+      "darbouka-tunisian-tn"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "ndzedze",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "darbouka-dz2",
+      "darbouka-tunisian-tn",
+      "empuunyi"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "bonm",
+    "name": "Bonm",
+    "latin": "Bonm",
+    "origin": "Seychelles",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A frame drum of Seychellois moutya tradition.",
+    "countryCode": "SC",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "triangle-sc",
+      "tam-tam-sc",
+      "bom",
+      "vugo"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "zez-sc2",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "accordion-re",
+    "name": "Accordéon (Réunionese)",
+    "latin": "Accordeon",
+    "origin": "Réunion",
+    "region": "North & East Africa",
+    "family": "freereed",
+    "note": "Accordion of Réunionese séga dance music.",
+    "countryCode": "RE",
+    "technique": "blown",
+    "materials": "wood or plastic body, metal free reeds, bellows",
+    "classification": null,
+    "relatedInstruments": [
+      "accordion-mu",
+      "inanga-rw-already"
+    ],
+    "ensemblePairing": [
+      "triangle-re",
+      "bobre-re",
+      "kayamb-re"
+    ],
+    "relatedInstruments2": [
+      "accordion-mu",
+      "accordion-gf",
+      "accordeon-mc"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "morizine",
+    "name": "Morizine",
+    "latin": "Morizine",
+    "origin": "Mayotte",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A drum of Mayotte traditional dance music.",
+    "countryCode": "YT",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "msondo-yt",
+      "darbuka-yt",
+      "vugo",
+      "tsenatsil"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "ndzedze-yt",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "mesenko-er",
+    "name": "Mesinko",
+    "latin": "Mesinko",
+    "origin": "Eritrea",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A one-string bowed lute of Eritrean folk song.",
+    "countryCode": "ER",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "wata-er",
+      "krar-er",
+      "begena-er",
+      "zeze"
+    ],
+    "ensemblePairing": [
+      "kebero-small-er",
+      "zurna-maghreb",
+      "kebero-er"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "guellal",
+    "name": "Guellal",
+    "latin": "Guellal",
+    "origin": "Algeria",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A goblet drum of Algerian traditional ensembles.",
+    "countryCode": "DZ",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tbila-dz",
+      "tar-dz",
+      "darbouka-dz2",
+      "bendir-dz"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "mandole",
+      "sparta-dz"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "tar-dz",
+    "name": "Tar (Algerian)",
+    "latin": "Tar",
+    "origin": "Algeria",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A frame drum of Algerian Andalusian and folk music.",
+    "countryCode": "DZ",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "321.321-6",
+      "gloss": "necked bowl lutes; with sympathetic or drone strings"
+    },
+    "relatedInstruments": [
+      "bendir-dz",
+      "tbila-dz",
+      "guellal",
+      "darbouka-dz2"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "guembri-algerian-dz",
+      "sparta-dz"
+    ],
+    "relatedInstruments2": [
+      "darbouka-tn-folk",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "obokano",
+    "name": "Obokano",
+    "latin": "Obokano",
+    "origin": "Kenya",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A large bass lyre of Kisii tradition in Kenya.",
+    "countryCode": "KE",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "orutu",
+      "nyatiti",
+      "ngadji",
+      "litungu"
+    ],
+    "ensemblePairing": [
+      "kayamba",
+      "nzumari",
+      "bukandi"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "guembri"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "bukandi",
+    "name": "Bukandi",
+    "latin": "Bukandi",
+    "origin": "Kenya",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Drums of Kenyan Luhya traditional dance music.",
+    "countryCode": "KE",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "kayamba",
+      "vugo",
+      "tsenatsil",
+      "triangle-sc"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "orutu",
+      "nzumari"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "ishiriri",
+    "name": "Ishiriri",
+    "latin": "Ishiriri",
+    "origin": "Kenya",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A one-string fiddle of Luhya tradition in Kenya.",
+    "countryCode": "KE",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "orutu",
+      "obokano",
+      "nyatiti",
+      "ngadji"
+    ],
+    "ensemblePairing": [
+      "kayamba",
+      "nzumari",
+      "bukandi"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "guembri"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "qasba-ma",
+    "name": "Qasba",
+    "latin": "Qasba",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown flute of Moroccan Amazigh tradition.",
+    "countryCode": "MA",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "nay-ma",
+      "ghaita",
+      "zurna-maghreb",
+      "zumbara-et"
+    ],
+    "ensemblePairing": [
+      "tbel-gnawa-ma",
+      "ribab-ma",
+      "tbel"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "tabla-tn",
+    "name": "Tabla (Tunisian)",
+    "latin": "Tabla",
+    "origin": "Tunisia",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A goblet drum of Tunisian traditional ensembles.",
+    "countryCode": "TN",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "211.11",
+      "gloss": "separate kettle drums"
+    },
+    "relatedInstruments": [
+      "darbuka-tn2",
+      "darbouka-tunisian-tn",
+      "darbouka-tn-folk",
+      "bendir-tn"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "oud-tn",
+      "ney-tn2"
+    ],
+    "relatedInstruments2": [
+      "tabla-egypian",
+      "empuunyi",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "gasba-tn",
+    "name": "Gasba (Tunisian)",
+    "latin": "Gasba",
+    "origin": "Tunisia",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown flute of Tunisian folk tradition.",
+    "countryCode": "TN",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ney-tn2",
+      "zurna-maghreb",
+      "mizwad",
+      "mezoued-tn"
+    ],
+    "ensemblePairing": [
+      "tabla-tn",
+      "oud-tn",
+      "darbuka-tn2"
+    ],
+    "relatedInstruments2": [
+      "gasba",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "accordion-mu",
+    "name": "Accordéon (Mauritian)",
+    "latin": "Accordeon",
+    "origin": "Mauritius",
+    "region": "North & East Africa",
+    "family": "freereed",
+    "note": "Accordion of Mauritian séga dance music.",
+    "countryCode": "MU",
+    "technique": "blown",
+    "materials": "wood or plastic body, metal free reeds, bellows",
+    "classification": null,
+    "relatedInstruments": [
+      "accordion-re",
+      "inanga-rw-already"
+    ],
+    "ensemblePairing": [
+      "vugo",
+      "kayamb-mu2",
+      "zeze"
+    ],
+    "relatedInstruments2": [
+      "accordion-re",
+      "accordion-gf",
+      "accordeon-mc"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "begena-er",
+    "name": "Begena (Eritrean)",
+    "latin": "Begena",
+    "origin": "Eritrea",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A large box-lyre of Eritrean Orthodox and highland tradition.",
+    "countryCode": "ER",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "321.22",
+      "gloss": "box lyres"
+    },
+    "relatedInstruments": [
+      "krar-er",
+      "wata-er",
+      "mesenko-er",
+      "begena-liturgical-et"
+    ],
+    "ensemblePairing": [
+      "kebero-er",
+      "zurna-maghreb",
+      "kebero-small-er"
+    ],
+    "relatedInstruments2": [
+      "begena",
+      "mandole",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "nay-ma",
+    "name": "Nay (Moroccan)",
+    "latin": "Nay",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown reed flute of Moroccan Andalusian and folk practice.",
+    "countryCode": "MA",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "qasba-ma",
+      "ghaita",
+      "sparta-dz",
+      "ney-tn2"
+    ],
+    "ensemblePairing": [
+      "bendir-moroccan-ma",
+      "ribab-ma",
+      "tbel-gnawa-ma"
+    ],
+    "relatedInstruments2": [
+      "ney-tn2",
+      "sparta-dz",
+      "agwara"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "abu-ke",
+    "name": "Abu (Kenyan)",
+    "latin": "Abu",
+    "origin": "Kenya",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A side-blown horn of Luo traditional music.",
+    "countryCode": "KE",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "nzumari",
+      "zurna-maghreb",
+      "zumbara-et",
+      "zokra-ly2"
+    ],
+    "ensemblePairing": [
+      "kayamba",
+      "orutu",
+      "obokano"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "ngoma-tz",
+    "name": "Ngoma (Tanzanian)",
+    "latin": "Ngoma",
+    "origin": "Tanzania",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "General and named drum types central to Tanzanian traditional dance music.",
+    "countryCode": "TZ",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "211",
+      "gloss": "directly struck membranophone"
+    },
+    "relatedInstruments": [
+      "marimba-tz",
+      "vugo",
+      "rimba",
+      "msondo"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "zeze",
+      "zurna-maghreb"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "lokanga-voatavo-mg",
+    "name": "Lokanga voatavo",
+    "latin": "Lokanga voatavo",
+    "origin": "Madagascar",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A gourd-resonated fiddle of Malagasy traditional music.",
+    "countryCode": "MG",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "valiha-mg-already",
+      "lokanga",
+      "valiha-already",
+      "valiha"
+    ],
+    "ensemblePairing": [
+      "jedara",
+      "sodina",
+      "antsiva"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "dita-et",
+    "name": "Dita",
+    "latin": "Dita",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A five-string lyre of southern Ethiopian traditional music.",
+    "countryCode": "ET",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "krar-azmari-et",
+      "krar",
+      "begena-liturgical-et",
+      "begena"
+    ],
+    "ensemblePairing": [
+      "tsenatsil",
+      "zumbara-et",
+      "washint-oromo-et"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "nyatiti",
+      "guembri"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "oud-eg",
+    "name": "Oud (Egyptian)",
+    "latin": "Oud",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "The short-neck lute central to Egyptian classical and folk practice.",
+    "countryCode": "EG",
+    "technique": "plucked",
+    "materials": "wood body, gut or nylon strings",
+    "classification": {
+      "code": "321.321-6",
+      "gloss": "necked bowl lutes; with sympathetic or drone strings"
+    },
+    "relatedInstruments": [
+      "simsimiyya-eg-already",
+      "qanun-eg",
+      "rebab-egypt",
+      "oud-tn"
+    ],
+    "ensemblePairing": [
+      "riq-egyptian-eg",
+      "salamiyya",
+      "tabla-masri-eg"
+    ],
+    "relatedInstruments2": [
+      "oud-tn",
+      "mandole",
+      "krar"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "sparta-dz",
+    "name": "Nay (Algerian)",
+    "latin": "Nay",
+    "origin": "Algeria",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown reed flute of Algerian Andalusian and folk practice.",
+    "countryCode": "DZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "gasba-oran-dz",
+      "gasba-dz-already",
+      "gasba-chaabi-dz",
+      "gasba"
+    ],
+    "ensemblePairing": [
+      "tar-dz",
+      "guembri-algerian-dz",
+      "bendir-dz"
+    ],
+    "relatedInstruments2": [
+      "ney-tn2",
+      "nay-ma",
+      "agwara"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "krar",
+      "riq"
+    ]
+  },
+  {
+    "id": "darbouka-tn-folk",
+    "name": "Tar (Tunisian)",
+    "latin": "Tar",
+    "origin": "Tunisia",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A frame drum of Tunisian folk and ceremonial music.",
+    "countryCode": "TN",
+    "technique": "struck",
+    "materials": null,
+    "classification": {
+      "code": "321.321-6",
+      "gloss": "necked bowl lutes; with sympathetic or drone strings"
+    },
+    "relatedInstruments": [
+      "tabla-tn",
+      "darbuka-tn2",
+      "darbouka-tunisian-tn",
+      "bendir-tn"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "oud-tn",
+      "ney-tn2"
+    ],
+    "relatedInstruments2": [
+      "tar-dz",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "guedra-drum-ma",
+    "name": "Guedra drum",
+    "latin": "Guedra drum",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A drum accompanying the Saharan Guedra dance tradition in Morocco.",
+    "countryCode": "MA",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tbel-gnawa-ma",
+      "tbel",
+      "tarija",
+      "qraqeb-gnawa-ma"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "ribab-ma",
+      "qasba-ma"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "qanun-eg",
+    "name": "Qanun (Egyptian)",
+    "latin": "Qanun",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A trapezoidal zither of Egyptian classical and folk ensembles.",
+    "countryCode": "EG",
+    "technique": "plucked",
+    "materials": null,
+    "classification": {
+      "code": "314.122-6",
+      "gloss": "with resonator box (box zither); with sympathetic or drone strings"
+    },
+    "relatedInstruments": [
+      "simsimiyya-eg-already",
+      "oud-eg",
+      "rebab-egypt",
+      "zeze"
+    ],
+    "ensemblePairing": [
+      "riq-egyptian-eg",
+      "salamiyya",
+      "tabla-masri-eg"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "zumbara-et",
+    "name": "Zumbara",
+    "latin": "Zumbara",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A side-blown horn used in some Ethiopian traditional ensembles.",
+    "countryCode": "ET",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "washint-oromo-et",
+      "washint-amhara-et",
+      "washint",
+      "meleket"
+    ],
+    "ensemblePairing": [
+      "tsenatsil",
+      "masenqo-azmari-et",
+      "masenqo"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "ndere-ug",
+    "name": "Ndere",
+    "latin": "Ndere",
+    "origin": "Uganda",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown flute of Ugandan traditional music.",
+    "countryCode": "UG",
+    "technique": "blown",
+    "materials": "the hide of cattle",
+    "classification": null,
+    "relatedInstruments": [
+      "ikondere",
+      "endere",
+      "agwara",
+      "zurna-maghreb"
+    ],
+    "ensemblePairing": [
+      "entenga",
+      "oseke",
+      "kissar-sd-already"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "mijwiz-levant",
+      "washint"
+    ],
+    "ensemblePairing2": [
+      "riq",
+      "mandole",
+      "kebero"
+    ]
+  },
+  {
+    "id": "arghul-tawil-eg",
+    "name": "Arghul tawil",
+    "latin": "Arghul tawil",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "The longer arghul of Egyptian folk tradition.",
+    "countryCode": "EG",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "mijwiz-levant",
+      "arghul-qasir-eg",
+      "salamiyya",
+      "mizmar-saiidi-eg"
+    ],
+    "ensemblePairing": [
+      "tabla-masri-eg",
+      "simsimiyya-eg-already",
+      "tabla-egypian"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "washint"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "kebero"
+    ]
+  },
+  {
+    "id": "arghul-qasir-eg",
+    "name": "Arghul qasir",
+    "latin": "Arghul qasir",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "The shorter arghul of Egyptian folk music.",
+    "countryCode": "EG",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "mijwiz-levant",
+      "arghul-tawil-eg",
+      "salamiyya",
+      "mizmar-saiidi-eg"
+    ],
+    "ensemblePairing": [
+      "tabla-masri-eg",
+      "simsimiyya-eg-already",
+      "tabla-egypian"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "washint"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "kebero"
+    ]
+  },
+  {
+    "id": "mizmar-saiidi-eg",
+    "name": "Mizmar Saiidi",
+    "latin": "Mizmar Saiidi",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An Upper Egyptian shawm of Saiidi ensembles.",
+    "countryCode": "EG",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "mizmar-baladi",
+      "mizmar",
+      "salamiyya",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing": [
+      "sagat-saiidi-eg",
+      "simsimiyya-eg-already",
+      "tabla-masri-eg"
+    ],
+    "relatedInstruments2": [
+      "mizmar-dj",
+      "mizwad",
+      "agwara"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "kebero"
+    ]
+  },
+  {
+    "id": "ginbri-ma",
+    "name": "Ginbri",
+    "latin": "Ginbri",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A three-stringed bass lute of Gnawa music in Morocco.",
+    "countryCode": "MA",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "ribab-ma",
+      "lotar",
+      "guembri-gnawa-ma",
+      "guembri"
+    ],
+    "ensemblePairing": [
+      "tbel-gnawa-ma",
+      "qasba-ma",
+      "tbel"
+    ],
+    "relatedInstruments2": [
+      "mandole",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "mezoued-tn",
+    "name": "Mezoued",
+    "latin": "Mezoued",
+    "origin": "Tunisia",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A Tunisian bagpipe of folk dance music.",
+    "countryCode": "TN",
+    "technique": "blown",
+    "materials": "ewe's leather, with a joined double-chanter, terminating in two cow horns, similar to a hornpipe (instrument",
+    "classification": null,
+    "relatedInstruments": [
+      "mezoued-sfax-tn",
+      "zurna-maghreb",
+      "ney-tn2",
+      "mizwad"
+    ],
+    "ensemblePairing": [
+      "tabla-tn",
+      "oud-tn",
+      "tabl"
+    ],
+    "relatedInstruments2": [
+      "agwara",
+      "mijwiz-levant",
+      "washint"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "tbila-dz",
+    "name": "Tbila",
+    "latin": "Tbila",
+    "origin": "Algeria",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Paired goblet drums of Algerian traditional music.",
+    "countryCode": "DZ",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tar-dz",
+      "guellal",
+      "darbouka-dz2",
+      "bendir-dz"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "mandole",
+      "sparta-dz"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "sagat-saiidi-eg",
+    "name": "Sagat Saiidi",
+    "latin": "Sagat Saiidi",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Finger cymbals of Upper Egyptian Saiidi music.",
+    "countryCode": "EG",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "sagat",
+      "tabla-masri-eg",
+      "tabla-egypian",
+      "tabl-baladi"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "simsimiyya-eg-already",
+      "mizmar-saiidi-eg"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "kebero",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "washint-amhara-et",
+    "name": "Washint Amhara",
+    "latin": "Washint Amhara",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown flute of Amhara traditional music.",
+    "countryCode": "ET",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "washint-oromo-et",
+      "washint",
+      "zumbara-et",
+      "meleket"
+    ],
+    "ensemblePairing": [
+      "tsenatsil",
+      "masenqo-azmari-et",
+      "masenqo"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "kebero-beata-et",
+    "name": "Kebero beata",
+    "latin": "Kebero beata",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A liturgical drum of Ethiopian Orthodox music.",
+    "countryCode": "ET",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "kebero-tigray-et",
+      "kebero",
+      "tsenatsil",
+      "kebero-already"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "masenqo-azmari-et",
+      "zumbara-et"
+    ],
+    "relatedInstruments2": [
+      "kebero-er",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "masenqo-azmari-et",
+    "name": "Masenqo azmari",
+    "latin": "Masenqo azmari",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A one-string fiddle of Ethiopian azmari tradition.",
+    "countryCode": "ET",
+    "technique": "bowed",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "masenqo",
+      "krar-azmari-et",
+      "krar",
+      "dita-et"
+    ],
+    "ensemblePairing": [
+      "tsenatsil",
+      "zumbara-et",
+      "washint-oromo-et"
+    ],
+    "relatedInstruments2": [
+      "rebab-egypt",
+      "endingidi",
+      "rababa-ss"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "endingidi-already",
+      "cornemuse-du-centre"
+    ]
+  },
+  {
+    "id": "tabla-masri-eg",
+    "name": "Tabla masri",
+    "latin": "Tabla masri",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "An Egyptian goblet drum of classical and folk music.",
+    "countryCode": "EG",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tabla-egypian",
+      "tabl-baladi",
+      "sagat-saiidi-eg",
+      "sagat"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "simsimiyya-eg-already",
+      "salamiyya"
+    ],
+    "relatedInstruments2": [
+      "tabla-tn",
+      "empuunyi",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "riq-egyptian-eg",
+    "name": "Riq egyptian",
+    "latin": "Riq egyptian",
+    "origin": "Egypt",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A jingled frame drum of Egyptian traditional ensembles.",
+    "countryCode": "EG",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "riq",
+      "tabla-masri-eg",
+      "tabla-egypian",
+      "tabl-baladi"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "simsimiyya-eg-already",
+      "salamiyya"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "kebero",
+      "tom"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "guembri-gnawa-ma",
+    "name": "Guembri gnawa",
+    "latin": "Guembri gnawa",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A three-string bass lute of Gnawa ceremonial music.",
+    "countryCode": "MA",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "guembri",
+      "ribab-ma",
+      "lotar",
+      "ginbri-ma"
+    ],
+    "ensemblePairing": [
+      "tbel-gnawa-ma",
+      "qasba-ma",
+      "qraqeb-gnawa-ma"
+    ],
+    "relatedInstruments2": [
+      "guembri-algerian-dz",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "tbel-gnawa-ma",
+    "name": "Tbel gnawa",
+    "latin": "Tbel gnawa",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Large drums of Gnawa ceremonial ensembles.",
+    "countryCode": "MA",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tbel",
+      "qraqeb-gnawa-ma",
+      "tarija",
+      "qraqeb"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "guembri-gnawa-ma",
+      "qasba-ma"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "gasba-chaabi-dz",
+    "name": "Gasba chaabi",
+    "latin": "Gasba chaabi",
+    "origin": "Algeria",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown flute of Algerian chaabi tradition.",
+    "countryCode": "DZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "gasba-oran-dz",
+      "gasba",
+      "sparta-dz",
+      "gasba-dz-already"
+    ],
+    "ensemblePairing": [
+      "tbila-dz",
+      "mandole",
+      "tar-dz"
+    ],
+    "relatedInstruments2": [
+      "gasba-tn",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "krar",
+      "riq"
+    ]
+  },
+  {
+    "id": "krar-azmari-et",
+    "name": "Krar azmari",
+    "latin": "Krar azmari",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A bowl lyre of Ethiopian azmari tradition.",
+    "countryCode": "ET",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "krar",
+      "dita-et",
+      "begena-liturgical-et",
+      "begena"
+    ],
+    "ensemblePairing": [
+      "tsenatsil",
+      "zumbara-et",
+      "washint-oromo-et"
+    ],
+    "relatedInstruments2": [
+      "krar-er",
+      "mandole",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "begena-liturgical-et",
+    "name": "Begena liturgical",
+    "latin": "Begena liturgical",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A large box lyre of Ethiopian Orthodox music.",
+    "countryCode": "ET",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "begena",
+      "krar-azmari-et",
+      "krar",
+      "dita-et"
+    ],
+    "ensemblePairing": [
+      "tsenatsil",
+      "zumbara-et",
+      "washint-oromo-et"
+    ],
+    "relatedInstruments2": [
+      "begena-er",
+      "mandole",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "bendir-moroccan-ma",
+    "name": "Bendir Moroccan",
+    "latin": "Bendir Moroccan",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A frame drum of Moroccan traditional music.",
+    "countryCode": "MA",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "bendir",
+      "tbel-gnawa-ma",
+      "tbel",
+      "tarija"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "ribab-ma",
+      "nay-ma"
+    ],
+    "relatedInstruments2": [
+      "bendir-dz",
+      "bendir-tn",
+      "bendir-ly"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "qraqeb-gnawa-ma",
+    "name": "Qraqeb Gnawa",
+    "latin": "Qraqeb Gnawa",
+    "origin": "Morocco",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "Metal castanets of Gnawa ceremonial music.",
+    "countryCode": "MA",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tbel-gnawa-ma",
+      "qraqeb",
+      "tbel",
+      "tarija"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "guembri-gnawa-ma",
+      "qasba-ma"
+    ],
+    "relatedInstruments2": [
+      "empuunyi",
+      "riq",
+      "kebero"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "darbouka-tunisian-tn",
+    "name": "Darbouka Tunisian",
+    "latin": "Darbouka Tunisian",
+    "origin": "Tunisia",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A goblet drum of Tunisian traditional music.",
+    "countryCode": "TN",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "tabla-tn",
+      "darbuka-tn2",
+      "darbouka-tn-folk",
+      "bendir-tn"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "oud-tn",
+      "ney-tn2"
+    ],
+    "relatedInstruments2": [
+      "darbouka-dz2",
+      "darbuka-km2",
+      "empuunyi"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  },
+  {
+    "id": "mezoued-sfax-tn",
+    "name": "Mezoued Sfax",
+    "latin": "Mezoued Sfax",
+    "origin": "Tunisia",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "A bagpipe tradition associated with Sfax.",
+    "countryCode": "TN",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "mezoued-tn",
+      "zurna-maghreb",
+      "ney-tn2",
+      "mizwad"
+    ],
+    "ensemblePairing": [
+      "tabla-tn",
+      "oud-tn",
+      "tabl"
+    ],
+    "relatedInstruments2": [
+      "agwara",
+      "mijwiz-levant",
+      "washint"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "guembri-algerian-dz",
+    "name": "Guembri Algerian",
+    "latin": "Guembri Algerian",
+    "origin": "Algeria",
+    "region": "North & East Africa",
+    "family": "string",
+    "note": "A three-string bass lute of Algerian Diwan music.",
+    "countryCode": "DZ",
+    "technique": "plucked",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "mandole",
+      "kwitra",
+      "guembri-gnawa-ma",
+      "guembri"
+    ],
+    "ensemblePairing": [
+      "tar-dz",
+      "sparta-dz",
+      "bendir-dz"
+    ],
+    "relatedInstruments2": [
+      "guembri",
+      "krar",
+      "nyatiti"
+    ],
+    "ensemblePairing2": [
+      "mbira-dzavadzimu-zw",
+      "likembe",
+      "mizwad"
+    ]
+  },
+  {
+    "id": "gasba-oran-dz",
+    "name": "Gasba Oran",
+    "latin": "Gasba Oran",
+    "origin": "Algeria",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown flute of Oran folk tradition.",
+    "countryCode": "DZ",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "gasba-chaabi-dz",
+      "gasba",
+      "sparta-dz",
+      "gasba-dz-already"
+    ],
+    "ensemblePairing": [
+      "tbila-dz",
+      "mandole",
+      "tar-dz"
+    ],
+    "relatedInstruments2": [
+      "gasba-tn",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "krar",
+      "riq"
+    ]
+  },
+  {
+    "id": "washint-oromo-et",
+    "name": "Washint Oromo",
+    "latin": "Washint Oromo",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "wind",
+    "note": "An end-blown flute of Oromo traditional music.",
+    "countryCode": "ET",
+    "technique": "blown",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "washint-amhara-et",
+      "washint",
+      "zumbara-et",
+      "meleket"
+    ],
+    "ensemblePairing": [
+      "tsenatsil",
+      "masenqo-azmari-et",
+      "masenqo"
+    ],
+    "relatedInstruments2": [
+      "mizwad",
+      "agwara",
+      "mijwiz-levant"
+    ],
+    "ensemblePairing2": [
+      "ebinyege",
+      "mandole",
+      "riq"
+    ]
+  },
+  {
+    "id": "kebero-tigray-et",
+    "name": "Kebero Tigray",
+    "latin": "Kebero Tigray",
+    "origin": "Ethiopia",
+    "region": "North & East Africa",
+    "family": "percussion",
+    "note": "A double-headed drum of Tigray tradition.",
+    "countryCode": "ET",
+    "technique": "struck",
+    "materials": null,
+    "classification": null,
+    "relatedInstruments": [
+      "kebero-beata-et",
+      "kebero",
+      "tsenatsil",
+      "kebero-already"
+    ],
+    "ensemblePairing": [
+      "inanga-rw-already",
+      "masenqo-azmari-et",
+      "zumbara-et"
+    ],
+    "relatedInstruments2": [
+      "kebero-er",
+      "empuunyi",
+      "riq"
+    ],
+    "ensemblePairing2": [
+      "moog",
+      "inanga-rw-already",
+      "clavichord"
+    ]
+  }
+]
