@@ -28,12 +28,12 @@ function publicAppUrl(envKey: string, fallback: string): string {
 
 export const PEAKS3141_URL = publicAppUrl(
   "NEXT_PUBLIC_PEAKS3141_URL",
-  "https://project-wbn03.vercel.app",
+  "https://p-jeongs-projects-8253a162.vercel.app",
 );
 
 export const VOICE3141_URL = publicAppUrl(
   "NEXT_PUBLIC_VOICE3141_URL",
-  "https://voicedy4245.pinet.com",
+  "https://v-jeongs-projects-8253a162.vercel.app",
 );
 
 /**
