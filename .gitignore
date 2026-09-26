@@ -23,6 +23,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# Pi Portal — source of truth is repo-root validation-key.txt (synced at build)
+/public/validation-key.txt
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
