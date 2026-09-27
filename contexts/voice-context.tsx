@@ -38,7 +38,9 @@ import {
   type OwnershipDeed,
 } from "@/lib/voice/ownership-deed";
 import {
+  hasUnlockAccess,
   isRestoreOwned,
+  OWNERSHIP_DEED_SEALED_EVENT,
   purchaseQtyForUnlock,
   TEST_PI_PRICE,
   UNLOCK_FALLBACK,
@@ -413,24 +415,21 @@ export function VoiceProvider({ children }: { children: ReactNode }) {
 
   const restoreOwned = useMemo(
     () =>
-      isRestoreOwned(restoredPurchases, unlockProduct, [
+      hasUnlockAccess(restoredPurchases, unlockProduct, localDeed, [
         localDeed?.productId,
         localDeed?.productSlug,
       ]),
-    [
-      localDeed?.productId,
-      localDeed?.productSlug,
-      restoredPurchases,
-      unlockProduct,
-    ],
+    [localDeed, restoredPurchases, unlockProduct],
   );
 
-  /**
-   * Unlock from Pi restoredPurchases (hardcoded product id match — catalog optional).
-   * purchaseConfirmed covers the brief window after checkout before restore catches up.
-   * Local deed alone never grants access.
-   */
   const isUnlocked = restoreOwned || purchaseConfirmed;
+
+  useEffect(() => {
+    const syncDeed = () => setLocalDeed(readLocalDeed());
+    window.addEventListener(OWNERSHIP_DEED_SEALED_EVENT, syncDeed);
+    return () =>
+      window.removeEventListener(OWNERSHIP_DEED_SEALED_EVENT, syncDeed);
+  }, []);
 
   useEffect(() => {
     if (restoreOwned) setPurchaseConfirmed(true);
