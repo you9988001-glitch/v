@@ -28,17 +28,17 @@ function publicAppUrl(envKey: string, fallback: string): string {
 
 export const PEAKS3141_URL = publicAppUrl(
   "NEXT_PUBLIC_PEAKS3141_URL",
-  "https://p-jeongs-projects-8253a162.vercel.app",
+  "https://p-rho-rust.vercel.app",
 );
 
 export const VOICE3141_URL = publicAppUrl(
   "NEXT_PUBLIC_VOICE3141_URL",
-  "https://v-jeongs-projects-8253a162.vercel.app",
+  "https://v-beta-two.vercel.app",
 );
 
 /**
  * Curator order (fixed): Pass Pi → ARCHE1 → ARCHE0 → Peaks3141 → Voice3141 → Pulse Pi.
- * Peaks/Voice public URLs: set NEXT_PUBLIC_* on Vercel (or legacy pinet fallbacks).
+ * Peaks/Voice public URLs: set NEXT_PUBLIC_* on Vercel or use defaults below.
  */
 export const CODE_ARCHE_APPS: CodeArcheApp[] = [
   {
