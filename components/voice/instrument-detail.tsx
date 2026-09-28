@@ -92,8 +92,8 @@ function VoicePaywall() {
   const appName = "Voice 3141";
 
   return (
-    <div className="mx-auto flex min-h-[70dvh] w-full max-w-md flex-col justify-center px-5 pb-10 pt-6 md:max-w-lg">
-      <div className="rounded-3xl border border-[color:var(--v-line)] bg-[color:var(--v-panel-solid)] p-5">
+    <div className="mx-auto w-full max-w-md px-5 pb-10 pt-2 md:max-w-2xl">
+      <div className="rounded-3xl border border-[color:var(--v-line)] bg-[color:var(--v-panel-solid)] p-5 shadow-[0_20px_50px_rgba(0,0,0,0.35)]">
         <div className="rounded-2xl border border-[color:var(--v-string)]/40 bg-[rgba(232,195,106,0.14)] px-4 py-3">
           <p className="text-[0.88rem] leading-relaxed text-[color:var(--v-ink)]">
             {PAYMENT_ENV.intro}
@@ -112,14 +112,14 @@ function VoicePaywall() {
           </span>
         </div>
 
-        <h2 className="font-display mt-2 text-[1.75rem] leading-tight text-[color:var(--v-ink)]">
+        <h2 className="font-display mt-2 text-[1.85rem] leading-tight text-[color:var(--v-ink)]">
           {checking
             ? PAYMENT_ENV.checkingTitle
             : isUnlocked
               ? PAYMENT_ENV.unlockedTitle
               : PAYMENT_ENV.payTitle}
         </h2>
-        <p className="mt-2 text-[0.95rem] leading-relaxed text-[color:var(--v-muted)]">
+        <p className="mt-2 text-[0.92rem] leading-relaxed text-[color:var(--v-muted)]">
           {checking
             ? PAYMENT_ENV.checkingBody
             : isUnlocked
@@ -142,7 +142,7 @@ function VoicePaywall() {
                 </p>
               ) : (
                 <>
-                  <p className="text-lg font-semibold text-[color:var(--v-ink)]">
+                  <p className="font-display text-lg text-[color:var(--v-ink)]">
                     {appName}
                   </p>
                   <p className="v-nums mt-3 text-xl font-semibold text-[color:var(--v-brass-deep)]">
@@ -279,8 +279,8 @@ export function InstrumentDetail({
   /* Locked: wait for restore, then payment only — no instrument name / art / notes. */
   if (!isUnlocked) {
     return (
-      <Overlay onClose={closeInstrument} labelledBy="paywall-title" full>
-        <div className="v-safe-top flex items-center justify-between px-3 pt-3">
+      <div className="anim-fade-in fixed inset-0 z-[120] flex flex-col bg-[color:var(--v-bg)]">
+        <div className="v-safe-top flex shrink-0 items-center justify-between px-3 pt-3">
           <button
             onClick={closeInstrument}
             aria-label="Back"
@@ -293,8 +293,10 @@ export function InstrumentDetail({
         <h1 id="paywall-title" className="sr-only">
           Payment
         </h1>
-        <VoicePaywall />
-      </Overlay>
+        <div className="min-h-0 flex-1 overflow-y-auto overscroll-y-contain">
+          <VoicePaywall />
+        </div>
+      </div>
     );
   }
 
