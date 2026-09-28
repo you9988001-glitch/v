@@ -36,7 +36,7 @@ export function CatalogScreen() {
   }, [q, regionId]);
 
   return (
-    <div className="mx-auto max-w-md px-5 pt-5 pb-6">
+    <div className="mx-auto w-full max-w-md px-5 pt-5 pb-6 md:max-w-2xl">
       <h1 className="font-display text-[1.9rem] text-[color:var(--v-ink)]">
         Catalog
       </h1>

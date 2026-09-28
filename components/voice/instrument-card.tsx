@@ -13,6 +13,10 @@ import {
   cx,
 } from "./ui";
 
+/** List-row art — Catalog tab matches Regions browse lists. */
+const LIST_INSTRUMENT_ART =
+  "h-[4.75rem] w-[4.75rem] shrink-0 rounded-xl sm:h-20 sm:w-20 md:h-[5.25rem] md:w-[5.25rem] md:rounded-2xl";
+
 function SavedDot() {
   return (
     <span
@@ -92,12 +96,12 @@ export function InstrumentRow({
       >
         <InstrumentArt
           instrument={instrument}
-          className="h-16 w-16 shrink-0 rounded-xl"
-          glyphSize={26}
+          className={LIST_INSTRUMENT_ART}
+          glyphSize={34}
         />
         <div className="min-w-0 flex-1">
           <div className="flex items-center gap-2">
-            <h3 className="font-display text-[15px] font-semibold text-[color:var(--v-ink)] v-clamp-1">
+            <h3 className="font-display text-[15px] font-semibold text-[color:var(--v-ink)] v-clamp-1 md:text-base">
               {instrument.name}
             </h3>
             {saved ? <SavedDot /> : null}
