@@ -281,7 +281,8 @@ function NoOwnershipModal({ onClose }: { onClose: () => void }) {
           Nothing in your collection yet
         </h2>
         <p className="mt-3 text-[0.88rem] leading-relaxed text-[color:var(--v-muted)]">
-          Unlock any instrument&apos;s detail page to seal your collection record here.
+          Open any instrument&apos;s detail page. After sealed unlock, collect it
+          into your collection and hold it.
         </p>
         <Button className="mt-5 w-full" onClick={onClose}>
           Close
