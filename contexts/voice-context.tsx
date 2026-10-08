@@ -47,6 +47,7 @@ import {
 } from "@/lib/voice/unlock-gate";
 import { PAYMENT_ENV, catalogPriceMatchesUnlock } from "@/lib/payment-env";
 import { resolveUnlockProduct } from "@/lib/resolve-unlock-product";
+import { isPaywallPreviewOnly } from "@/lib/paywall-preview-only";
 import {
   patchVoiceUiResume,
   readVoiceUiResume,
@@ -422,7 +423,8 @@ export function VoiceProvider({ children }: { children: ReactNode }) {
     [localDeed, restoredPurchases, unlockProduct],
   );
 
-  const isUnlocked = restoreOwned || purchaseConfirmed;
+  const isUnlocked =
+    (restoreOwned || purchaseConfirmed) && !isPaywallPreviewOnly();
 
   useEffect(() => {
     const syncDeed = () => setLocalDeed(readLocalDeed());
@@ -553,7 +555,7 @@ export function VoiceProvider({ children }: { children: ReactNode }) {
         await new Promise((r) => window.setTimeout(r, 700));
       }
       await refreshPurchases();
-      toast("Purchase sealed — ownership proof saved");
+      toast("Purchase sealed — collection proof saved");
       return deed;
     } catch (error) {
       const code = (error as { code?: string })?.code;
