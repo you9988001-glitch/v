@@ -94,11 +94,11 @@ function VoicePaywall() {
   return (
     <div className="mx-auto w-full max-w-md px-5 pb-10 pt-2 md:max-w-2xl">
       <div className="rounded-3xl border border-[color:var(--v-line)] bg-[color:var(--v-panel-solid)] p-5 shadow-[0_20px_50px_rgba(0,0,0,0.35)]">
-        <div className="rounded-2xl border border-[color:var(--v-string)]/40 bg-[rgba(232,195,106,0.14)] px-4 py-3">
-          <p className="text-[0.88rem] leading-relaxed text-[color:var(--v-ink)]">
+        <div className="rounded-2xl border border-[color:var(--v-string)]/40 bg-[rgba(232,195,106,0.14)] px-5 py-5">
+          <p className="text-[0.95rem] leading-relaxed text-[color:var(--v-ink)]">
             {PAYMENT_ENV.intro}
           </p>
-          <p className="mt-2 text-[0.8rem] leading-relaxed text-[color:var(--v-muted)]">
+          <p className="mt-3 text-[0.82rem] leading-relaxed text-[color:var(--v-muted)]">
             {PAYMENT_ENV.credit}
           </p>
         </div>
@@ -112,20 +112,28 @@ function VoicePaywall() {
           </span>
         </div>
 
-        <h2 className="font-display mt-2 text-[1.85rem] leading-tight text-[color:var(--v-ink)]">
+        <h2
+          className={
+            checking || isUnlocked
+              ? "font-display mt-2 text-[1.45rem] leading-snug text-[color:var(--v-ink)]"
+              : "font-display mt-2 text-[1.2rem] leading-snug text-[color:var(--v-ink)]"
+          }
+        >
           {checking
             ? PAYMENT_ENV.checkingTitle
             : isUnlocked
               ? PAYMENT_ENV.unlockedTitle
               : PAYMENT_ENV.payTitle}
         </h2>
-        <p className="mt-2 text-[0.92rem] leading-relaxed text-[color:var(--v-muted)]">
-          {checking
-            ? PAYMENT_ENV.checkingBody
-            : isUnlocked
-              ? PAYMENT_ENV.unlockedBody(appName)
-              : PAYMENT_ENV.testNote}
-        </p>
+        {(checking || isUnlocked || PAYMENT_ENV.testNote) && (
+          <p className="mt-2 text-[0.92rem] leading-relaxed text-[color:var(--v-muted)]">
+            {checking
+              ? PAYMENT_ENV.checkingBody
+              : isUnlocked
+                ? PAYMENT_ENV.unlockedBody(appName)
+                : PAYMENT_ENV.testNote}
+          </p>
+        )}
 
         {!checking && !isUnlocked ? (
           <>
